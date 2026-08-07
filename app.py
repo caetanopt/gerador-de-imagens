@@ -117,10 +117,18 @@ ul[data-baseweb] li * {
     font-weight: 500 !important;
 }
 
+/* Fundo sólido e opaco (não uma camada translúcida sobre o que estiver
+   por baixo) — no modo claro do Streamlit, o campo já vem com fundo
+   branco próprio, e uma camada só semi-transparente (10%) não o
+   escurece o suficiente, deixando o texto branco ilegível sobre branco. */
 .st-key-control_panel [data-baseweb="select"] > div {
-    background-color: rgba(255,255,255,.1) !important;
+    background-color: #0f3d73 !important;
     border-color: rgba(255,255,255,.28) !important;
     border-radius: 8px !important;
+}
+
+.st-key-control_panel [data-baseweb="select"] > div * {
+    background-color: transparent !important;
 }
 
 .st-key-control_panel [data-baseweb="select"] span {

@@ -72,10 +72,18 @@ def _inject_backoffice_css():
         color: rgba(0,0,0,.45) !important;
     }
 
+    /* Fundo sólido e opaco — no modo claro do Streamlit o campo já vem
+       com fundo branco próprio, e uma camada só semi-transparente não o
+       escurece o suficiente, deixando o texto branco ilegível sobre
+       branco (mesmo problema já corrigido no painel principal). */
     .st-key-bo_panel [data-baseweb="select"] > div {
-        background-color: rgba(255,255,255,.12) !important;
+        background-color: #0f3d73 !important;
         border-color: rgba(255,255,255,.32) !important;
         border-radius: 8px !important;
+    }
+
+    .st-key-bo_panel [data-baseweb="select"] > div * {
+        background-color: transparent !important;
     }
 
     .st-key-bo_panel [data-baseweb="select"] span {
@@ -83,7 +91,7 @@ def _inject_backoffice_css():
     }
 
     .st-key-bo_panel [data-baseweb="tag"] {
-        background-color: rgba(255,255,255,.18) !important;
+        background-color: #1a5fa0 !important;
     }
 
     .st-key-bo_panel [data-testid="stFormSubmitButton"] > button {
