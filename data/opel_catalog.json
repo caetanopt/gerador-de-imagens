@@ -55,7 +55,8 @@
             {
               "code": "ZHG9",
               "name": "Jantes em liga leve, 6.5J x 16",
-              "price": 400
+              "price": 400,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/J/2/B0/1GJO/A5/Features/ZHG9/ZHG9.jpg"
             }
           ]
         },
@@ -145,18 +146,7 @@
               "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NWP.jpg"
             }
           ],
-          "wheels": [
-            {
-              "code": "",
-              "name": "Jantes",
-              "price": 0
-            },
-            {
-              "code": "ZH0Q",
-              "name": "Jantes em liga leve, 7.0J x 17",
-              "price": 350
-            }
-          ]
+          "wheels": []
         }
       ]
     },
@@ -215,7 +205,8 @@
             {
               "code": "ZIAI",
               "name": "Jantes em liga leve de 17\" bi-cor",
-              "price": 400
+              "price": 400,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/C/2/L0/1GO3/SU/Features/ZIAI/ZIAI.jpg"
             }
           ]
         },
@@ -320,7 +311,8 @@
             {
               "code": "ZHP8",
               "name": "Jantes de liga leve de 17\", bi-cor",
-              "price": 400
+              "price": 400,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/6/2/B0/1GQO/SY/Features/ZHP8/ZHP8.jpg"
             }
           ]
         },
@@ -375,7 +367,8 @@
             {
               "code": "ZHQ1",
               "name": "Jantes de liga leve de 18\", bi-cor",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/6/2/B0/1GQO/SY/Features/ZHQ1/ZHQ1.jpg"
             }
           ]
         },
@@ -486,7 +479,8 @@
             {
               "code": "ZHYF",
               "name": "Jantes de liga leve Kadett de 17\", bi-cor",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/A5/Features/ZHYF/ZHYF.jpg"
             }
           ]
         },
@@ -547,12 +541,14 @@
             {
               "code": "ZHYH",
               "name": "Jantes de liga leve Pentagon de 18\",  bi-cor, inserções em cinzento Storm",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/A5/Features/ZHYH/ZHYH.jpg"
             },
             {
               "code": "ZHZI",
               "name": "Jantes de liga leve Pentagon de 18\", Preto",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/A5/Features/ZHZI/ZHZI.jpg"
             }
           ]
         }
@@ -619,7 +615,8 @@
             {
               "code": "ZHYF",
               "name": "Jantes de liga leve Kadett de 17\", bi-cor",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/C5/Features/ZHYF/ZHYF.jpg"
             }
           ]
         },
@@ -680,12 +677,14 @@
             {
               "code": "ZHYH",
               "name": "Jantes de liga leve Pentagon de 18\",  bi-cor, inserções em cinzento Storm",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/C5/Features/ZHYH/ZHYH.jpg"
             },
             {
               "code": "ZHZI",
               "name": "Jantes de liga leve Pentagon de 18\", Preto",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/F/0/B0/1GO5/C5/Features/ZHZI/ZHZI.jpg"
             }
           ]
         }
@@ -746,7 +745,8 @@
             {
               "code": "ZHIX",
               "name": "Jantes em Liga Leve de 19\" efeito Corte de Diamante (M12)",
-              "price": 100
+              "price": 100,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/C/2/L0/1GO6/SY/Features/ZHIX/ZHIX.jpg"
             }
           ]
         },
@@ -889,7 +889,8 @@
             {
               "code": "DZSD",
               "name": "Jantes de liga leve 16 x 6.5 J",
-              "price": 350
+              "price": 350,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/B/2/B0/1GK9/AF/Features/DZSD/DZSD.jpg"
             }
           ]
         },
@@ -938,7 +939,8 @@
             {
               "code": "DZG7",
               "name": "Jantes de liga leve 17 x 6.5 J",
-              "price": 100
+              "price": 100,
+              "imageUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/B/2/B0/1GK9/AF/Features/DZG7/DZG7.jpg"
             }
           ]
         }

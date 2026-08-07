@@ -44,6 +44,7 @@ query GetOptions($input: OptionsInput!) {
       id
       title
       category
+      images { url }
       prices { cash { baseAmount } }
     }
   }
@@ -106,6 +107,7 @@ def _wheels_for(external_id):
             "code": o["id"],
             "name": o["title"],
             "price": ((o.get("prices") or {}).get("cash") or {}).get("baseAmount", 0) or 0,
+            "imageUrl": ((o.get("images") or [{}])[0] or {}).get("url", ""),
         }
         for o in options
         if o.get("category") == "Jantes"

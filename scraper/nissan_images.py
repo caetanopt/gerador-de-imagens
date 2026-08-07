@@ -62,5 +62,6 @@ def images_to_zip(images: dict[str, bytes], zip_name: str = "imagens.zip") -> by
     buf = io.BytesIO()
     with zipfile.ZipFile(buf, "w", zipfile.ZIP_DEFLATED) as zf:
         for label, data in images.items():
-            zf.writestr(f"{label}.png", data)
+            ext = "jpg" if data[:3] == b"\xff\xd8\xff" else "webp"
+            zf.writestr(f"{label}.{ext}", data)
     return buf.getvalue()

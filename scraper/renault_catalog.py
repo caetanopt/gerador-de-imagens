@@ -120,28 +120,57 @@ def _extract_model_name(html: str, fallback: str, brand: str = "Renault") -> str
     return fallback.replace("-", " ").title()
 
 
-def _colors_from_design(design_colors: dict) -> list[dict]:
-    return [
-        {
+def _picture_map(vcfg: dict, node_code: str) -> dict:
+    """
+    Mapeia code -> URL de imagem a partir de `staticData.designPictures`
+    do configurador. Esse nó tem entradas por categoria (CATCOLORS1,
+    CATWHEELS1, CATUPHOLSTERIES1, ...), cada uma com uma lista `pictures`
+    de `{"url": ..., "specCode": ...}` — `specCode` corresponde exactamente
+    ao `code` das opções em `dynamicData.design` (confirmado por inspecção
+    directa da API real: pt.co.rplug.renault.com). Renault, Dacia e Alpine
+    (mesma plataforma "One") expõem este nó da mesma forma.
+    """
+    design_pictures = vcfg.get("staticData", {}).get("designPictures", [])
+    node = next((d for d in design_pictures if d.get("code") == node_code), {})
+    return {
+        p["specCode"]: p["url"]
+        for p in node.get("pictures", [])
+        if p.get("specCode") and p.get("url")
+    }
+
+
+def _colors_from_design(design_colors: dict, picture_map: dict | None = None) -> list[dict]:
+    picture_map = picture_map or {}
+    result = []
+    for c in design_colors.get("possibles", []):
+        entry = {
             "code": c["code"],
             "name": c.get("label", c["code"]),
             "price": c.get("optionPrice", 0) or 0,
             "nextURI": c.get("nextURI", ""),
         }
-        for c in design_colors.get("possibles", [])
-    ]
+        swatch_url = picture_map.get(c["code"])
+        if swatch_url:
+            entry["swatchUrl"] = swatch_url
+        result.append(entry)
+    return result
 
 
-def _wheels_from_design(design_wheels: dict) -> list[dict]:
-    return [
-        {
+def _wheels_from_design(design_wheels: dict, picture_map: dict | None = None) -> list[dict]:
+    picture_map = picture_map or {}
+    result = []
+    for w in design_wheels.get("possibles", []):
+        entry = {
             "code": w["code"],
             "name": w.get("label", w["code"]),
             "price": w.get("optionPrice", 0) or 0,
             "nextURI": w.get("nextURI", ""),
         }
-        for w in design_wheels.get("possibles", [])
-    ]
+        image_url = picture_map.get(w["code"])
+        if image_url:
+            entry["imageUrl"] = image_url
+        result.append(entry)
+    return result
 
 
 def get_wheels_for_color(configurator_url: str, conf_uri: str, color_code: str) -> list[dict]:
@@ -165,7 +194,7 @@ def get_wheels_for_color(configurator_url: str, conf_uri: str, color_code: str) 
             vcfg = get_configurator(conf_url(configurator_url, color_opt["nextURI"]))
     design = vcfg.get("dynamicData", {}).get("design", [])
     wheels_design = next((d for d in design if d.get("code") == "CATWHEELS1"), {})
-    return _wheels_from_design(wheels_design)
+    return _wheels_from_design(wheels_design, _picture_map(vcfg, "CATWHEELS1"))
 
 
 def _disambiguate_model_names(catalog: dict) -> None:
@@ -210,8 +239,8 @@ def build_catalog_generic(
                         "versionName": str,
                         "confURI": str,
                         "startingPrice": number,
-                        "colors": [{"code","name","price","nextURI"}],
-                        "wheels": [{"code","name","price","nextURI"}],
+                        "colors": [{"code","name","price","nextURI","swatchUrl"?}],
+                        "wheels": [{"code","name","price","nextURI","imageUrl"?}],
                     }
                 ]
             }
@@ -274,8 +303,8 @@ def build_catalog_generic(
                 "versionName": version_info.get("label", g.get("label", "")),
                 "confURI": next_uri,
                 "startingPrice": details.get("price", g.get("startingPrice", 0)),
-                "colors": _colors_from_design(colors_design),
-                "wheels": _wheels_from_design(wheels_design),
+                "colors": _colors_from_design(colors_design, _picture_map(vcfg, "CATCOLORS1")),
+                "wheels": _wheels_from_design(wheels_design, _picture_map(vcfg, "CATWHEELS1")),
             })
 
         if not variants:

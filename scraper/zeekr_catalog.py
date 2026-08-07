@@ -8,6 +8,11 @@ pré-gerado com um caminho previsível. Não há jantes seleccionáveis
 interior (tal como nas outras marcas, usa-se sempre a cor de série).
 
 Ângulos exterior confirmados visualmente: 1=3/4 frente, 2=lado, 3=traseira.
+Há também uma imagem "chips" por cor (esfera de pré-visualização usada no
+próprio picker de cor do configurador, classe `colour-picker__sphere`) —
+mesmo padrão de nome, mas com sufixo "-chips-" em vez do número de ângulo.
+Confirmado (GET directo) que é um ficheiro distinto das 3 fotos grandes
+(bastante mais pequeno), usado como `swatchUrl`.
 A cor exterior desliza de forma simples e fiável (minúsculas + hífen).
 A cor de interior NÃO — o nome do ficheiro tem um sufixo de material
 (ex: "-leather") que não está no nome apresentado — por isso a imagem
@@ -58,6 +63,13 @@ def _exterior_image_urls(image_folder: str, filename_slug: str, version_name: st
         "lado": f"{base}-2-{color_slug}.png",
         "traseira": f"{base}-3-{color_slug}.png",
     }
+
+
+def _exterior_swatch_url(image_folder: str, filename_slug: str, version_name: str, color_name: str) -> str:
+    """URL da esfera de pré-visualização de cor (imagem "chips" do colour-picker)."""
+    version_enc = version_name.replace(" ", "%20")
+    color_slug = _slugify(color_name)
+    return f"{IMAGE_BASE}/{image_folder}/{version_enc}/Exterior/zeekr-{filename_slug}-exterior-chips-{color_slug}.png"
 
 
 def _default_exterior_filename_slug(page) -> str:
@@ -139,6 +151,7 @@ def _build_catalog() -> dict:
                         "name": c["name"],
                         "price": c.get("price", 0) or 0,
                         "images": _exterior_image_urls(image_folder, filename_slug, version_name, c["name"]),
+                        "swatchUrl": _exterior_swatch_url(image_folder, filename_slug, version_name, c["name"]),
                     })
 
                 versions_out.append({

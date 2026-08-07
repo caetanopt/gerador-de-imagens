@@ -50,7 +50,7 @@ st.set_page_config(
     layout="wide",
 )
 
-# ── Logo Caetano (canto superior direito) ──────────────────────────────────────
+# ── Logo Caetano (barra lateral, junto à sessão) ────────────────────────────────
 _LOGO_CANDIDATES = [
     Path(__file__).parent / "data" / "logo_caetano.png",
     Path(__file__).parent / "data" / "logo_caetano.webp",
@@ -61,14 +61,10 @@ _logo_path = next((p for p in _LOGO_CANDIDATES if p.exists()), None)
 # ── CSS global (string normal — sem f-string para não precisar escapar { }) ───
 st.markdown("""
 <style>
-/* ── Logo fixo — sem fundo ── */
-.caetano-logo {
-    position: fixed;
-    top: 14px;
-    right: 80px;
-    z-index: 9999;
+/* ── Logo na barra lateral — sem fundo ── */
+.caetano-logo-sidebar {
     background: none;
-    padding: 0;
+    padding: 0 0 8px 0;
     line-height: 0;
 }
 
@@ -163,15 +159,12 @@ ul[data-baseweb] li * {
 </style>
 """, unsafe_allow_html=True)
 
-# ── Logo HTML — chamada separada para não interferir com o CSS ─────────────────
 if _logo_path:
     _logo_b64 = base64.b64encode(_logo_path.read_bytes()).decode()
     _ext = _logo_path.suffix.lstrip(".")
     _mime = "image/jpeg" if _ext == "jpg" else f"image/{_ext}"
-    st.markdown(
-        f'<div class="caetano-logo"><img src="data:{_mime};base64,{_logo_b64}" height="120" /></div>',
-        unsafe_allow_html=True,
-    )
+else:
+    _logo_b64 = None
 
 # ── Autenticação ─────────────────────────────────────────────────────────────
 if "auth_email" not in st.session_state:
@@ -187,6 +180,11 @@ current_email = st.session_state.auth_email
 is_admin_user = auth.is_admin(current_email)
 
 with st.sidebar:
+    if _logo_b64:
+        st.markdown(
+            f'<div class="caetano-logo-sidebar"><img src="data:{_mime};base64,{_logo_b64}" width="220" /></div>',
+            unsafe_allow_html=True,
+        )
     st.caption(f"Sessão: {current_email}")
     if is_admin_user:
         label = "← Voltar à ferramenta" if st.session_state.get("view") == "backoffice" else "Backoffice"
@@ -416,6 +414,9 @@ with panel:
         rcolor_map = {lbl: c for lbl, c in zip(rcolor_labels, rcolors)}
         sel_rcolor = rcolor_map[st.selectbox("Cor", rcolor_labels, key="renault_color")]
 
+        if sel_rcolor.get("swatchUrl"):
+            st.image(sel_rcolor["swatchUrl"], width=60, caption=sel_rcolor["name"])
+
         # Seletor de jantes — buscadas em tempo real para a cor escolhida
         # (nesta plataforma a validade de uma jante depende da cor; a
         # lista completa da versão inclui jantes que não servem para
@@ -430,6 +431,9 @@ with panel:
             sel_rwheel = rwheel_map[st.selectbox("Jantes", rwheel_labels, key="renault_wheels")]
         else:
             sel_rwheel = {"code": "", "name": "série"}
+
+        if sel_rwheel.get("imageUrl"):
+            st.image(sel_rwheel["imageUrl"], width=120, caption=sel_rwheel["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)
@@ -457,6 +461,9 @@ with panel:
         dcolor_map = {lbl: c for lbl, c in zip(dcolor_labels, dcolors)}
         sel_dcolor = dcolor_map[st.selectbox("Cor", dcolor_labels, key="dacia_color")]
 
+        if sel_dcolor.get("swatchUrl"):
+            st.image(sel_dcolor["swatchUrl"], width=60, caption=sel_dcolor["name"])
+
         # Seletor de jantes — buscadas em tempo real para a cor escolhida
         # (ver nota equivalente na Renault, mesma plataforma).
         dwheels = get_platform_wheels_for_color(sel_dmodel["configuratorUrl"], sel_dvariant["confURI"], sel_dcolor["code"])
@@ -469,6 +476,9 @@ with panel:
             sel_dwheel = dwheel_map[st.selectbox("Jantes", dwheel_labels, key="dacia_wheels")]
         else:
             sel_dwheel = {"code": "", "name": "série"}
+
+        if sel_dwheel.get("imageUrl"):
+            st.image(sel_dwheel["imageUrl"], width=120, caption=sel_dwheel["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)
@@ -507,6 +517,8 @@ with panel:
             ]
             owheel_map = {lbl: w for lbl, w in zip(owheel_labels, owheels)}
             sel_owheel = owheel_map[st.selectbox("Jantes", owheel_labels, key="opel_wheels")]
+            if sel_owheel.get("imageUrl"):
+                st.image(sel_owheel["imageUrl"], width=120, caption=sel_owheel["name"])
         else:
             sel_owheel = {"code": "", "name": "série"}
 
@@ -536,6 +548,8 @@ with panel:
         ]
         zcolor_map = {lbl: c for lbl, c in zip(zcolor_labels, zcolors)}
         sel_zcolor = zcolor_map[st.selectbox("Cor", zcolor_labels, key="zeekr_color")]
+        if sel_zcolor.get("swatchUrl"):
+            st.image(sel_zcolor["swatchUrl"], width=60, caption=sel_zcolor["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)
@@ -624,10 +638,14 @@ with panel:
         bmwcolor_labels = [c["name"] for c in bmwcolors]
         bmwcolor_map = {lbl: c for lbl, c in zip(bmwcolor_labels, bmwcolors)}
         sel_bmwcolor = bmwcolor_map[st.selectbox("Cor", bmwcolor_labels, key="bmw_color")]
+        if sel_bmwcolor.get("swatchUrl"):
+            st.image(sel_bmwcolor["swatchUrl"], width=60, caption=sel_bmwcolor["name"])
 
         bmwwheel_labels = [f"{w['name']} {'(série)' if w['std'] else ''}" for w in bmwwheels]
         bmwwheel_map = {lbl: w for lbl, w in zip(bmwwheel_labels, bmwwheels)}
         sel_bmwwheel = bmwwheel_map[st.selectbox("Jantes", bmwwheel_labels, key="bmw_wheels")]
+        if sel_bmwwheel.get("imageUrl"):
+            st.image(sel_bmwwheel["imageUrl"], width=120, caption=sel_bmwwheel["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)
@@ -683,6 +701,8 @@ with panel:
         ]
         mcolor_map = {lbl: c for lbl, c in zip(mcolor_labels, mcolors)}
         sel_mcolor = mcolor_map[st.selectbox("Cor", mcolor_labels, key="mercedes_color")]
+        if sel_mcolor.get("swatchUrl"):
+            st.image(sel_mcolor["swatchUrl"], width=60, caption=sel_mcolor["name"])
 
         # Seletor de jantes (algumas versões só têm a jante de série válida)
         mwheels = mvariant["wheels"]
@@ -693,6 +713,8 @@ with panel:
             ]
             mwheel_map = {lbl: w for lbl, w in zip(mwheel_labels, mwheels)}
             sel_mwheel = mwheel_map[st.selectbox("Jantes", mwheel_labels, key="mercedes_wheels")]
+            if sel_mwheel.get("imageUrl"):
+                st.image(sel_mwheel["imageUrl"], width=120, caption=sel_mwheel["name"])
         else:
             sel_mwheel = {"code": "", "name": "série"}
 
@@ -719,10 +741,14 @@ with panel:
         minicolor_labels = [c["name"] for c in minicolors]
         minicolor_map = {lbl: c for lbl, c in zip(minicolor_labels, minicolors)}
         sel_minicolor = minicolor_map[st.selectbox("Cor", minicolor_labels, key="mini_color")]
+        if sel_minicolor.get("swatchUrl"):
+            st.image(sel_minicolor["swatchUrl"], width=60, caption=sel_minicolor["name"])
 
         miniwheel_labels = [f"{w['name']} {'(série)' if w['std'] else ''}" for w in miniwheels]
         miniwheel_map = {lbl: w for lbl, w in zip(miniwheel_labels, miniwheels)}
         sel_miniwheel = miniwheel_map[st.selectbox("Jantes", miniwheel_labels, key="mini_wheels")]
+        if sel_miniwheel.get("imageUrl"):
+            st.image(sel_miniwheel["imageUrl"], width=120, caption=sel_miniwheel["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)
@@ -771,6 +797,8 @@ with panel:
             ncolor_labels = [c["name"] for c in ncolors]
             ncolor_map = {lbl: c for lbl, c in zip(ncolor_labels, ncolors)}
             sel_ncolor = ncolor_map[st.selectbox("Cor", ncolor_labels, key="nissan_color_rich")]
+            if sel_ncolor.get("swatchUrl"):
+                st.image(sel_ncolor["swatchUrl"], width=60, caption=sel_ncolor["name"])
             st.caption("Sem gama/versão/jantes seleccionáveis — este modelo só varia por cor nesta plataforma.")
 
         st.divider()
@@ -859,6 +887,8 @@ with panel:
             ]
             alcolor_map = {lbl: c for lbl, c in zip(alcolor_labels, alcolors)}
             sel_alcolor = alcolor_map[st.selectbox("Cor", alcolor_labels, key="alpine_color")]
+            if sel_alcolor.get("swatchUrl"):
+                st.image(sel_alcolor["swatchUrl"], width=60, caption=sel_alcolor["name"])
         else:
             # Edições especiais (ex.: A110 R 70 Rouge) têm uma única cor fixa
             # de fábrica, sem alternativa seleccionável no configurador.
@@ -879,6 +909,9 @@ with panel:
             sel_alwheel = alwheel_map[st.selectbox("Jantes", alwheel_labels, key="alpine_wheels")]
         else:
             sel_alwheel = {"code": "", "name": "série"}
+
+        if sel_alwheel.get("imageUrl"):
+            st.image(sel_alwheel["imageUrl"], width=120, caption=sel_alwheel["name"])
 
         st.divider()
         gerar_btn = st.button("Gerar Imagens", type="primary", use_container_width=True)

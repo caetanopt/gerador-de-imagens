@@ -11,6 +11,16 @@ from PIL import Image, ImageDraw, ImageFilter
 
 TEMPLATE_PATH = Path(__file__).parent.parent / "data" / "template.png"
 
+# Todas as imagens entregues (compostas ou só ajustadas de tamanho) saem
+# em WebP — ficheiro bastante mais pequeno que JPEG a qualidade
+# comparável. quality=75 causava um artefacto visível de "banding"
+# (riscas/faixas subtis) no gradiente suave e extenso da sombra sintética
+# — subiu-se para 92, que elimina o banding mantendo o ficheiro pequeno.
+# method=6 é mais lento a comprimir mas com melhor rácio tamanho/qualidade.
+OUTPUT_FORMAT = "WEBP"
+OUTPUT_QUALITY = 92
+OUTPUT_METHOD = 6
+
 # Posição do carro no template (frações das dimensões do template)
 CAR_MAX_WIDTH_FRAC  = 0.90
 CAR_BOTTOM_Y_FRAC   = 0.83
@@ -32,9 +42,9 @@ GROUND_Y_TOLERANCE = 3
 # em todas as marcas, em vez de depender da sombra natural de cada render
 # — o rembg corta-a de forma inconsistente (bem em algumas vistas/marcas,
 # completamente em outras, ex.: a vista de lado da VW).
-SHADOW_WIDTH_FRAC  = 0.92   # relativa à largura sólida do carro
-SHADOW_HEIGHT_FRAC = 0.10   # relativa à largura da própria sombra
-SHADOW_OPACITY     = 110    # 0-255
+SHADOW_WIDTH_FRAC  = 0.74   # relativa à largura sólida do carro
+SHADOW_HEIGHT_FRAC = 0.14   # relativa à largura da própria sombra
+SHADOW_OPACITY     = 195    # 0-255
 SHADOW_COLOR       = (20, 20, 25)
 
 # O gradiente da sombra é pré-calculado UMA VEZ numa tela pequena (onde o
@@ -45,8 +55,8 @@ SHADOW_COLOR       = (20, 20, 25)
 # (carros que ocupam quase toda a largura do template), o que se via como
 # uma barra escura com contornos direitos em vez de uma sombra suave.
 _SHADOW_BLOB_SIZE       = 256
-_SHADOW_BLOB_CIRCLE_FRAC = 0.42
-_SHADOW_BLOB_BLUR_FRAC   = 0.16
+_SHADOW_BLOB_CIRCLE_FRAC = 0.52
+_SHADOW_BLOB_BLUR_FRAC   = 0.12
 
 # Salvaguarda contra imagens onde não há uma silhueta de carro fiável a
 # detectar (ex.: uma cena de interior/lifestyle sem carroçaria visível,
@@ -101,6 +111,49 @@ def _desaturate_soft_pixels(img: Image.Image) -> Image.Image:
     return Image.fromarray(arr.astype(np.uint8), mode="RGBA")
 
 
+_MIN_REFLECTION_GAP = 4     # px; lacunas mais pequenas são ruído/antialiasing, não um reflexo
+_REFLECTION_ZONE_FRAC = 0.55  # só considerar lacunas que comecem na metade inferior da imagem
+
+
+def _remove_floor_reflection(img: Image.Image) -> Image.Image:
+    """
+    Remove reflexos no piso de estúdio brilhante (comum na Renault/Dacia)
+    que ficam colados por baixo da roda — o rembg trata-os com confiança
+    como parte sólida do carro, porque são uma cópia nítida e detalhada
+    da jante, só que invertida. `_remove_disconnected_alpha` não apanha
+    isto porque o reflexo toca o corpo sólido (não está "desligado").
+
+    Uma primeira versão assumia que a silhueta de um carro é sempre um
+    único troço contínuo de alpha por coluna — falso na prática: janelas,
+    reflexos de cromados e sombras na pintura criam lacunas legítimas de
+    alpha=0 dentro da própria carroçaria (confirmado visualmente: cortava
+    riscas verticais a meio da carroçaria/janelas). Restringe-se por isso
+    a apenas lacunas que comecem na zona inferior da imagem, onde só pode
+    haver rodas/chão — nunca tejadilho, vidros ou portas.
+    """
+    arr = np.array(img)
+    alpha = arr[:, :, 3]
+    h, w = alpha.shape
+    zone_start = int(h * _REFLECTION_ZONE_FRAC)
+    has_alpha = alpha > 0
+    out_alpha = alpha.copy()
+    for x in range(w):
+        ys = np.where(has_alpha[:, x])[0]
+        if len(ys) < 2:
+            continue
+        gaps = np.where(np.diff(ys) > _MIN_REFLECTION_GAP)[0]
+        for g in gaps:
+            gap_start_row = ys[g] + 1
+            if gap_start_row >= zone_start:
+                out_alpha[gap_start_row:, x] = 0
+                break
+    if np.array_equal(out_alpha, alpha):
+        return img
+    arr = arr.copy()
+    arr[:, :, 3] = out_alpha
+    return Image.fromarray(arr, mode="RGBA")
+
+
 def _remove_disconnected_alpha(img: Image.Image) -> Image.Image:
     """
     Remove ilhas de alpha desligadas do corpo sólido do carro — falhas de
@@ -130,23 +183,28 @@ def _remove_disconnected_alpha(img: Image.Image) -> Image.Image:
 def _strip_ground_shadow(img: Image.Image) -> Image.Image:
     """
     Remove o alpha parcial (sombra/reflexo natural do render) que fica ao
-    nível do ponto de contacto do carro com o solo ou abaixo dele — é aí
-    que o rembg é inconsistente entre marcas/ângulos (ex.: preserva uma
-    sombra longa na traseira da VW mas corta-a por completo na vista de
-    lado). Preserva o alpha parcial ACIMA do ponto de contacto (anti-
-    aliasing de vidros, espelhos, antena), que não deve ser tocado.
+    nível do ponto de contacto do carro com o solo ou abaixo dele, coluna
+    a coluna — é aí que o rembg é inconsistente entre marcas/ângulos (ex.:
+    preserva uma sombra longa na traseira da VW mas corta-a por completo
+    na vista de lado). Usar um único ponto de contacto global (em vez de
+    um por coluna) falhava nas vistas 3/4: a roda mais próxima da câmara
+    define um contacto muito mais baixo do que o resto do carro, pelo que
+    resíduos de sombra/reflexo junto a outras zonas (ex.: por baixo do
+    pára-choques) ficavam acima da tolerância a partir desse único ponto
+    e sobreviviam, aparecendo depois como uma mancha com borda dura.
+    Preserva o alpha parcial ACIMA do ponto de contacto de cada coluna
+    (anti-aliasing de vidros, espelhos, antena), que não deve ser tocado.
     Substituída por uma sombra sintética consistente em composite().
     """
     arr = np.array(img)
     alpha = arr[:, :, 3]
     solid_mask = alpha >= SOLID_ALPHA_THRESHOLD
-    ys, _ = np.where(solid_mask)
-    if len(ys) == 0:
+    if not solid_mask.any():
         return img
-    contact_y = ys.max()
+    contact_col = _contact_profile(alpha, 0, alpha.shape[1])
     soft = (alpha > 0) & (alpha < SOLID_ALPHA_THRESHOLD)
     rows = np.arange(alpha.shape[0])[:, None]
-    to_strip = soft & (rows > (contact_y - GROUND_Y_TOLERANCE))
+    to_strip = soft & (rows > (contact_col[np.newaxis, :] - GROUND_Y_TOLERANCE))
     alpha2 = np.where(to_strip, 0, alpha)
     arr = arr.copy()
     arr[:, :, 3] = alpha2
@@ -174,22 +232,141 @@ def _get_shadow_blob() -> Image.Image:
     return _shadow_blob
 
 
-def _draw_synthetic_shadow(template: Image.Image, sx0: float, sx1: float, base_y: float) -> Image.Image:
+def _contact_profile(alpha: np.ndarray, x0: int, x1: int) -> np.ndarray:
     """
-    Desenha uma sombra elíptica suave, centrada no eixo do carro, com a
-    base à altura `base_y`. Devolve o template com a sombra já composta.
+    Para cada coluna entre x0 e x1, devolve a linha (y) do ponto de
+    contacto mais baixo do carro nessa coluna. Colunas sem nenhum pixel
+    sólido (raro, só nas pontas da bbox) são preenchidas por interpolação
+    a partir das vizinhas válidas.
     """
-    shadow_w = max(1, round((sx1 - sx0) * SHADOW_WIDTH_FRAC))
-    shadow_h = max(1, round(shadow_w * SHADOW_HEIGHT_FRAC))
-    shadow_cx = (sx0 + sx1) / 2
-    shadow_cy = base_y - shadow_h * 0.15
+    solid = alpha[:, x0:x1] >= SOLID_ALPHA_THRESHOLD
+    has_solid = solid.any(axis=0)
+    h = alpha.shape[0]
+    from_bottom = solid[::-1, :].argmax(axis=0)
+    contact = np.where(has_solid, h - 1 - from_bottom, np.nan).astype(float)
+    idx = np.arange(len(contact))
+    valid = ~np.isnan(contact)
+    if not valid.any():
+        return np.full(len(contact), h - 1, dtype=float)
+    if not valid.all():
+        contact = np.interp(idx, idx[valid], contact[valid])
+    return contact
 
-    mask = _get_shadow_blob().resize((shadow_w, shadow_h), Image.BILINEAR)
-    color_layer = Image.new("RGBA", mask.size, (*SHADOW_COLOR, 0))
-    color_layer.putalpha(mask.point(lambda v: v * SHADOW_OPACITY // 255))
 
+_BODY_SHADOW_OPACITY_FRAC = 0.88  # sombra "de ligação" sob a carroçaria, quase tão densa como a das rodas
+
+
+def _find_wheel_peaks(contact: np.ndarray) -> tuple[np.ndarray, np.ndarray]:
+    """
+    Identifica, no perfil de contacto, as colunas onde uma roda toca o
+    chão — os pontos mais baixos e localmente proeminentes do perfil.
+    Devolve (posições x, larguras estimadas em px) de cada roda
+    encontrada. Sem isto, uma única "fita" de sombra a seguir o contacto
+    coluna a coluna ficava tão escura sob o pára-choques (que não toca o
+    chão, só passa perto de uma roda) como mesmo por baixo do pneu —
+    numa vista 3/4 fechada isso criava uma mancha escura a espreitar por
+    baixo do pára-choques, destacada e pouco natural.
+    """
+    from scipy.signal import find_peaks, peak_widths
+
+    w = len(contact)
+    global_peak = int(np.argmax(contact))
+    span = contact.max() - contact.min()
+    if span < 1:
+        return np.array([global_peak]), np.array([w * 0.3])
+
+    min_distance = max(5, int(w * 0.12))
+    peaks, _ = find_peaks(contact, distance=min_distance, prominence=span * 0.12)
+    peaks = list(peaks)
+    # find_peaks exige descida dos dois lados — o ponto de contacto mais
+    # baixo de todo o carro (perto da margem da janela analisada, ex.:
+    # roda dianteira numa vista 3/4 fechada) pode ficar de fora por não
+    # ter descida suficiente antes do limite da janela. É sempre uma roda
+    # real (é o próprio ponto de referência sy1), por isso garante-se aqui.
+    if not any(abs(p - global_peak) < min_distance for p in peaks):
+        peaks.append(global_peak)
+    peaks = np.array(sorted(peaks))
+    widths = peak_widths(contact, peaks, rel_height=0.5)[0]
+    widths = np.where(widths > 1, widths, w * 0.25)
+    return peaks, widths
+
+
+def _draw_synthetic_shadow(
+    template: Image.Image, car_alpha: np.ndarray, paste_x: int, paste_y: int,
+    sx0: float, sx1: float, sy1: float,
+) -> Image.Image:
+    """
+    Desenha uma sombra em duas camadas: uma mancha bem definida e escura
+    directamente sob cada roda (onde o contacto com o chão é real), e uma
+    sombra mais ténue e suave a ligar essas manchas sob a carroçaria —
+    como acontece numa fotografia real. Seguir o perfil de contacto
+    coluna a coluna de forma uniforme (uma única "fita") ficava tão
+    escuro sob zonas que não tocam o chão (pára-choques, saias) como
+    mesmo por baixo do pneu, o que nas vistas 3/4 mais fechadas criava
+    manchas destacadas e pouco naturais. `sy1` é o ponto de contacto mais
+    baixo de todo o carro (coordenadas locais da imagem, já escalada).
+    """
+    from scipy.ndimage import gaussian_filter1d
+
+    solid_w = sx1 - sx0
+    shadow_w = max(1, round(solid_w * SHADOW_WIDTH_FRAC))
+    ref_h = max(1, round(shadow_w * SHADOW_HEIGHT_FRAC))
+    sigma_v_wheel = ref_h / 2
+    sigma_v_body = ref_h * 0.85
+    shadow_cx = paste_x + (sx0 + sx1) / 2
+
+    inset = (solid_w - shadow_w) / 2
+    px0 = round(sx0 + inset)
+    px1 = px0 + shadow_w
+    px0c, px1c = max(0, px0), min(car_alpha.shape[1], px1)
+    contact = _contact_profile(car_alpha, px0c, px1c)
+    pad_left, pad_right = px0c - px0, px1 - px1c
+    if pad_left > 0 or pad_right > 0:
+        contact = np.pad(contact, (max(0, pad_left), max(0, pad_right)), mode="edge")
+    contact_light = gaussian_filter1d(contact, sigma=max(2.0, shadow_w * 0.01))
+    contact_baseline = gaussian_filter1d(contact, sigma=max(2.0, shadow_w * 0.25))
+
+    wheel_x, wheel_w = _find_wheel_peaks(contact)
+    xx = np.arange(shadow_w)
+    wheel_weight = np.zeros(shadow_w)
+    for px, wid in zip(wheel_x, wheel_w):
+        sigma_x = max(8.0, wid * 0.55)
+        wheel_weight = np.maximum(wheel_weight, np.exp(-0.5 * ((xx - px) / sigma_x) ** 2))
+
+    centers_wheel = contact_light - sy1   # <= 0
+    centers_body = contact_baseline - sy1  # <= 0, perfil suavizado (sem mergulhos localizados)
+
+    # taper horizontal (perfil do "blob" já existente, amostrado em 1D pela
+    # linha central) — 1 no centro, esbate para 0 nas pontas da sombra.
+    blob_arr = np.asarray(_get_shadow_blob(), dtype=np.float32)
+    mid_row = blob_arr[blob_arr.shape[0] // 2, :]
+    horiz = np.interp(np.linspace(0, blob_arr.shape[1] - 1, shadow_w), np.arange(blob_arr.shape[1]), mid_row) / 255.0
+
+    # A tela cresce o suficiente para conter toda a variação de AMBOS os
+    # perfis (rodas e carroçaria) mais a margem de esbatimento gaussiano —
+    # garante que a sombra desvanece sempre suavemente, mesmo quando o
+    # perfil de contacto varia muito (carros pequenos/arredondados em
+    # ângulos 3/4 fechados).
+    margin = int(np.ceil(3 * max(sigma_v_wheel, sigma_v_body)))
+    top = int(np.ceil(max(0.0, -centers_wheel.min(), -centers_body.min())))
+    bottom = int(np.ceil(max(0.0, centers_wheel.max(), centers_body.max())))
+    out_h = top + bottom + 2 * margin
+    zero_row = top + margin  # linha correspondente ao deslocamento 0 (sy1)
+
+    yy = np.arange(out_h)[:, None] - zero_row
+    vert_wheel = np.exp(-0.5 * ((yy - centers_wheel[np.newaxis, :]) / sigma_v_wheel) ** 2)
+    vert_body = np.exp(-0.5 * ((yy - centers_body[np.newaxis, :]) / sigma_v_body) ** 2)
+    weight = wheel_weight[np.newaxis, :]
+    combined = weight * vert_wheel + (1 - weight) * _BODY_SHADOW_OPACITY_FRAC * vert_body
+    alpha_arr = (combined * horiz[np.newaxis, :] * SHADOW_OPACITY).clip(0, 255).astype(np.uint8)
+
+    color_layer = Image.new("RGBA", (shadow_w, out_h), (*SHADOW_COLOR, 0))
+    color_layer.putalpha(Image.fromarray(alpha_arr, mode="L"))
+
+    anchor_y = paste_y + sy1 - ref_h * 0.15  # mesmo ajuste visual usado antes
+    top_left_y = anchor_y - zero_row
     shadow_layer = Image.new("RGBA", template.size, (0, 0, 0, 0))
-    shadow_layer.paste(color_layer, (round(shadow_cx - shadow_w / 2), round(shadow_cy - shadow_h / 2)), color_layer)
+    shadow_layer.paste(color_layer, (round(shadow_cx - shadow_w / 2), round(top_left_y)), color_layer)
     return Image.alpha_composite(template, shadow_layer)
 
 
@@ -222,11 +399,20 @@ def composite(car_bytes: bytes) -> bytes:
 
     car = Image.open(io.BytesIO(car_bytes)).convert("RGBA")
 
-    if not _has_alpha(car):
+    # Marcas que já entregam a foto com transparência real (sem rembg) têm
+    # a sua própria sombra/reflexo de contacto, feita pela marca — mais
+    # fiável do que qualquer coisa sintética. Só substituímos a sombra
+    # quando ela vem do rembg, cujo recorte junto ao chão é inconsistente
+    # entre marcas/ângulos (ex.: preserva uma sombra longa nalguns casos,
+    # corta-a por completo noutros).
+    native_alpha = _has_alpha(car)
+    if not native_alpha:
         car = _remove_bg_rembg(car_bytes)
+        car = _remove_floor_reflection(car)
     car = _remove_disconnected_alpha(car)
     car = _desaturate_soft_pixels(car)
-    car = _strip_ground_shadow(car)
+    if not native_alpha:
+        car = _strip_ground_shadow(car)
 
     sx0, sy0, sx1, sy1 = _solid_bbox(car)
     solid_w, solid_h = sx1 - sx0, sy1 - sy0
@@ -251,11 +437,15 @@ def composite(car_bytes: bytes) -> bytes:
     paste_x = round(tw * CAR_CENTER_X_FRAC - (sx0 + (sx1 - sx0) / 2))
     paste_y = round(th * CAR_BOTTOM_Y_FRAC - sy1)
 
-    result = _draw_synthetic_shadow(template.copy(), paste_x + sx0, paste_x + sx1, th * CAR_BOTTOM_Y_FRAC)
+    if native_alpha:
+        result = template.copy()
+    else:
+        car_alpha = np.array(car.split()[-1])
+        result = _draw_synthetic_shadow(template.copy(), car_alpha, paste_x, paste_y, sx0, sx1, sy1)
     result.paste(car, (paste_x, paste_y), car)
 
     buf = io.BytesIO()
-    result.convert("RGB").save(buf, format="JPEG", quality=93)
+    result.convert("RGB").save(buf, format=OUTPUT_FORMAT, quality=OUTPUT_QUALITY, method=OUTPUT_METHOD)
     return buf.getvalue()
 
 
@@ -281,7 +471,7 @@ def standardize_only(image_bytes: bytes) -> bytes:
     canvas.paste(resized, ((tw - new_w) // 2, (th - new_h) // 2))
 
     buf = io.BytesIO()
-    canvas.save(buf, format="JPEG", quality=93)
+    canvas.save(buf, format=OUTPUT_FORMAT, quality=OUTPUT_QUALITY, method=OUTPUT_METHOD)
     return buf.getvalue()
 
 

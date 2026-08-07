@@ -172,6 +172,11 @@ def _build_rich_model(model_name: str, json_url: str) -> dict | None:
             "code": c["key"],
             "name": c.get("disclaimer") or frames[0].split("/")[-2].replace("_", " "),
             "images": images,
+            # Esta plataforma (vehicle360_images.json) não expõe nenhum
+            # ícone/swatch dedicado por cor — só a sequência de 360°. Reaproveita-se
+            # o fotograma "frente" (já extraído acima) como pré-visualização,
+            # em vez de inventar um URL de swatch que não existe nesta API.
+            "swatchUrl": images.get("frente"),
         })
     if not colors_out:
         return None

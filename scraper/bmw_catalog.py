@@ -27,6 +27,12 @@ from pathlib import Path
 
 UCP_BASE = "https://prod.ucp.bmw.cloud"
 UCP_API_KEY = "OmFpaEFpV0VUaUlrWTJ2Tnp0ZGdiUTd1NDhxR3JOcHRacXg1UWQK"
+# prod.cosy.bmw.cloud serve as imagens (render completo do carro e também
+# miniaturas por opção). Exige uma x-api-key PRÓPRIA, diferente da UCP_API_KEY
+# acima — confirmado via os pedidos reais do browser em configure.bmw.pt
+# (também uma chave pública do frontend, não uma credencial de utilizador).
+COSY_BASE = "https://prod.cosy.bmw.cloud"
+COSY_API_KEY = "KLexy26ApAFmYH3aViwuLxf02wN1wqBATdFPONSig"
 BRAND = "bmwCar"
 CONNEXT_NS = "connext-bmw"
 REFERER = "https://configure.bmw.pt/"
@@ -82,6 +88,47 @@ def _fetch_sales_group_tree(model_code: str, brand: str, referer: str, api_key: 
         f"applications/connext-sprint/sales-group-tree/models/{model_code}/languages/pt?trim=BASIC_LINE"
     )
     return _get(url, referer, api_key)
+
+
+def _fetch_option_images(
+    connext_ns: str, brand: str, model_code: str, effect_date: str,
+    codes: list, referer: str, cosy_api_key: str,
+) -> dict:
+    """
+    Busca, num único pedido, a miniatura ("tile_square") de cada código de
+    opção indicado (cores e/ou jantes), via o mesmo endpoint de imagens
+    ("option-selector-grid") que o configurador oficial usa para desenhar a
+    grelha de selecção de cor/jante. Confirmado com pedidos de rede reais
+    de configure.bmw.pt e configure.mini.pt (Playwright).
+    Devolve {codigo: url_imagem}; omite silenciosamente códigos sem imagem
+    disponível ou se o pedido falhar (a app deve continuar a funcionar sem
+    miniaturas nesse caso).
+    Nota: a API exige os códigos ORDENADOS alfabeticamente — de outra forma
+    devolve 400 "options is not sorted".
+    """
+    if not codes:
+        return {}
+    effect_date_compact = effect_date.replace("-", "")
+    options_param = ",".join(sorted(set(codes)))
+    url = (
+        f"{COSY_BASE}/image-urls/static-images/mandators/{connext_ns}/"
+        f"collections/option-selector-grid/brands/{brand}/models/{model_code}/options"
+        f"?effectdate={effect_date_compact}&hub=CLOUD_PROD_INTERNET&imagetype=webp"
+        f"&options={options_param}&params.market=pt"
+    )
+    try:
+        data = _get(url, referer, cosy_api_key)
+    except Exception as e:
+        print(f"      AVISO: falha a obter miniaturas de cor/jante: {e}")
+        return {}
+    mobile = data.get("collections", {}).get("option-selector-grid", {}).get("mobile", {})
+    images = {}
+    for code, entry in mobile.items():
+        try:
+            images[code] = entry["imageGroups"][0]["images"][0]["viewImage"]
+        except (KeyError, IndexError, TypeError):
+            continue
+    return images
 
 
 def _option_name(options_meta: dict, code: str) -> str:
@@ -180,6 +227,7 @@ def build_catalog_generic(
     brand: str,
     connext_ns: str,
     ucp_api_key: str,
+    cosy_api_key: str,
     referer: str,
     data_file: Path,
     force: bool = False,
@@ -252,6 +300,17 @@ def build_catalog_generic(
                 print(f"      SEM cores/jantes suficientes (colors={len(colors)}, wheels={len(wheels)}) — a saltar")
                 continue
 
+            # Miniaturas de cor/jante (ver _fetch_option_images) — best-effort,
+            # não bloqueia a construção do catálogo se falhar.
+            image_codes = [c["code"] for c in colors] + [w["code"] for w in wheels]
+            option_images = _fetch_option_images(
+                connext_ns, brand, model_code, effect_date, image_codes, referer, cosy_api_key
+            )
+            for c in colors:
+                c["swatchUrl"] = option_images.get(c["code"], "")
+            for w in wheels:
+                w["imageUrl"] = option_images.get(w["code"], "")
+
             # baseOptions = opções de série sem a pintura/jante actualmente
             # incluída (para depois se acrescentar a cor/jante escolhida).
             color_codes = {c["code"] for c in colors}
@@ -302,7 +361,9 @@ def build_catalog_generic(
 
 def build_catalog(force: bool = False) -> dict:
     """Constrói e guarda o catálogo BMW. Usa cache se existir."""
-    return build_catalog_generic("BMW", BRAND, CONNEXT_NS, UCP_API_KEY, REFERER, DATA_FILE, force)
+    return build_catalog_generic(
+        "BMW", BRAND, CONNEXT_NS, UCP_API_KEY, COSY_API_KEY, REFERER, DATA_FILE, force
+    )
 
 
 def load_catalog() -> dict:

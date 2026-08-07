@@ -195,32 +195,40 @@ def generate_code() -> str:
     return f"{random.randint(0, 999999):06d}"
 
 
-def send_verification_code(email: str, code: str) -> bool:
+def send_email(to_emails: list[str], subject: str, body: str) -> bool:
     """
-    Tenta enviar o código pela API do Amazon SES (eu-west-1), sempre a
-    partir de SES_SENDER. Devolve True se enviado, ou False se não houver
-    credenciais AWS configuradas (o chamador deve então mostrar o código
-    no ecrã). Lança excepção se as credenciais existirem mas o envio
-    falhar (erro real a reportar ao utilizador — ex.: remetente não
-    verificado, conta ainda em sandbox, etc.).
+    Envia um email pela API do Amazon SES (eu-west-1), sempre a partir de
+    SES_SENDER. Devolve True se enviado, ou False se não houver
+    credenciais AWS configuradas. Lança excepção se as credenciais
+    existirem mas o envio falhar (erro real a reportar/tratar pelo
+    chamador — ex.: remetente não verificado, conta ainda em sandbox).
     """
-    body = (
-        f"O teu código de acesso ao Gerador de Imagens Caetano é: {code}\n\n"
-        f"Válido por {CODE_TTL_SECONDS // 60} minutos."
-    )
     try:
         client = boto3.client("ses", region_name=SES_REGION)
         client.send_email(
             Source=SES_SENDER,
-            Destination={"ToAddresses": [email]},
+            Destination={"ToAddresses": to_emails},
             Message={
-                "Subject": {"Data": "Código de acesso — Gerador de Imagens Caetano", "Charset": "UTF-8"},
+                "Subject": {"Data": subject, "Charset": "UTF-8"},
                 "Body": {"Text": {"Data": body, "Charset": "UTF-8"}},
             },
         )
     except (NoCredentialsError, PartialCredentialsError):
         return False
     return True
+
+
+def send_verification_code(email: str, code: str) -> bool:
+    """
+    Tenta enviar o código de acesso por email. Devolve True se enviado, ou
+    False se não houver credenciais AWS configuradas (o chamador deve
+    então mostrar o código no ecrã).
+    """
+    body = (
+        f"O teu código de acesso ao Gerador de Imagens Caetano é: {code}\n\n"
+        f"Válido por {CODE_TTL_SECONDS // 60} minutos."
+    )
+    return send_email([email], "Código de acesso — Gerador de Imagens Caetano", body)
 
 
 # ── Ecrã de login (Streamlit) ───────────────────────────────────────────────
@@ -231,10 +239,13 @@ def _reset_login_state():
 
 
 def _inject_login_css():
+    # Nota: não se força a cor de fundo da página (.stApp) — isso lutava
+    # contra o tema claro/escuro/sistema do Streamlit e deixava o texto
+    # dos avisos (fora do cartão) ilegível em modo escuro. O cartão em si
+    # já é auto-contido (fundo escuro + texto branco definidos
+    # explicitamente), por isso fica legível em qualquer tema à mesma.
     st.markdown("""
     <style>
-    .stApp { background: #f2f4f7 !important; }
-
     /* ════════════════════════════════════════════════════════
        CARTÃO DE LOGIN — mesma identidade visual do painel de
        configuração da ferramenta (gradiente azul Caetano).

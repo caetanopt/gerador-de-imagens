@@ -70,6 +70,26 @@ def fetch_entry(type_class: str, vehicle_id: str) -> dict | None:
         return None
 
 
+def fetch_components_info(model_id: str) -> dict:
+    """
+    Pede as miniaturas (previewImage/mediaItems) de cada opção seleccionável
+    (cores "LU-" e jantes) para um vehicleId — usa o mesmo id numérico que
+    aparece a meio do vehicleId (ex. "1770101" em "pt_PT__1770101__...").
+    Confirmado via tráfego real do configurador em mercedes-benz.pt: o
+    endpoint devolve {"componentsInfo": {codigo: {..., "previewImage": url,
+    "mediaItems": [{"url": ..., "type": "THUMBNAIL_IMAGE"}]}}}. Nem todos os
+    códigos têm imagem (embalagens/códigos técnicos não têm), mas cores e
+    jantes têm sempre nos modelos testados.
+    """
+    url = f"{API_BASE}/owcc-backend/api/v3/pt_PT/CCci/x/models/{model_id}/componentsInfo"
+    try:
+        data = _get(url)
+        return data.get("componentsInfo", {})
+    except Exception as e:
+        print(f"      ERRO componentsInfo: {e}")
+        return {}
+
+
 def replace_in_group(vehicle_id: str, group_prefix: str, old_code: str, new_code: str) -> str:
     """
     Substitui um código dentro de um grupo do vehicleId (ex. trocar a
@@ -170,8 +190,19 @@ def _extract_versions(entry_data: dict) -> list[dict]:
     return versions
 
 
-def _extract_colors_and_wheels(entry_data: dict) -> tuple[list[dict], str | None, list[dict], str | None]:
+def _preview_image(components_info: dict, code: str) -> str | None:
+    """Miniatura de uma opção (cor ou jante), a partir de /componentsInfo."""
+    info = components_info.get(code)
+    if not info:
+        return None
+    return info.get("previewImage")
+
+
+def _extract_colors_and_wheels(
+    entry_data: dict, components_info: dict | None = None,
+) -> tuple[list[dict], str | None, list[dict], str | None]:
     sc = entry_data.get("selectableComponents", {})
+    components_info = components_info or {}
 
     colors = []
     default_color_code = None
@@ -179,11 +210,15 @@ def _extract_colors_and_wheels(entry_data: dict) -> tuple[list[dict], str | None
         if not code.startswith("LU-"):
             continue
         c = code.split("-", 1)[1]
-        colors.append({
+        color = {
             "code": c,
             "name": info.get("name", code),
             "price": info.get("price", {}).get("price", 0),
-        })
+        }
+        swatch_url = _preview_image(components_info, code)
+        if swatch_url:
+            color["swatchUrl"] = swatch_url
+        colors.append(color)
         if info.get("selected"):
             default_color_code = c
 
@@ -193,11 +228,15 @@ def _extract_colors_and_wheels(entry_data: dict) -> tuple[list[dict], str | None
         if "jante" not in info.get("name", "").lower():
             continue
         c = code.split("-", 1)[1]
-        wheels.append({
+        wheel = {
             "code": c,
             "name": info.get("name", code),
             "price": info.get("price", {}).get("price", 0),
-        })
+        }
+        image_url = _preview_image(components_info, code)
+        if image_url:
+            wheel["imageUrl"] = image_url
+        wheels.append(wheel)
         if info.get("selected"):
             default_wheel_code = c
 
@@ -291,7 +330,9 @@ def build_catalog(force: bool = False) -> dict:
                 print("      ERRO ao obter opções — a saltar versão")
                 continue
 
-            colors, default_color, wheels, default_wheel = _extract_colors_and_wheels(v_entry)
+            model_id = v["vehicleId"].split("__")[1]
+            components_info = fetch_components_info(model_id)
+            colors, default_color, wheels, default_wheel = _extract_colors_and_wheels(v_entry, components_info)
             if not colors:
                 print("      SEM cores — a saltar versão")
                 continue
