@@ -1,0 +1,31 @@
+[
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/favicon.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/zeekr-home-banner-desktop.webp"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.zeekr.pt/data/zeekr_configurador.json",
+    "sample": "{\n  \"ZEEKR 001\": {\n    \"model\": \"ZEEKR 001\",\n    \"legal_notes\": [\n      \"Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização.\"\n    ],\n    \"versions\": [\n      {\n        \"version\": \"Long Range RWD\",\n        \"pvp\": 60950,\n        \"highlights\": {\n          \"Bateria\": \"100 kWh\",\n          \"Tração\": \"RWD\",\n          \"Carregamento 10%-80%\": \"30 min\",\n          \"Autonomia*\": \"620 kms\",\n          \"0-100 km/h\": \"7.2 s\",\n          \"Potência Máxima\": \"272 cv\"\n        },\n        \"exterior_colors\": [\n          {\n            \"name\": \"Crystal White\",\n            \"price\": 0\n          },\n          {\n            \"name\": \"Tech Grey\",\n            \"price\": 1300\n          },\n          {\n            \"name\": \"Phantom Black\",\n            \"price\": 1300\n          }\n        ],\n        \"interior_colors\": [\n          {\n            \"name\": \"Charcoal Black & Stone Grey\",\n            \"price\": 0\n          }\n        ],\n        \"equipment\": {\n          \"Exterior\": [\n            \"Jantes de 21\\\"\",\n            \"Faróis Matrix LED\",\n            \"Bagageira elétrica\",\n            \"Teto panorâmico com proteção térmica\",\n            \"Vidros traseiros privativos\"\n          ],\n          \"Interior\": [\n            \"7 airbags\",\n            \"Bancos do condutor e do passageiro dianteiro com regulação elétrica e memória: 12 vias\",\n            \"Bancos dianteiros, banco traseiro e volante aquecidos\",\n            \"Bancos em pele\",\n            \"Banco traseiro rebatível 60/40\""
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-1-tech-grey.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-grid-grey.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-glacier-silver.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-1-forest-green.png"
+  }
+]

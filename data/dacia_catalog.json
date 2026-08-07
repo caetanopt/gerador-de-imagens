@@ -1,0 +1,3245 @@
+{
+  "models": [
+    {
+      "modelId": "bigster-suv",
+      "modelName": "Bigster",
+      "configuratorUrl": "https://www.dacia.pt/gama-hibrida-eletrica/bigster-suv/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC039_PORT",
+          "versionName": "essential mild hybrid-G 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpE",
+          "startingPrice": 24550,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpEFkg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpEFmA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpEFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_17_",
+              "name": "Jantes de liga leve 17''",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpEjkA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC040_PORT",
+          "versionName": "expression mild hybrid-G 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpF",
+          "startingPrice": 25550,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_17_diamantadas",
+              "name": "Jantes de liga leve 17'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpFjkg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC031_PORT",
+          "versionName": "expression mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepF",
+          "startingPrice": 25750,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_17_diamantadas",
+              "name": "Jantes de liga leve 17'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepFjkg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC044_PORT",
+          "versionName": "journey mild hybrid-G 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpH",
+          "startingPrice": 27550,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_diamantadas",
+              "name": "Jantes de liga leve 18'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHjlA"
+            },
+            {
+              "code": "PT5556_jantes_de_liga_leve_19_semi_diamantadas",
+              "name": "Jantes de liga leve 19'' semi-diamantadas",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpHjmA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC038_PORT",
+          "versionName": "extreme mild hybrid-G 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpG",
+          "startingPrice": 27550,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_semi_diamantadas",
+              "name": "Jantes de liga leve 18'' semi-diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjfpGjlg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC046_PORT",
+          "versionName": "journey mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepH",
+          "startingPrice": 27750.01,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_diamantadas",
+              "name": "Jantes de liga leve 18'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHjlA"
+            },
+            {
+              "code": "PT5556_jantes_de_liga_leve_19_semi_diamantadas",
+              "name": "Jantes de liga leve 19'' semi-diamantadas",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepHjmA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC029_PORT",
+          "versionName": "extreme mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepG",
+          "startingPrice": 27750.01,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_semi_diamantadas",
+              "name": "Jantes de liga leve 18'' semi-diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjepGjlg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC027_PORT",
+          "versionName": "expression hybrid 155",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpF",
+          "startingPrice": 29950,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_17_diamantadas",
+              "name": "Jantes de liga leve 17'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpFjkg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC060_PORT",
+          "versionName": "expression hybrid-G 150 4x4",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpF",
+          "startingPrice": 30350,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_17_diamantadas",
+              "name": "Jantes de liga leve 17'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpFjkg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC028_PORT",
+          "versionName": "journey hybrid 155",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpH",
+          "startingPrice": 32800,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_diamantadas",
+              "name": "Jantes de liga leve 18'' diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHjlA"
+            },
+            {
+              "code": "PT5556_jantes_de_liga_leve_19_semi_diamantadas",
+              "name": "Jantes de liga leve 19'' semi-diamantadas",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpHjmA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC026_PORT",
+          "versionName": "extreme hybrid 155",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpG",
+          "startingPrice": 32800,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_semi_diamantadas",
+              "name": "Jantes de liga leve 18'' semi-diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjcpGjlg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC059_PORT",
+          "versionName": "extreme hybrid-G 150 4x4",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpG",
+          "startingPrice": 33350,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFkg"
+            },
+            {
+              "code": "TERRQ",
+              "name": "azul índigo",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFmg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFmA"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFlg"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFlA"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGFkA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_liga_leve_18_semi_diamantadas",
+              "name": "Jantes de liga leve 18'' semi-diamantadas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF2/AjdpGjlg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "duster-suv",
+      "modelName": "Duster",
+      "configuratorUrl": "https://www.dacia.pt/gama-hibrida-eletrica/duster-suv/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC076_PORT",
+          "versionName": "essential Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaA",
+          "startingPrice": 19900,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaCzg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_de_16_",
+              "name": "Jantes em aço de 16\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaSOA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC078_PORT",
+          "versionName": "expression Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVag",
+          "startingPrice": 21550.01,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVaiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_diamantadas_tergan",
+              "name": "Jantes em liga leve 17\" diamantadas TERGAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVayOQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC064_PORT",
+          "versionName": "expression mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVag",
+          "startingPrice": 22850.01,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVaiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_diamantadas_tergan",
+              "name": "Jantes em liga leve 17\" diamantadas TERGAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVayOQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC080_PORT",
+          "versionName": "journey Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbg",
+          "startingPrice": 23400,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" diamantadas TAGASAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbyOw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC074_PORT",
+          "versionName": "extreme Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbA",
+          "startingPrice": 23400,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCzA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_tergan_escurecidas",
+              "name": "Jantes em liga leve 17\" TERGAN escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbSOg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_semi_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" semi-diamantadas TAGASAN",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkUVbSPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC065_PORT",
+          "versionName": "journey mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbg",
+          "startingPrice": 24700,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" diamantadas TAGASAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbyOw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC063_PORT",
+          "versionName": "extreme mild hybrid 140",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbA",
+          "startingPrice": 24700,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCzA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_tergan_escurecidas",
+              "name": "Jantes em liga leve 17\" TERGAN escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbSOg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_semi_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" semi-diamantadas TAGASAN",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkWVbSPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC071_PORT",
+          "versionName": "journey Eco-G 120 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bg",
+          "startingPrice": 25050,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1biyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1biyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1biyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1biyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" diamantadas TAGASAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1byOw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC069_PORT",
+          "versionName": "extreme Eco-G 120 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bA",
+          "startingPrice": 25050,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCzA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_tergan_escurecidas",
+              "name": "Jantes em liga leve 17\" TERGAN escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bSOg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_semi_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" semi-diamantadas TAGASAN",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkU1bSPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC083_PORT",
+          "versionName": "expression hybrid-G 150 4x4",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1ag",
+          "startingPrice": 27850,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1aiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_diamantadas_tergan",
+              "name": "Jantes em liga leve 17\" diamantadas TERGAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1ayOQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC072_PORT",
+          "versionName": "journey hybrid 155",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbg",
+          "startingPrice": 29300,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbiyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbizA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbiyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" diamantadas TAGASAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbyOw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC060_PORT",
+          "versionName": "extreme hybrid 155",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbA",
+          "startingPrice": 29300,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCzA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_tergan_escurecidas",
+              "name": "Jantes em liga leve 17\" TERGAN escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbSOg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_semi_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" semi-diamantadas TAGASAN",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkVVbSPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC081_PORT",
+          "versionName": "extreme hybrid-G 150 4x4",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bA",
+          "startingPrice": 29700,
+          "colors": [
+            {
+              "code": "OVKQM",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCzA"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCyw"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_tergan_escurecidas",
+              "name": "Jantes em liga leve 17\" TERGAN escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bSOg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_semi_diamantadas_tagasan",
+              "name": "Jantes em liga leve 18\" semi-diamantadas TAGASAN",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF3/AkV1bSPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "spring-citadino",
+      "modelName": "Spring",
+      "configuratorUrl": "https://www.dacia.pt/gama-hibrida-eletrica/spring-citadino/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC044_EURG",
+          "versionName": "essential electric 70",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0g",
+          "startingPrice": 16900,
+          "colors": [
+            {
+              "code": "OVDQH",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0hRA"
+            },
+            {
+              "code": "OVQPA",
+              "name": "branco kaolin",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0hRI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_14_",
+              "name": "Embelezadores de 14''",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0mfA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC045_EURG",
+          "versionName": "expression electric 70",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0o",
+          "startingPrice": 18700,
+          "colors": [
+            {
+              "code": "OVDQH",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRA"
+            },
+            {
+              "code": "OVQPA",
+              "name": "branco kaolin",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRI"
+            },
+            {
+              "code": "TERRN",
+              "name": "azul slate",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRo"
+            },
+            {
+              "code": "TENPR",
+              "name": "vermelho brick",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRg"
+            },
+            {
+              "code": "TEKQZ",
+              "name": "seafoam",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRY"
+            },
+            {
+              "code": "TEKQE",
+              "name": "cinzento lightning",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0pRQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_15_resia",
+              "name": "Embelezadores de 15'' Resia",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azv0ufg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC042_EURG",
+          "versionName": "extreme electric 100",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0w",
+          "startingPrice": 19700,
+          "colors": [
+            {
+              "code": "OVDQH",
+              "name": "caqui lichen",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRA"
+            },
+            {
+              "code": "OVQPA",
+              "name": "branco kaolin",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRI"
+            },
+            {
+              "code": "TERRN",
+              "name": "azul slate",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRo"
+            },
+            {
+              "code": "TENPR",
+              "name": "vermelho brick",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRg"
+            },
+            {
+              "code": "TEKQZ",
+              "name": "seafoam",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRY"
+            },
+            {
+              "code": "TEKQE",
+              "name": "cinzento lightning",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr0xRQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_15_danube",
+              "name": "Embelezadores de 15'' Danube",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF-/Azr02fQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "jogger-hibrido",
+      "modelName": "Jogger",
+      "configuratorUrl": "https://www.dacia.pt/gama/jogger-hibrido/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC075_PORT",
+          "versionName": "essential Eco-G 120 5 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocA",
+          "startingPrice": 18507.85,
+          "colors": [
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocCyA"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocCzg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_16_erelia",
+              "name": "Jantes de aço de 16'' ERELIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocROA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC078_PORT",
+          "versionName": "essential Eco-G 120 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodA",
+          "startingPrice": 19400,
+          "colors": [
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodCyA"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodCzg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_16_erelia",
+              "name": "Jantes de aço de 16'' ERELIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodROA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC079_PORT",
+          "versionName": "expression Eco-G 120 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodg",
+          "startingPrice": 21300,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_16_erelia",
+              "name": "Jantes de aço de 16'' ERELIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUodxOA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC074_PORT",
+          "versionName": "extreme Eco-G 120 5 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocg",
+          "startingPrice": 22200,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUociyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUociyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUociyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUociyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUocxPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC037_PORT",
+          "versionName": "expression TCe 110 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodg",
+          "startingPrice": 22200,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_16_erelia",
+              "name": "Jantes de aço de 16'' ERELIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXodxOA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC077_PORT",
+          "versionName": "extreme Eco-G 120 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeA",
+          "startingPrice": 23107.85,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCzA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiUoeRPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC050_PORT",
+          "versionName": "extreme TCe 110 5 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXocg",
+          "startingPrice": 23100,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXociyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXociyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXocizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXocizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXocizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXociyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXociyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXocxPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC055_PORT",
+          "versionName": "extreme Eco-G 120 auto 5 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVocg",
+          "startingPrice": 23800,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVociyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVociyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVocizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVocizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVocizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVociyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVociyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVocxPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC058_PORT",
+          "versionName": "extreme TCe 110 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeA",
+          "startingPrice": 24000.01,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCzA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeRPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC045_PORT",
+          "versionName": "journey TCe 110 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeg",
+          "startingPrice": 24500,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoeiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia",
+              "name": "Jantes em liga leve 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiXoexOg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC063_PORT",
+          "versionName": "extreme Eco-G 120 auto 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeA",
+          "startingPrice": 24707.85,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCzA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeRPA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC048_PORT",
+          "versionName": "journey Eco-G 120 auto 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeg",
+          "startingPrice": 26107.84,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoeiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia",
+              "name": "Jantes em liga leve 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiVoexOg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC039_PORT",
+          "versionName": "expression hybrid 155 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodg",
+          "startingPrice": 28400,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_16_erelia",
+              "name": "Jantes de aço de 16'' ERELIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWodxOA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC047_PORT",
+          "versionName": "journey hybrid 155 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeg",
+          "startingPrice": 30200.01,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeiyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeiyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeizg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeizQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeizA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeiyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeiyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia",
+              "name": "Jantes em liga leve 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoexOg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC061_PORT",
+          "versionName": "extreme hybrid 155 7 lugares",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeA",
+          "startingPrice": 30200.01,
+          "colors": [
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCyw"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 250,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCyQ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCzg"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCzQ"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCzA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCyg"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeCyA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_tamia_escurecidas",
+              "name": "Jantes em liga leve 16'' TAMIA escurecidas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGm/AiWoeRPA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "logan-berlina",
+      "modelName": "Logan",
+      "configuratorUrl": "https://www.dacia.pt/gama/logan-berlina/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC057_PORT",
+          "versionName": "expression Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGl/Agsnc",
+          "startingPrice": 17150,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLM"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLJ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLO"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLN"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLL"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLK"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsncLI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_flexwheel_de_16_atara",
+              "name": "Jantes flexwheel de 16'' ATARA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsndBs"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC058_PORT",
+          "versionName": "expression TCe 100",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGl/Agunc",
+          "startingPrice": 17150,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLM"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLJ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLO"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLN"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLL"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLK"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguncLI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_flexwheel_de_16_atara",
+              "name": "Jantes flexwheel de 16'' ATARA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgundBs"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC059_PORT",
+          "versionName": "journey Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGl/Agsne",
+          "startingPrice": 18450,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLM"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLJ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLO"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLN"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLL"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLK"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsneLI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_16_tamia",
+              "name": "Jantes em liga leve de 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgsnfBo"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC060_PORT",
+          "versionName": "journey TCe 100",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGl/Agune",
+          "startingPrice": 18450,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLM"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLJ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLO"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLN"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLL"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLK"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AguneLI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_16_tamia",
+              "name": "Jantes em liga leve de 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgunfBo"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC038_PORT",
+          "versionName": "journey Eco-G 120 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGl/Agtne",
+          "startingPrice": 20350.01,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLM"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLJ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLO"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLN"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLL"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLK"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtneLI"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_16_tamia",
+              "name": "Jantes em liga leve de 16'' TAMIA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGl/AgtnfBo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "sandero-citadino",
+      "modelName": "Sandero",
+      "configuratorUrl": "https://www.dacia.pt/gama/sandero-citadino/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC110_PORT",
+          "versionName": "expression Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8A",
+          "startingPrice": 16150,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8Cyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8CyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8CzA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8Cy4"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8Cyo"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8CyY"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8CyQ"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC111_PORT",
+          "versionName": "expression TCe 100",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8A",
+          "startingPrice": 16150,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8Cyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8CyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8CzA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8Cy4"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8Cyo"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8CyY"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8CyQ"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC113_PORT",
+          "versionName": "journey Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8g",
+          "startingPrice": 17450,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8izA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iy4"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iyo"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iyY"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhUn8iyQ"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC114_PORT",
+          "versionName": "journey TCe 100",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8g",
+          "startingPrice": 17450,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8izA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iy4"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iyo"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iyY"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhWn8iyQ"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC067_PORT",
+          "versionName": "journey Eco-G 120 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8g",
+          "startingPrice": 19049.99,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8izA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iy4"
+            },
+            {
+              "code": "TEHNV",
+              "name": "sandstone",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iyo"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iyY"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAiIXIY/AhVn8iyQ"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    },
+    {
+      "modelId": "sandero-stepway-crossover",
+      "modelName": "Sandero Stepway",
+      "configuratorUrl": "https://www.dacia.pt/gama/sandero-stepway-crossover/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC115_PORT",
+          "versionName": "stepway essential TCe 110",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9A",
+          "startingPrice": 16300,
+          "colors": [
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9CyA"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9CyI"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9Cy4"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC109_PORT",
+          "versionName": "stepway essential Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9A",
+          "startingPrice": 16306.48,
+          "colors": [
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9CyA"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9CyI"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9Cy4"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC062_PORT",
+          "versionName": "stepway expression TCe 110",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9g",
+          "startingPrice": 17650,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9izA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iy4"
+            },
+            {
+              "code": "TEHNY",
+              "name": "bege safari",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iyw"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iyY"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn9iyA"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC112_PORT",
+          "versionName": "stepway expression Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9g",
+          "startingPrice": 17650,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9izA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iy4"
+            },
+            {
+              "code": "TEHNY",
+              "name": "bege safari",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iyw"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iyY"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn9iyA"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC069_PORT",
+          "versionName": "stepway  extreme TCe 110",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-A",
+          "startingPrice": 19056.48,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-Cyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-CyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-CzA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-Cy4"
+            },
+            {
+              "code": "TEHNY",
+              "name": "bege safari",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-Cyw"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-CyY"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhXn-CyA"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC105_PORT",
+          "versionName": "stepway extreme Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-A",
+          "startingPrice": 19049.99,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-Cyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-CyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-CzA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-Cy4"
+            },
+            {
+              "code": "TEHNY",
+              "name": "bege safari",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-Cyw"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-CyY"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhUn-CyA"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionCode": "VEC074_PORT",
+          "versionName": "stepway extreme Eco-G 120 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-A",
+          "startingPrice": 20658.76,
+          "colors": [
+            {
+              "code": "TEEQK",
+              "name": "amarelo âmbar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-Cyg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-CyI"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-CzA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento schiste",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-Cy4"
+            },
+            {
+              "code": "TEHNY",
+              "name": "bege safari",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-Cyw"
+            },
+            {
+              "code": "TEDQK",
+              "name": "verde cedar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-CyY"
+            },
+            {
+              "code": "NV676",
+              "name": "preto nacarado",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGo0AhhAjIZIaIb/AhVn-CyA"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    }
+  ]
+}

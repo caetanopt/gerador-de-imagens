@@ -1,0 +1,478 @@
+{
+  "models": [
+    {
+      "modelId": "001",
+      "modelName": "ZEEKR 001",
+      "variants": [
+        {
+          "versionName": "Long Range RWD",
+          "price": 60950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "phantom-black",
+              "name": "Phantom Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-1-phantom-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-2-phantom-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-3-phantom-black.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Interior/zeekr-001-interior-1-charcoal-black-stone-grey-leather.png"
+        },
+        {
+          "versionName": "Privilege AWD",
+          "price": 72950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "phantom-black",
+              "name": "Phantom Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-1-phantom-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-2-phantom-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Exterior/zeekr-001-exterior-3-phantom-black.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/001/Privilege%20AWD/Interior/zeekr-001-interior-1-charcoal-black-stone-grey-leather.png"
+        },
+        {
+          "versionName": "Sport Edition AWD",
+          "price": 74950,
+          "colors": [
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "phantom-black",
+              "name": "Phantom Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-1-phantom-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-2-phantom-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Exterior/zeekr-001-exterior-3-phantom-black.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/001/Sport%20Edition%20AWD/Interior/zeekr-001-interior-1-charcoal-black-stone-grey-leather.png"
+        }
+      ]
+    },
+    {
+      "modelId": "x",
+      "modelName": "ZEEKR X",
+      "variants": [
+        {
+          "versionName": "Core RWD",
+          "price": 37000,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "grid-grey",
+              "name": "Grid Grey",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-1-grid-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-2-grid-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Exterior/zeekr-X-exterior-3-grid-grey.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/X/Core%20RWD/Interior/zeekr-X-interior-1-charcoal-black-leather.png"
+        },
+        {
+          "versionName": "Long Range RWD",
+          "price": 43950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "grid-grey",
+              "name": "Grid Grey",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-1-grid-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-2-grid-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-3-grid-grey.png"
+              }
+            },
+            {
+              "code": "pine-green",
+              "name": "Pine Green",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-1-pine-green.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-2-pine-green.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Exterior/zeekr-X-exterior-3-pine-green.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/X/Long%20Range%20RWD/Interior/zeekr-X-interior-1-charcoal-black-leather.png"
+        },
+        {
+          "versionName": "Privilege AWD",
+          "price": 48950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "grid-grey",
+              "name": "Grid Grey",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-grid-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-2-grid-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-3-grid-grey.png"
+              }
+            },
+            {
+              "code": "pine-green",
+              "name": "Pine Green",
+              "price": 1200,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-pine-green.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-2-pine-green.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-3-pine-green.png"
+              }
+            },
+            {
+              "code": "palace-beige",
+              "name": "Palace Beige",
+              "price": 1600,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-1-palace-beige.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-2-palace-beige.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Exterior/zeekr-X-exterior-3-palace-beige.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/X/Privilege%20AWD/Interior/zeekr-X-interior-1-charcoal-black-stone-grey-leather.png"
+        }
+      ]
+    },
+    {
+      "modelId": "7x",
+      "modelName": "ZEEKR 7X",
+      "variants": [
+        {
+          "versionName": "Long Range RWD",
+          "price": 59950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "forest-green",
+              "name": "Forest Green",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-1-forest-green.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-2-forest-green.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Exterior/zeekr-7X-exterior-3-forest-green.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/7X/Long%20Range%20RWD/Interior/zeekr-7X-interior-1-charcoal-black-leather.png"
+        },
+        {
+          "versionName": "Privilege AWD",
+          "price": 68450,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "forest-green",
+              "name": "Forest Green",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-1-forest-green.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-2-forest-green.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Exterior/zeekr-7X-exterior-3-forest-green.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/7X/Privilege%20AWD/Interior/zeekr-7X-interior-1-charcoal-black-leather.png"
+        }
+      ]
+    },
+    {
+      "modelId": "7gt",
+      "modelName": "ZEEKR 7GT",
+      "variants": [
+        {
+          "versionName": "Long Range RWD",
+          "price": 55450,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "glacier-silver",
+              "name": "Glacier Silver",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-1-glacier-silver.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-2-glacier-silver.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-3-glacier-silver.png"
+              }
+            },
+            {
+              "code": "mystic-lilac",
+              "name": "Mystic Lilac",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-1-mystic-lilac.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-2-mystic-lilac.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Exterior/zeekr-7GT-exterior-3-mystic-lilac.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/7GT/Long%20Range%20RWD/Interior/zeekr-7GT-interior-1-charcoal-black-leather.png"
+        },
+        {
+          "versionName": "Privilege AWD",
+          "price": 61950,
+          "colors": [
+            {
+              "code": "crystal-white",
+              "name": "Crystal White",
+              "price": 0,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-crystal-white.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-2-crystal-white.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-3-crystal-white.png"
+              }
+            },
+            {
+              "code": "onyx-black",
+              "name": "Onyx Black",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-onyx-black.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-2-onyx-black.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-3-onyx-black.png"
+              }
+            },
+            {
+              "code": "tech-grey",
+              "name": "Tech Grey",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-tech-grey.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-2-tech-grey.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-3-tech-grey.png"
+              }
+            },
+            {
+              "code": "glacier-silver",
+              "name": "Glacier Silver",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-glacier-silver.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-2-glacier-silver.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-3-glacier-silver.png"
+              }
+            },
+            {
+              "code": "mystic-lilac",
+              "name": "Mystic Lilac",
+              "price": 1300,
+              "images": {
+                "3_4_frente": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-1-mystic-lilac.png",
+                "lado": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-2-mystic-lilac.png",
+                "traseira": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Exterior/zeekr-7GT-exterior-3-mystic-lilac.png"
+              }
+            }
+          ],
+          "interiorImage": "https://configurador.zeekr.pt/images/configurator/7GT/Privilege%20AWD/Interior/zeekr-7GT-interior-1-charcoal-black-leather.png"
+        }
+      ]
+    }
+  ]
+}

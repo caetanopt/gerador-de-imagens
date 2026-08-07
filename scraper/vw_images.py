@@ -1,8 +1,9 @@
 """
 Descarrega as 4 imagens de uma configuração VW para a pasta output/.
+Lógica genérica (reaproveitada por audi_images.py) parametrizada pelo
+domínio da CDN — a plataforma de imagens é partilhada por todo o grupo VW.
 """
 import io
-import os
 import ssl
 import urllib.request
 import zipfile
@@ -26,24 +27,50 @@ VIEWS = {
     "frente": "front",
     "lado": "side",
     "traseira": "back",
+    "lado_estudio": "overview",
 }
 
 
-def _image_url(model_code: str, view: str, color: str, upholstery: str, wheel: str = "") -> str:
+def _image_url(cdn: str, model_code: str, view: str, color: str, upholstery: str, wheel: str = "") -> str:
     return (
-        f"{CDN}/{model_code}/model/{view}.webp"
+        f"{cdn}/{model_code}/model/{view}.webp"
         f"?F={color}&P={upholstery}&M={wheel}&size=XL"
     )
 
 
-def fetch_image_bytes(url: str) -> bytes:
+def fetch_image_bytes(url: str, referer: str = "https://configurador.volkswagen.pt/") -> bytes:
     """Descarrega imagem e devolve bytes. Lança exceção se falhar."""
-    req = urllib.request.Request(url, headers=_HEADERS)
+    headers = dict(_HEADERS, Referer=referer)
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, context=_ssl_ctx, timeout=20) as r:
         data = r.read()
     if not data:
         raise ValueError(f"Imagem vazia: {url}")
     return data
+
+
+def generate_images_generic(
+    cdn: str,
+    referer: str,
+    model_code: str,
+    color_code: str,
+    upholstery_code: str,
+    wheel_code: str = "",
+    views: dict[str, str] | None = None,
+) -> dict[str, bytes]:
+    """
+    Gera as imagens para a configuração dada.
+    Devolve dict: {label: bytes_da_imagem}
+    """
+    results = {}
+    for label, view in (views or VIEWS).items():
+        url = _image_url(cdn, model_code, view, color_code, upholstery_code, wheel_code)
+        try:
+            data = fetch_image_bytes(url, referer)
+            results[label] = data
+        except Exception as e:
+            print(f"  ERRO {view}: {e}")
+    return results
 
 
 def generate_images(
@@ -54,19 +81,10 @@ def generate_images(
     model_name: str = "",
     color_name: str = "",
 ) -> dict[str, bytes]:
-    """
-    Gera as 4 imagens para a configuração dada.
-    Devolve dict: {label: bytes_da_imagem}
-    """
-    results = {}
-    for label, view in VIEWS.items():
-        url = _image_url(model_code, view, color_code, upholstery_code, wheel_code)
-        try:
-            data = fetch_image_bytes(url)
-            results[label] = data
-        except Exception as e:
-            print(f"  ERRO {view}: {e}")
-    return results
+    """Gera as 4 imagens VW para a configuração dada."""
+    return generate_images_generic(
+        CDN, "https://configurador.volkswagen.pt/", model_code, color_code, upholstery_code, wheel_code,
+    )
 
 
 def save_images(

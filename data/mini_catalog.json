@@ -1,0 +1,3639 @@
+{
+  "models": [
+    {
+      "groupCode": "F65",
+      "groupName": "MINI Cooper 5 Portas",
+      "variants": [
+        {
+          "modelCode": "51GD",
+          "variantName": "COOPER S",
+          "name": "MINI Cooper 5 Portas MINI Cooper 5 portas S",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KG",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": true
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "41GD",
+          "variantName": "COOPER C",
+          "name": "MINI Cooper 5 Portas MINI Cooper 5 portas C",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "41KL",
+          "variantName": "COOP ONE",
+          "name": "MINI Cooper 5 Portas MINI Cooper 5 portas ONE",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "S01DF",
+            "S02TF",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "F67",
+      "groupName": "MINI Cabrio",
+      "variants": [
+        {
+          "modelCode": "11GX",
+          "variantName": "COOPER C",
+          "name": "MINI Cabrio MINI Cooper Cabrio C",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FTDJ2"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C77",
+              "name": "Copper Grey",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "21GX",
+          "variantName": "COOPER S",
+          "name": "MINI Cabrio MINI Cooper Cabrio S",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FTDJ2"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C77",
+              "name": "Copper Grey",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "31GX",
+          "variantName": "JCW",
+          "name": "MINI Cabrio MINI John Cooper Works Cabrio",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S09T9",
+            "S0548",
+            "S04FN",
+            "S0223",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KL",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C77",
+              "name": "Copper Grey",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "F66",
+      "groupName": "MINI Cooper 3 Portas",
+      "variants": [
+        {
+          "modelCode": "51KK",
+          "variantName": "COOP ONE",
+          "name": "MINI Cooper 3 Portas MINI Cooper ONE",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "S01DF",
+            "S02TF",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "11GD",
+          "variantName": "COOPER C",
+          "name": "MINI Cooper 3 Portas MINI Cooper C",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "21GD",
+          "variantName": "COOPER S",
+          "name": "MINI Cooper 3 Portas MINI Cooper S",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S0548",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "31GD",
+          "variantName": "JCW",
+          "name": "MINI Cooper 3 Portas MINI John Cooper Works",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S09T9",
+            "S0548",
+            "S04FN",
+            "S0223",
+            "S04AA",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KL",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "U25",
+      "groupName": "MINI Countryman",
+      "variants": [
+        {
+          "modelCode": "21KM",
+          "variantName": "COUNT OD",
+          "name": "MINI Countryman MINI Countryman ONE D",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S01AG",
+            "S08R9",
+            "S0548",
+            "S0386",
+            "S01DF",
+            "S01CE",
+            "S02TM",
+            "S02TF",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6F",
+          "defaultWheel": "S01K0",
+          "colors": [
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K0",
+              "name": "JLL Profile Spoke Grey 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "81GA",
+          "variantName": "COUNT E",
+          "name": "MINI Countryman MINI Countryman E",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02VB",
+            "S02VD",
+            "S0381",
+            "S0386",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06S3",
+            "S06WE",
+            "S07EL",
+            "S0889",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S08WH"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01K1",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": false
+            },
+            {
+              "code": "S01KS",
+              "name": "JLL Windmill Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01K1",
+              "name": "JLL Profile Aero Spoke cinza 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K4",
+              "name": "JLL Asteroid Spoke Vibrant Silver 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K6",
+              "name": "JLL Kaleido Spoke 2-tone 19\"",
+              "std": false
+            },
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "61GA",
+          "variantName": "COUNT D",
+          "name": "MINI Countryman Countryman D",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S01AG",
+            "S01CE",
+            "S02TM",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S08R9",
+            "S0548",
+            "S0386",
+            "S01DF",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C74",
+          "defaultWheel": "S01K0",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": false
+            },
+            {
+              "code": "S01KS",
+              "name": "JLL Windmill Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01K0",
+              "name": "JLL Profile Spoke Grey 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K4",
+              "name": "JLL Asteroid Spoke Vibrant Silver 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K6",
+              "name": "JLL Kaleido Spoke 2-tone 19\"",
+              "std": false
+            },
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "11GA",
+          "variantName": "COUNT C",
+          "name": "MINI Countryman MINI Countryman C",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S01AG",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S08R9",
+            "S0548",
+            "S0386",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C74",
+          "defaultWheel": "S01K0",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": false
+            },
+            {
+              "code": "S01KS",
+              "name": "JLL Windmill Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01K0",
+              "name": "JLL Profile Spoke Grey 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K4",
+              "name": "JLL Asteroid Spoke Vibrant Silver 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K6",
+              "name": "JLL Kaleido Spoke 2-tone 19\"",
+              "std": false
+            },
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "71GA",
+          "variantName": "COUNTONE",
+          "name": "MINI Countryman MINI Countryman ONE",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S01AG",
+            "S08R9",
+            "S0548",
+            "S0386",
+            "S01DF",
+            "S02TF",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C6F",
+          "defaultWheel": "S01K0",
+          "colors": [
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K0",
+              "name": "JLL Profile Spoke Grey 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "21GA",
+          "variantName": "COUNT S",
+          "name": "MINI Countryman MINI Countryman S ALL4",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S01AG",
+            "S02TF",
+            "S05DM",
+            "S06WE",
+            "S08R9",
+            "S0548",
+            "S0386",
+            "FBMJZ"
+          ],
+          "defaultColor": "P0C74",
+          "defaultWheel": "S01K0",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": false
+            },
+            {
+              "code": "S01KS",
+              "name": "JLL Windmill Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01K0",
+              "name": "JLL Profile Spoke Grey 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K4",
+              "name": "JLL Asteroid Spoke Vibrant Silver 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K6",
+              "name": "JLL Kaleido Spoke 2-tone 19\"",
+              "std": false
+            },
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "31GA",
+          "variantName": "JCWCOUNT",
+          "name": "MINI Countryman MINI John Cooper Works Countryman ALL4",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S01AG",
+            "S09T9",
+            "S08R9",
+            "S0548",
+            "S04FN",
+            "S0386",
+            "S01DF",
+            "S0223",
+            "S04AA",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C74",
+          "defaultWheel": "S01K8",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": true
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "J01",
+      "groupName": "MINI Cooper Elétrico",
+      "variants": [
+        {
+          "modelCode": "11HF",
+          "variantName": "JCW E",
+          "name": "MINI Cooper Elétrico MINI John Cooper Works E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FTDJ3",
+            "S0230",
+            "S0248",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S02XK",
+            "S0302",
+            "S0322",
+            "S03A3",
+            "S0428",
+            "S0430",
+            "S0431",
+            "S0478",
+            "S0494",
+            "S04AA",
+            "S04FN",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S04VF",
+            "S0548",
+            "S05A4",
+            "S05AC",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S0688",
+            "S06AD",
+            "S06AE",
+            "S06AF",
+            "S06NX",
+            "S06PA",
+            "S06WE",
+            "S07KQ",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S0993",
+            "S09T9",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6K",
+          "defaultWheel": "S01QM",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QM",
+              "name": "18\", John Cooper Works Mastery Spoke em preto com pneus esportivos",
+              "std": true
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "11GC",
+          "variantName": "COOPER E",
+          "name": "MINI Cooper Elétrico MINI Cooper E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S0381",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06WE",
+            "S07EL",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S0993"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "21GC",
+          "variantName": "COOPERSE",
+          "name": "MINI Cooper Elétrico MINI Cooper SE",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S0381",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06WE",
+            "S07EL",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S0993"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01KA",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C7Z",
+              "name": "Statement grey",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C80",
+              "name": "Inspired White",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KA",
+              "name": "JLL 4-Square Spoke 16\"",
+              "std": true
+            },
+            {
+              "code": "S01KB",
+              "name": "JLL U-Spoke cinza 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KD",
+              "name": "JLL U-Spoke vibrant silver 17\"",
+              "std": false
+            },
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KG",
+              "name": "JLL Parallel Spoke de 2-tone 17\"",
+              "std": false
+            },
+            {
+              "code": "S03PA",
+              "name": "JLL Night Flash Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "U25E",
+      "groupName": "MINI Countryman Eléctrico",
+      "variants": [
+        {
+          "modelCode": "81GA",
+          "variantName": "COUNT E",
+          "name": "MINI Countryman Eléctrico MINI Countryman E",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02VB",
+            "S02VD",
+            "S0381",
+            "S0386",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06S3",
+            "S06WE",
+            "S07EL",
+            "S0889",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S08WH"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01K1",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": false
+            },
+            {
+              "code": "S01KS",
+              "name": "JLL Windmill Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            },
+            {
+              "code": "S01K1",
+              "name": "JLL Profile Aero Spoke cinza 17\"",
+              "std": true
+            },
+            {
+              "code": "S01K2",
+              "name": "JLL Asteroid Spoke 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K4",
+              "name": "JLL Asteroid Spoke Vibrant Silver 18\"",
+              "std": false
+            },
+            {
+              "code": "S01K6",
+              "name": "JLL Kaleido Spoke 2-tone 19\"",
+              "std": false
+            },
+            {
+              "code": "S03PK",
+              "name": "JLL Asteroid Spoke Black 18\"",
+              "std": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "J05",
+      "groupName": "MINI Aceman",
+      "variants": [
+        {
+          "modelCode": "21HF",
+          "variantName": "JCWACE E",
+          "name": "MINI Aceman MINI John Cooper Works Aceman E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FTDJ3",
+            "S0230",
+            "S0248",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S02XK",
+            "S0302",
+            "S0322",
+            "S0386",
+            "S03A3",
+            "S0428",
+            "S0430",
+            "S0431",
+            "S0478",
+            "S0494",
+            "S04AA",
+            "S04FN",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S04VF",
+            "S0548",
+            "S05A4",
+            "S05AC",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S0688",
+            "S06AD",
+            "S06AE",
+            "S06AF",
+            "S06NX",
+            "S06PA",
+            "S06WE",
+            "S07KQ",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S0993",
+            "S09T9",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6K",
+          "defaultWheel": "S01QS",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QU",
+              "name": "19\" John Cooper Works Lap Spoke em 2 tons com pneus desportivos",
+              "std": false
+            },
+            {
+              "code": "S01QS",
+              "name": "19\", John Cooper Works Strive Spoke em 2 tons com pneus desportivos",
+              "std": true
+            }
+          ]
+        },
+        {
+          "modelCode": "31GC",
+          "variantName": "ACEMAN E",
+          "name": "MINI Aceman MINI Aceman E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S0381",
+            "S0386",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06WE",
+            "S07EL",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S0993"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01QK",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C72",
+              "name": "Rebel red",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QK",
+              "name": "JLL X-Spoke 17\"",
+              "std": true
+            },
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QV",
+              "name": "19\", Hexagram Spoke em 2 tons",
+              "std": false
+            },
+            {
+              "code": "S01QW",
+              "name": "19\", Eternal Spoke em 2 tons",
+              "std": false
+            },
+            {
+              "code": "S01QN",
+              "name": "JLL Night Flash Spoke Grey 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QR",
+              "name": "JLL John Cooper Works Slide Spoke black 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QT",
+              "name": "19\", John Cooper Works Lap Spoke em 2 tons",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "81GC",
+          "variantName": "ACEMANSE",
+          "name": "MINI Aceman MINI Aceman SE",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FBMJZ",
+            "S0230",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S0381",
+            "S0386",
+            "S0428",
+            "S044C",
+            "S0478",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S0548",
+            "S05A2",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S06AE",
+            "S06AF",
+            "S06PA",
+            "S06WE",
+            "S07EL",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S0993"
+          ],
+          "defaultColor": "P0C6B",
+          "defaultWheel": "S01QK",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C72",
+              "name": "Rebel red",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QK",
+              "name": "JLL X-Spoke 17\"",
+              "std": true
+            },
+            {
+              "code": "S01QL",
+              "name": "JLL Night Flash Spoke 2-tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QV",
+              "name": "19\", Hexagram Spoke em 2 tons",
+              "std": false
+            },
+            {
+              "code": "S01QW",
+              "name": "19\", Eternal Spoke em 2 tons",
+              "std": false
+            },
+            {
+              "code": "S01QN",
+              "name": "JLL Night Flash Spoke Grey 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QP",
+              "name": "JLL Slide Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QR",
+              "name": "JLL John Cooper Works Slide Spoke black 18\"",
+              "std": false
+            },
+            {
+              "code": "S01QT",
+              "name": "19\", John Cooper Works Lap Spoke em 2 tons",
+              "std": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupCode": "JCW",
+      "groupName": "John Cooper Works",
+      "variants": [
+        {
+          "modelCode": "31GX",
+          "variantName": "JCW",
+          "name": "John Cooper Works MINI John Cooper Works Cabrio",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S09T9",
+            "S0548",
+            "S04FN",
+            "S0223",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KL",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C77",
+              "name": "Copper Grey",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": true
+            }
+          ]
+        },
+        {
+          "modelCode": "11HF",
+          "variantName": "JCW E",
+          "name": "John Cooper Works MINI John Cooper Works E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FTDJ3",
+            "S0230",
+            "S0248",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S02XK",
+            "S0302",
+            "S0322",
+            "S03A3",
+            "S0428",
+            "S0430",
+            "S0431",
+            "S0478",
+            "S0494",
+            "S04AA",
+            "S04FN",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S04VF",
+            "S0548",
+            "S05A4",
+            "S05AC",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S0688",
+            "S06AD",
+            "S06AE",
+            "S06AF",
+            "S06NX",
+            "S06PA",
+            "S06WE",
+            "S07KQ",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S0993",
+            "S09T9",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6K",
+          "defaultWheel": "S01QM",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QM",
+              "name": "18\", John Cooper Works Mastery Spoke em preto com pneus esportivos",
+              "std": true
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            }
+          ]
+        },
+        {
+          "modelCode": "21HF",
+          "variantName": "JCWACE E",
+          "name": "John Cooper Works MINI John Cooper Works Aceman E",
+          "effectDate": "2026-09-08",
+          "baseOptions": [
+            "FTDJ3",
+            "S0230",
+            "S0248",
+            "S02PA",
+            "S02VB",
+            "S02VC",
+            "S02XK",
+            "S0302",
+            "S0322",
+            "S0386",
+            "S03A3",
+            "S0428",
+            "S0430",
+            "S0431",
+            "S0478",
+            "S0494",
+            "S04AA",
+            "S04FN",
+            "S04T2",
+            "S04U8",
+            "S04U9",
+            "S04VF",
+            "S0548",
+            "S05A4",
+            "S05AC",
+            "S05AS",
+            "S05AV",
+            "S05DM",
+            "S0654",
+            "S0688",
+            "S06AD",
+            "S06AE",
+            "S06AF",
+            "S06NX",
+            "S06PA",
+            "S06WE",
+            "S07KQ",
+            "S0853",
+            "S087A",
+            "S08R3",
+            "S08R9",
+            "S08TF",
+            "S0993",
+            "S09T9",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6K",
+          "defaultWheel": "S01QS",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01QU",
+              "name": "19\" John Cooper Works Lap Spoke em 2 tons com pneus desportivos",
+              "std": false
+            },
+            {
+              "code": "S01QS",
+              "name": "19\", John Cooper Works Strive Spoke em 2 tons com pneus desportivos",
+              "std": true
+            }
+          ]
+        },
+        {
+          "modelCode": "31GD",
+          "variantName": "JCW",
+          "name": "John Cooper Works MINI John Cooper Works",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S09T9",
+            "S0548",
+            "S04FN",
+            "S0223",
+            "S04AA",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C6N",
+          "defaultWheel": "S01KL",
+          "colors": [
+            {
+              "code": "P0C6N",
+              "name": "Sunny Side Yellow",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6M",
+              "name": "Ocean Wave Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6L",
+              "name": "Icy Sunshine Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01KP",
+              "name": "JLL John Cooper Works Lap Spoke 2 tone 18\"",
+              "std": false
+            },
+            {
+              "code": "S01KQ",
+              "name": "JLL John Cooper Works Lap Spoke 2-tone 18\" sport tyres",
+              "std": false
+            },
+            {
+              "code": "S01KL",
+              "name": "JLL John Cooper Works Sprint Spoke black17\"",
+              "std": true
+            }
+          ]
+        },
+        {
+          "modelCode": "31GA",
+          "variantName": "JCWCOUNT",
+          "name": "John Cooper Works MINI John Cooper Works Countryman ALL4",
+          "effectDate": "2026-08-05",
+          "baseOptions": [
+            "S05A2",
+            "S05DM",
+            "S06WE",
+            "S01AG",
+            "S09T9",
+            "S08R9",
+            "S0548",
+            "S04FN",
+            "S0386",
+            "S01DF",
+            "S0223",
+            "S04AA",
+            "S02XK",
+            "S02TC",
+            "S0248",
+            "S0688",
+            "FKXSW"
+          ],
+          "defaultColor": "P0C74",
+          "defaultWheel": "S01K8",
+          "colors": [
+            {
+              "code": "P0C74",
+              "name": "Chili Red II",
+              "std": false,
+              "group": "Sólida"
+            },
+            {
+              "code": "P0C70",
+              "name": "Slate Blue",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6K",
+              "name": "Blazing Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C3B",
+              "name": "British Racing Green IV Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6P",
+              "name": "Legend Grey Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C71",
+              "name": "Smokey Green Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6F",
+              "name": "Indigo Sunset Blue Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6A",
+              "name": "Nanuq White Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C6B",
+              "name": "Melting Silver III Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            },
+            {
+              "code": "P0C4R",
+              "name": "Midnight Black II Metalizado",
+              "std": false,
+              "group": "Metalizada"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "S01K8",
+              "name": "JLL John Cooper Works Runway Spoke black19\"",
+              "std": true
+            },
+            {
+              "code": "S01KT",
+              "name": "JLL John Cooper Works Flag Spoke 2-tone 20\"",
+              "std": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

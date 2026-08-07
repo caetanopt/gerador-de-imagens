@@ -1,0 +1,600 @@
+{
+  "ZEEKR 001": {
+    "model": "ZEEKR 001",
+    "legal_notes": [
+      "Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização."
+    ],
+    "versions": [
+      {
+        "version": "Long Range RWD",
+        "pvp": 60950,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "RWD",
+          "Carregamento 10%-80%": "30 min",
+          "Autonomia*": "620 kms",
+          "0-100 km/h": "7.2 s",
+          "Potência Máxima": "272 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Phantom Black",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black & Stone Grey",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "Exterior": [
+            "Jantes de 21\"",
+            "Faróis Matrix LED",
+            "Bagageira elétrica",
+            "Teto panorâmico com proteção térmica",
+            "Vidros traseiros privativos"
+          ],
+          "Interior": [
+            "7 airbags",
+            "Bancos do condutor e do passageiro dianteiro com regulação elétrica e memória: 12 vias",
+            "Bancos dianteiros, banco traseiro e volante aquecidos",
+            "Bancos em pele",
+            "Banco traseiro rebatível 60/40",
+            "Regulação elétrica do banco traseiro: 2 vias",
+            "Volante em pele com regulação elétrica: 4 vias com painel tátil",
+            "Carregador de telemóvel sem fios",
+            "8 altifalantes",
+            "Climatização de 2 zonas",
+            "Iluminação ambiente: 12 cores"
+          ],
+          "Cabine Inteligente": [
+            "Ecrã central de 15,4\" e painel de instrumentos HD de 8,8\"",
+            "Head-up display de 14,7\"",
+            "Apple CarPlay / Android Auto",
+            "1ª fila: USB-C (27 W)",
+            "2ª fila: USB A (18 W) + C (15 W)",
+            "Reconhecimento facial",
+            "Rede: 5G/Wi-Fi/Hotspot Wi-Fi"
+          ],
+          "Condução inteligente": [
+            "Funcionalidades ADAS, eCALL",
+            "4 modos de condução",
+            "Chave digital"
+          ],
+          "APP conectada": [
+            "Atualizações de software remotas (Over-the-Air)",
+            "Mobilidade inteligente para veículos elétricos, controlo por voz do Smart Assistant, Smart Mobile Office, Entretenimento e Streaming"
+          ],
+          "Bateria": [
+            "Recuperação de energia na travagem",
+            "Bomba de calor"
+          ],
+          "Carregamento": [
+            "Carregamento AC 22 kW",
+            "Carregamento rápido DC 200 kW",
+            "V2L (Vehicle-to-Load)"
+          ]
+        }
+      },
+      {
+        "version": "Privilege AWD",
+        "pvp": 72950,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "AWD",
+          "Carregamento 10%-80%": "30 min",
+          "Autonomia*": "585 kms",
+          "0-100 km/h": "3.8 s",
+          "Potência Máxima": "544 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Phantom Black",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black & Stone Grey",
+            "price": 0
+          },
+          {
+            "name": "Midnight Blue & Polar White",
+            "price": 1500
+          }
+        ],
+        "equipment": {
+          "Exterior": [
+            "Jantes de 22\"",
+            "Suspensão pneumática ativa",
+            "Teto bicolor e spoiler traseiro"
+          ],
+          "Interior": [
+            "Climatização de 3 zonas",
+            "Função de massagem nos bancos dianteiros",
+            "Bancos dianteiros ventilados",
+            "Sistema de aromatização do ar",
+            "Sistema de som Yamaha com 12 altifalantes + subwoofer",
+            "Apoio lateral nos encostos de cabeça do banco traseiro"
+          ],
+          "Cabine Inteligente": [
+            "Ecrã tátil de 5,7\" para os passageiros do banco traseiro",
+            "2ª fila: USB A (18 W) + C (60 W)"
+          ],
+          "Condução inteligente": [
+            "7 modos de condução incluindo todo-o-terreno",
+            "Som do motor elétrico simulado"
+          ]
+        }
+      },
+      {
+        "version": "Sport Edition AWD",
+        "pvp": 74950,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "AWD",
+          "Carregamento 10%-80%": "30 min",
+          "Autonomia*": "585 kms",
+          "0-100 km/h": "3.8 s",
+          "Potência Máxima": "544 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Phantom Black",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black & Stone Grey",
+            "price": 0
+          },
+          {
+            "name": "Charcoal Grey & Orange",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "Exterior": [
+            "Pinças de travão laranjas",
+            "Capas dos retrovisores em fibra de carbono",
+            "Spoiler traseiro em fibra de carbono"
+          ]
+        }
+      }
+    ]
+  },
+  "ZEEKR X": {
+    "model": "ZEEKR X",
+    "legal_notes": [
+      "Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização."
+    ],
+    "versions": [
+      {
+        "version": "Core RWD",
+        "pvp": 37000,
+        "highlights": {
+          "Bateria": "49 kWh",
+          "Tração": "RWD",
+          "Carregamento 10%-80%": "30 min",
+          "Autonomia*": "330 kms",
+          "0-100 km/h": "5.9 s",
+          "Potência Máxima": "272 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1200
+          },
+          {
+            "name": "Grid Grey",
+            "price": 1200
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black - Textile",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Jantes 19\" aero",
+            "Ecrã central de 14,6\"",
+            "Painel de instrumentos HD de 8,8\"",
+            "Zeekr Assisted Drive: funcionalidades de condução, estacionamento e segurança",
+            "APP Zeekr Companion: controlo e monitorização remota, carregamento da bateria, Chave Digital, aprovação KYC",
+            "Faróis totalmente LED",
+            "Teto panorâmico com proteção térmica",
+            "Bancos em tecido e pele",
+            "Bomba de calor",
+            "Carregador de bordo AC 11 kW"
+          ]
+        }
+      },
+      {
+        "version": "Long Range RWD",
+        "pvp": 43950,
+        "highlights": {
+          "Bateria": "61 kWh",
+          "Tração": "RWD",
+          "Carregamento 10%-80%": "18 min",
+          "Autonomia*": "405 kms",
+          "0-100 km/h": "5.5 s",
+          "Potência Máxima": "340 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1200
+          },
+          {
+            "name": "Grid Grey",
+            "price": 1200
+          },
+          {
+            "name": "Pine Green",
+            "price": 1200
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black - Textile",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Jantes 19\", 5 raios",
+            "Teto preto",
+            "Vidros traseiros privativos",
+            "Bancos frontais com regulação elétrica e função de memória: 6 vias",
+            "Volante aquecido",
+            "Iluminação ambiente",
+            "Logótipo ZEEKR iluminado na tampa da bagageira",
+            "Sistema de som Yamaha com 13 altifalantes"
+          ]
+        }
+      },
+      {
+        "version": "Privilege AWD",
+        "pvp": 48950,
+        "highlights": {
+          "Bateria": "69 kWh",
+          "Tração": "AWD",
+          "Carregamento 10%-80%": "30 min",
+          "Autonomia*": "415 kms",
+          "0-100 km/h": "3.7 s",
+          "Potência Máxima": "496 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1200
+          },
+          {
+            "name": "Grid Grey",
+            "price": 1200
+          },
+          {
+            "name": "Pine Green",
+            "price": 1200
+          },
+          {
+            "name": "Palace Beige",
+            "price": 1600
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black & Stone Grey - PU Leather",
+            "price": 0
+          },
+          {
+            "name": "Midnight Blue & Polar White - PU Leather",
+            "price": 1500
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Jantes 20\"",
+            "Head-up display de 24.3\"",
+            "Ecrã inteligente no pilar B",
+            "Carregador de bordo AC 22 kW",
+            "Bancos dianteiros ventilados com ajuste lombar elétrico: 4 vias",
+            "Bancos dianteiros com função de massagem: 8 vias",
+            "Sistema de controlo de tração ZEEKR"
+          ]
+        }
+      }
+    ]
+  },
+  "ZEEKR 7X": {
+    "model": "ZEEKR 7X",
+    "legal_notes": [
+      "Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização."
+    ],
+    "versions": [
+      {
+        "version": "Long Range RWD",
+        "pvp": 59950,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "RWD",
+          "Carregamento 10%-80%": "16 min",
+          "Autonomia*": "615 kms",
+          "0-100 km/h": "6.0 s",
+          "Potência Máxima": "421 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1300
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Forest Green",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Inclui Jantes 20\" + Pack Cockpit + Pack Leather",
+            "Ecrã central de 16\"",
+            "Painel de instrumentos de 13\"",
+            "Atualizações de software remotas (Over-the-Air), ZEEKR GPT, Navi 2.0",
+            "ZEEKR Assisted Drive: Funcionalidades de estacionamento, segurança e condução",
+            "V2L (Vehicle-to-Load)",
+            "Faróis Matrix LED",
+            "Bancos em couro perfurado",
+            "Teto de abrir panorâmico com cortina elétrica",
+            "Volante em couro ajustado eletricamente com função de memória: 4 vias",
+            "Espelho retrovisor com escurecimento automático (lado do condutor)"
+          ]
+        },
+        "optionals": [
+          {
+            "name": "Advanced Cockpit Pack",
+            "imageKey": "advanced_cockpit_package",
+            "description": "- Head-Up Display com realidade aumentada de 36.2\"\n- Sistema de som Zeekr: 21 altifalantes (2160 W & 71.4 Dolby Sound) com ajuste de som profissional por IA\n- Altifalante no encosto de cabeça do condutor\n- Sistema de qualidade do ar/fragância"
+          },
+          {
+            "name": "Nappa & PU Charcoal Black",
+            "imageKey": "nappa_pu_charcoal_black",
+            "description": "Nappa & ZeekraTek com superfície perforada\nAs superfícies de Nappa são finamente perfuradas com um padrão pied-de-poule. A perfuração aumenta o conforto, permitindo a circulação de ar e auxiliando nos recursos de climatização."
+          }
+        ]
+      },
+      {
+        "version": "Privilege AWD",
+        "pvp": 68450,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "AWD",
+          "Carregamento 10%-80%": "16 min",
+          "Autonomia*": "543 kms",
+          "0-100 km/h": "3.8 s",
+          "Potência Máxima": "646 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1300
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Forest Green",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Inclui Pack Cockpit + Pack Comfort",
+            "6 modos de condução incluindo todo-o-terreno",
+            "Suspensão pneumática ativa com controlo contínuo de amortecimento (CDC)",
+            "Teto e spoiler traseiro em preto",
+            "Discos de travão e pinças fixas de 4 pistões (à frente), pintadas de laranja"
+          ]
+        },
+        "optionals": [
+          {
+            "name": "Advanced Cockpit Pack",
+            "imageKey": "advanced_cockpit_package",
+            "description": "- Head-Up Display com realidade aumentada de 36.2\"\n- Sistema de som Zeekr: 21 altifalantes (2160 W & 71.4 Dolby Sound) com ajuste de som profissional por IA\n- Altifalante no encosto de cabeça do condutor\n- Sistema de qualidade do ar/fragância"
+          },
+          {
+            "name": "Comfort Pack",
+            "imageKey": "comfort_package",
+            "description": "- Portas frontais e traseiras elétricas: abertura e fecho elétricos, paragem automática, trava elétronica\n- Bancos frontais ventilados (3 níveis)\n- Bancos frontais com função de massagem (3 níveis)\n- Ajuste lombar elétrico em 4 vias no banco do passageiro frontal\n- Cortinas elétricas"
+          },
+          {
+            "name": "Nappa & PU Charcoal Black",
+            "imageKey": "nappa_pu_charcoal_black",
+            "description": "Nappa & ZeekraTek com superfície perforada\nAs superfícies de Nappa são finamente perfuradas com um padrão pied-de-poule. A perfuração aumenta o conforto, permitindo a circulação de ar e auxiliando nos recursos de climatização."
+          }
+        ]
+      }
+    ]
+  },
+  "ZEEKR 7GT": {
+    "model": "ZEEKR 7GT",
+    "legal_notes": [
+      "Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização."
+    ],
+    "versions": [
+      {
+        "version": "Long Range RWD",
+        "pvp": 55450,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "RWD",
+          "Carregamento 10%-80%": "16 min",
+          "Autonomia*": "655 kms",
+          "0-100 km/h": "5.3 s",
+          "Potência Máxima": "421 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1300
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Glacier Silver",
+            "price": 1300
+          },
+          {
+            "name": "Mystic Lilac",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black",
+            "price": 0
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Jantes 19\"",
+            "Ecrã central de 15\"",
+            "Painel de instrumentos de 13\"",
+            "Navegação ZEEKR",
+            "Atualizações de software remotas (Over-the-Air)",
+            "ZEEKR GPT",
+            "ZEEKR Assisted Drive: Funcionalidades de estacionamento, segurança e condução",
+            "Ajuste elétrico do banco traseiro (bidirecional, porta para esquis)",
+            "Faróis Matrix LED",
+            "Bancos em pele Nappa perfurada",
+            "Teto panorâmico",
+            "Head-up display de 35.5\"",
+            "Sistema de som ZEEKR Premium: 23 altifalantes + subwoofer + altifalante no encosto de cabeça do condutor",
+            "Sistema de aromatização do habitáculo",
+            "Espelho retrovisor exterior com escurecimento automático (lado do condutor)"
+          ]
+        }
+      },
+      {
+        "version": "Privilege AWD",
+        "pvp": 61950,
+        "highlights": {
+          "Bateria": "100 kWh",
+          "Tração": "AWD",
+          "Carregamento 10%-80%": "16 min",
+          "Autonomia*": "558 kms",
+          "0-100 km/h": "3.3 s",
+          "Potência Máxima": "646 cv"
+        },
+        "exterior_colors": [
+          {
+            "name": "Crystal White",
+            "price": 0
+          },
+          {
+            "name": "Onyx Black",
+            "price": 1300
+          },
+          {
+            "name": "Tech Grey",
+            "price": 1300
+          },
+          {
+            "name": "Glacier Silver",
+            "price": 1300
+          },
+          {
+            "name": "Mystic Lilac",
+            "price": 1300
+          }
+        ],
+        "interior_colors": [
+          {
+            "name": "Charcoal Black",
+            "price": 0
+          },
+          {
+            "name": "Charcoal black & White",
+            "price": 1500
+          }
+        ],
+        "equipment": {
+          "items": [
+            "Jantes 20\"",
+            "Suspensão pneumática ativa com controlo contínuo de amortecimento (CDC)",
+            "Teto e spoiler traseiro em preto",
+            "Discos de travão e pinças fixas de 4 pistões (à frente), pintadas de laranja",
+            "Bancos dianteiros ventilados com função de massagem e apoio lombar elétrico de 4 vias",
+            "Portas dianteiras e traseiras elétricas"
+          ]
+        }
+      }
+    ]
+  }
+}

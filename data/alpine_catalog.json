@@ -1,0 +1,626 @@
+{
+  "models": [
+    {
+      "modelId": "veiculos",
+      "modelName": "A110",
+      "configuratorUrl": "https://www.alpinecars.pt/gama/veiculos/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC218_EURG",
+          "versionName": "A110",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF_/Andg",
+          "startingPrice": 75599.99,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "Blanc Glacier",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiKM"
+            },
+            {
+              "code": "TERQS",
+              "name": "Bleu Abysse",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiLg"
+            },
+            {
+              "code": "TEKPU",
+              "name": "Gris Tonnerre",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiLM"
+            },
+            {
+              "code": "TEGNA",
+              "name": "Noir Profond",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiLE"
+            },
+            {
+              "code": "TERQR",
+              "name": "Bleu Alpine",
+              "price": 2404.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiLc"
+            },
+            {
+              "code": "TEQNT",
+              "name": "Blanc Irisé",
+              "price": 2404.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndiLY"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_serac_noir_diamantees",
+              "name": "Jantes em liga leve 18\" Sérac Noir Diamantées",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndwDQ"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-99-E2-80-99_grand_prix_noir_diamantees",
+              "name": "Jantes em liga leve 18’’ Grand Prix Noir Diamantées",
+              "price": 519.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndwCY"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC217_EURG",
+          "versionName": "A110 GTS",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneA",
+          "startingPrice": 90451.09,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "Blanc Glacier",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCKM"
+            },
+            {
+              "code": "TERQS",
+              "name": "Bleu Abysse",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCLg"
+            },
+            {
+              "code": "TEKPU",
+              "name": "Gris Tonnerre",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCLM"
+            },
+            {
+              "code": "TEGNA",
+              "name": "Noir Profond",
+              "price": 1110,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCLE"
+            },
+            {
+              "code": "TERQR",
+              "name": "Bleu Alpine",
+              "price": 2404.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCLc"
+            },
+            {
+              "code": "TEQNT",
+              "name": "Blanc Irisé",
+              "price": 2404.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneCLY"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_fuchs",
+              "name": "Jantes em liga leve 18\" Fuchs",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneQCg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_fuchs_gris_titane",
+              "name": "Jantes em liga leve 18\" Fuchs Gris Titane",
+              "price": 920,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneQCo"
+            },
+            {
+              "code": "PT5556_jantes_18_gt_race_gris_tonnerre_mat_diamantees",
+              "name": "Jantes 18'' GT Race Gris Tonnerre Mat Diamantees",
+              "price": 1500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneQCA"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_gt_race_noir_diamantees",
+              "name": "Jantes em liga leve 18\" GT Race Noir Diamantées",
+              "price": 1540,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneQC4"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_gt_race_noir_mat",
+              "name": "Jantes em liga leve 18\" GT Race Noir Mat",
+              "price": 1540,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AneQDA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC219_EURG",
+          "versionName": "A110 R 70",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncA",
+          "startingPrice": 125400,
+          "colors": [
+            {
+              "code": "TERQR",
+              "name": "Bleu Alpine",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncCLc"
+            },
+            {
+              "code": "TEQNT",
+              "name": "Blanc Irisé",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncCLY"
+            },
+            {
+              "code": "TEKPU",
+              "name": "Gris Tonnerre",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncCLM"
+            },
+            {
+              "code": "TEGNA",
+              "name": "Noir Profond",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncCLE"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_carbono_18_blanc",
+              "name": "Jantes em carbono 18\" Blanc",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncQCI"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC220_EURG",
+          "versionName": "A110 R 70 - Blanc",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF_/Ancg",
+          "startingPrice": 125400,
+          "colors": [
+            {
+              "code": "OV369",
+              "name": "Blanc Glacier",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AnciKM"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_carbono_18_blanc",
+              "name": "Jantes em carbono 18\" Blanc",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AncwCI"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC222_EURG",
+          "versionName": "A110 R 70 - Rouge",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndA",
+          "startingPrice": 125400,
+          "colors": [],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_carbono_18_rouge",
+              "name": "Jantes em carbono 18\" Rouge",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEF_/AndQCQ"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "a290",
+      "modelName": "A290",
+      "configuratorUrl": "https://www.alpinecars.pt/modelos-eletricos/a290/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC025_PORT",
+          "versionName": "GT",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0",
+          "startingPrice": 39000,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "Blanc Nival",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FOg"
+            },
+            {
+              "code": "BIXUI",
+              "name": "Blanc Nival / Noir",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FMA"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FPA"
+            },
+            {
+              "code": "TEKQL",
+              "name": "Gris Tornade Mat",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FOA"
+            },
+            {
+              "code": "TEGNE",
+              "name": "Noir Profond",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FNg"
+            },
+            {
+              "code": "BIYYS",
+              "name": "Bleu Alpine Vision / Noir",
+              "price": 1400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FNA"
+            },
+            {
+              "code": "BIYVM",
+              "name": "Gris Tornade Mat / Noir",
+              "price": 1400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0FMg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_19_iconic_diamantees_noir_brillant",
+              "name": "Jantes 19\" ICONIC Diamantées Noir Brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0gkA"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0gkg"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_semi_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Semi Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao0gmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC028_PORT",
+          "versionName": "GT Performance",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1",
+          "startingPrice": 42200,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "Blanc Nival",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FOg"
+            },
+            {
+              "code": "BIXUI",
+              "name": "Blanc Nival / Noir",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FMA"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FPA"
+            },
+            {
+              "code": "TEKQL",
+              "name": "Gris Tornade Mat",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FOA"
+            },
+            {
+              "code": "TEGNE",
+              "name": "Noir Profond",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FNg"
+            },
+            {
+              "code": "BIYYS",
+              "name": "Bleu Alpine Vision / Noir",
+              "price": 1400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FNA"
+            },
+            {
+              "code": "BIYVM",
+              "name": "Gris Tornade Mat / Noir",
+              "price": 1400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1FMg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_19_iconic_diamantees_noir_brillant",
+              "name": "Jantes 19\" ICONIC Diamantées Noir Brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1gkA"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1gkg"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_semi_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Semi Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao1gmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC029_PORT",
+          "versionName": "GT Premium",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2",
+          "startingPrice": 42200,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "Blanc Nival",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FOg"
+            },
+            {
+              "code": "BIXUI",
+              "name": "Blanc Nival / Noir",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FMA"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FPA"
+            },
+            {
+              "code": "TEKQL",
+              "name": "Gris Tornade Mat",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FOA"
+            },
+            {
+              "code": "TEGNE",
+              "name": "Noir Profond",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FNg"
+            },
+            {
+              "code": "BIYYS",
+              "name": "Bleu Alpine Vision / Noir",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FNA"
+            },
+            {
+              "code": "BIYVM",
+              "name": "Gris Tornade Mat / Noir",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2FMg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_19_iconic_diamantees_noir_brillant",
+              "name": "Jantes 19\" ICONIC Diamantées Noir Brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2gkA"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2gkg"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_semi_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Semi Diamantées Noir Brillant",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao2gmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC026_PORT",
+          "versionName": "GTS",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3",
+          "startingPrice": 45200,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "Blanc Nival",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FOg"
+            },
+            {
+              "code": "BIXUI",
+              "name": "Blanc Nival / Noir",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FMA"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FPA"
+            },
+            {
+              "code": "TEKQL",
+              "name": "Gris Tornade Mat",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FOA"
+            },
+            {
+              "code": "TEGNE",
+              "name": "Noir Profond",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FNg"
+            },
+            {
+              "code": "BIYYS",
+              "name": "Bleu Alpine Vision / Noir",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FNA"
+            },
+            {
+              "code": "BIYVM",
+              "name": "Gris Tornade Mat / Noir",
+              "price": 900,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3FMg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_19_snowflake_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Noir Brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3glA"
+            },
+            {
+              "code": "PT5556_jantes_19_iconic_diamantees_noir_brillant",
+              "name": "Jantes 19\" ICONIC Diamantées Noir Brillant",
+              "price": 450,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3gkA"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Diamantées Noir Brillant",
+              "price": 450,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3gkg"
+            },
+            {
+              "code": "PT5556_jantes_19_snowflake_semi_diamantees_noir_brillant",
+              "name": "Jantes 19\" SNOWFLAKE Semi Diamantées Noir Brillant",
+              "price": 450,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIj/Ao3gmg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "a390",
+      "modelName": "A390",
+      "configuratorUrl": "https://www.alpinecars.pt/modelos-eletricos/a390/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC004_PORT",
+          "versionName": "GT",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkM",
+          "startingPrice": 67500,
+          "colors": [
+            {
+              "code": "TEQPC",
+              "name": "Blanc Topaze",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkMK7"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkMK9"
+            },
+            {
+              "code": "TERQS",
+              "name": "Bleu Abysse",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkMK8"
+            },
+            {
+              "code": "TEKPY",
+              "name": "Argent Mercure",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkMK6"
+            },
+            {
+              "code": "TEGNA",
+              "name": "Noir Profond",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkMK4"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_cristal_diamantadas_noir_brillant",
+              "name": "Jantes em liga leve de 20\" CRISTAL diamantadas Noir brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkM8I"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_21-E2-80-9D_snowflake_diamantadas_e_forjadas_noir_brillant",
+              "name": "Jantes em liga leve de 21” SNOWFLAKE diamantadas e forjadas Noir brillant",
+              "price": 1799.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkM8K"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC005_PORT",
+          "versionName": "GTS",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkO",
+          "startingPrice": 77999.99,
+          "colors": [
+            {
+              "code": "TEQPC",
+              "name": "Blanc Topaze",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkOK7"
+            },
+            {
+              "code": "TERRR",
+              "name": "Bleu Alpine Vision",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkOK9"
+            },
+            {
+              "code": "TERQS",
+              "name": "Bleu Abysse",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkOK8"
+            },
+            {
+              "code": "TEKPY",
+              "name": "Argent Mercure",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkOK6"
+            },
+            {
+              "code": "TEGNA",
+              "name": "Noir Profond",
+              "price": 1600,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkOK4"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_21-E2-80-9D_snowflake_diamantadas_e_forjadas_noir_brillant",
+              "name": "Jantes em liga leve de 21” SNOWFLAKE diamantadas e forjadas Noir brillant",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkO8K"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_cristal_diamantadas_noir_brillant",
+              "name": "Jantes em liga leve de 20\" CRISTAL diamantadas Noir brillant",
+              "price": 400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEIp/AkO8I"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

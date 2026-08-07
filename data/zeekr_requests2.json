@@ -1,0 +1,63 @@
+[
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/favicon.png"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.zeekr.pt/data/zeekr_configurador.json",
+    "sample": "{\n  \"ZEEKR 001\": {\n    \"model\": \"ZEEKR 001\",\n    \"legal_notes\": [\n      \"Autonomia calculada segundo o ciclo WLTP. Os valores reais podem variar em função das condições de utilização.\"\n    ],\n    \"versions\": [\n      {\n        \"version\": \"Long Range RWD\",\n        \"pvp\": 60950,\n        \"highlights\": {\n          \"Bateria\": \"100 kWh\",\n          \"Tração\": \"RWD\",\n          \"Carregamento 10%-80%\": \"30 min\",\n          \"Autonomia*\": \"620 kms\",\n          \"0-100 km/h\": \"7.2 s\",\n          \"Potência Máxima\": \"272 cv\"\n        },\n        \"exterior_colors\": [\n          {\n            \"name\": \"Crystal White\",\n            \"price\": 0\n          },\n          {\n            \"name\": \"Tech Grey\",\n            \"price\": 1300\n          },\n          {\n            \"name\": \"Phantom Black\",\n            \"price\": 1300\n          }\n        ],\n        \"interior_colors\": [\n          {\n            \"name\": \"Charcoal Black & Stone Grey\",\n            \"price\": 0\n          }\n        ],\n        \"equipment\": {\n          \"Exterior\": [\n            \"Jantes de 21\\\"\",\n            \"Faróis Matrix LED\",\n            \"Bagageira elétrica\",\n            \"Teto panorâmico com proteção térmica\",\n            \"Vidros traseiros privativos\"\n          ],\n          \"Interior\": [\n            \"7 airbags\",\n            \"Bancos do condutor e do passageiro dianteiro com regulação elétrica e memória: 12 vias\",\n            \"Bancos dianteiros, banco traseiro e volante aquecidos\",\n            \"Bancos em pele\",\n            \"Banco traseiro rebatível 60/40\",\n            \"Regulação elétrica do banco traseiro: 2 vias\",\n            \"Volante em pele com regulação elétrica: 4 vias com painel tátil\",\n            \"Carregador de telemóvel sem fios\",\n            \"8 altifalantes\",\n            \"Climatização de 2 zonas\",\n            \"Iluminação ambiente: 12 cores\"\n          ],\n          \"Cabine Inteligente\": [\n            \"Ecrã central de 15,4\\\" e painel de instrumentos HD de 8,8\\\"\",\n            \"Head-up display de 14,7\\\"\",\n            \"Apple CarPlay / Androi"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-1-crystal-white.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-2-crystal-white.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-chips-crystal-white.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-3-crystal-white.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/X/zeekr-x-cover.webp"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Interior/zeekr-001-interior-1-charcoal-black-stone-grey-leather.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-chips-phantom-black.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/7X/zeekr-7x-cover.webp"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Interior/zeekr-001-interior-2-charcoal-black-stone-grey-leather.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Exterior/zeekr-001-exterior-chips-tech-grey.png"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/7GT/zeekr-7gt-cover.webp"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/zeekr-001-cover.webp"
+  },
+  {
+    "type": "image",
+    "url": "https://configurador.zeekr.pt/images/configurator/001/Long%20Range%20RWD/Interior/zeekr-001-interior-chips-charcoal-black-stone-grey-leather.png"
+  }
+]

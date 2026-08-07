@@ -1,0 +1,5119 @@
+{
+  "models": [
+    {
+      "modelId": "grand-kangoo-e-tech-eletrico",
+      "modelName": "Grand Kangoo (E-Tech Eléctrico)",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/grand-kangoo-e-tech-eletrico/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VECA2H_PORT",
+          "versionName": "L2 equilibre autonomia conforto 22 CA/80 CC (7lug) my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1g",
+          "startingPrice": 43500,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz1i6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_design_purna",
+              "name": "jantes em liga leve 16\" design PURNA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz11bA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2K_PORT",
+          "versionName": "L2 techno autonomia conforto 22 CA/80 CC (7lug) my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2A",
+          "startingPrice": 44480,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16_design_purna",
+              "name": "jantes em liga leve 16\" design PURNA",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAiJiJj/Aqlz2VbA"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "megane-e-tech-eletrico",
+      "modelName": "Megane E-Tech elétrico",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/megane-e-tech-eletrico/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC286_ESPA",
+          "versionName": "techno 220 cv autonomia conforto (stock)",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8w",
+          "startingPrice": 38830.01,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWe"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWa"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWf"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWd"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWc"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWb"
+            },
+            {
+              "code": "BIYWY",
+              "name": "branco glaciar com tejadilho cinzento shiste",
+              "price": 1050,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWX"
+            },
+            {
+              "code": "BIXUF",
+              "name": "branco glaciar com tejadilho preto estrela",
+              "price": 1050,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWR"
+            },
+            {
+              "code": "BIYXA",
+              "name": "vermelho flamme com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWZ"
+            },
+            {
+              "code": "BIYWZ",
+              "name": "azul noturno com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWY"
+            },
+            {
+              "code": "BIYWX",
+              "name": "preto estrela com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWW"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWV"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWS"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8wWQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_18_oston",
+              "name": "jantes em liga leve de 18\" oston",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW8yKQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC293_ESPA",
+          "versionName": "esprit Alpine 220 cv autonomia conforto (stock)",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80",
+          "startingPrice": 40830,
+          "colors": [
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80Wb"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80Wd"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80Wc"
+            },
+            {
+              "code": "BIYWX",
+              "name": "preto estrela com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80WW"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80WU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW80WS"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_especificas_esprit_alpine",
+              "name": "jantes em liga leve de 20\" específicas esprit Alpine",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW82KY"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC287_ESPA",
+          "versionName": "iconic 220 cv autonomia conforto (stock)",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84",
+          "startingPrice": 43379.99,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84We"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84Wa"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84Wf"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84Wd"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84Wc"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84Wb"
+            },
+            {
+              "code": "BIXUF",
+              "name": "branco glaciar com tejadilho preto estrela",
+              "price": 1050,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WR"
+            },
+            {
+              "code": "BIYWX",
+              "name": "preto estrela com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WW"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WV"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WS"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW84WQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_18_oston",
+              "name": "jantes em liga leve de 18\" oston",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW86KQ"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_enos",
+              "name": "jantes em liga leve de 20\" enos",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHv/AiW86KU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "r4-e-tech-eletrico",
+      "modelName": "Renault 4",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/r4-e-tech-eletrico/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC066_PORT",
+          "versionName": "evolution 120cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4",
+          "startingPrice": 29740,
+          "colors": [
+            {
+              "code": "TENPF",
+              "name": "vermelho carmim",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4F2w"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4F1g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4F2g"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4F1w"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_18-E2-80-9D_jogging_bi_tom",
+              "name": "embelezadores 18” jogging bi-tom",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkVW4kc"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC064_PORT",
+          "versionName": "evolution 150cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4",
+          "startingPrice": 33240,
+          "colors": [
+            {
+              "code": "TENPF",
+              "name": "vermelho carmim",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4F2w"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4F1g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4F2g"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4F1w"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_18-E2-80-9D_jogging_bi_tom",
+              "name": "embelezadores 18” jogging bi-tom",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW4kc"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC070_PORT",
+          "versionName": "techno 150cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5",
+          "startingPrice": 35240,
+          "colors": [
+            {
+              "code": "TENPF",
+              "name": "vermelho carmim",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F2w"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F1g"
+            },
+            {
+              "code": "TERRP",
+              "name": "verde hauts-de-France",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F3A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F2g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F2Q"
+            },
+            {
+              "code": "OVRQU",
+              "name": "azul nuage",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F2A"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F1w"
+            },
+            {
+              "code": "BIYZE",
+              "name": "azul nuage com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F1Q"
+            },
+            {
+              "code": "BIYYY",
+              "name": "vermelho carmin com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F1A"
+            },
+            {
+              "code": "BIYYX",
+              "name": "branco glaciar com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F0w"
+            },
+            {
+              "code": "BIYYV",
+              "name": "verde hauts-de-France com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F0g"
+            },
+            {
+              "code": "BIYYU",
+              "name": "castanho terracotta com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F0Q"
+            },
+            {
+              "code": "BIYYT",
+              "name": "cinzento urban com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5F0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_sixties_com_corte_diamantado_preto",
+              "name": "jantes em liga leve 18” sixties com corte diamantado preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW5ke"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC071_PORT",
+          "versionName": "techno “plein sud™” 150cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7",
+          "startingPrice": 37040,
+          "colors": [
+            {
+              "code": "TENPF",
+              "name": "vermelho carmim",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F2w"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F1g"
+            },
+            {
+              "code": "TERRP",
+              "name": "verde hauts-de-France",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F3A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F2g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F2Q"
+            },
+            {
+              "code": "OVRQU",
+              "name": "azul nuage",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F2A"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F1w"
+            },
+            {
+              "code": "BIYZE",
+              "name": "azul nuage com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F1Q"
+            },
+            {
+              "code": "BIYYY",
+              "name": "vermelho carmin com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F1A"
+            },
+            {
+              "code": "BIYYX",
+              "name": "branco glaciar com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F0w"
+            },
+            {
+              "code": "BIYYV",
+              "name": "verde hauts-de-France com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F0g"
+            },
+            {
+              "code": "BIYYU",
+              "name": "castanho terracotta com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F0Q"
+            },
+            {
+              "code": "BIYYT",
+              "name": "cinzento urban com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7F0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_sixties_com_corte_diamantado_preto",
+              "name": "jantes em liga leve 18” sixties com corte diamantado preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW7ke"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC073_PORT",
+          "versionName": "iconic 150cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6",
+          "startingPrice": 37240,
+          "colors": [
+            {
+              "code": "BIYYY",
+              "name": "vermelho carmin com tejadilho preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F1A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F2g"
+            },
+            {
+              "code": "BIYZE",
+              "name": "azul nuage com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F1Q"
+            },
+            {
+              "code": "BIYYX",
+              "name": "branco glaciar com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F0w"
+            },
+            {
+              "code": "BIYYV",
+              "name": "verde hauts-de-France com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F0g"
+            },
+            {
+              "code": "BIYYU",
+              "name": "castanho terracotta com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F0Q"
+            },
+            {
+              "code": "BIYYT",
+              "name": "cinzento urban com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6F0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_parisienne_com_corte_diamantado_preto",
+              "name": "jantes em liga leve 18” parisienne com corte diamantado preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW6kd"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC074_PORT",
+          "versionName": "iconic “plein sud™” 150cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8",
+          "startingPrice": 39040,
+          "colors": [
+            {
+              "code": "BIYYY",
+              "name": "vermelho carmin com tejadilho preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F1A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F2g"
+            },
+            {
+              "code": "BIYZE",
+              "name": "azul nuage com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F1Q"
+            },
+            {
+              "code": "BIYYX",
+              "name": "branco glaciar com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F0w"
+            },
+            {
+              "code": "BIYYV",
+              "name": "verde hauts-de-France com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F0g"
+            },
+            {
+              "code": "BIYYU",
+              "name": "castanho terracotta com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F0Q"
+            },
+            {
+              "code": "BIYYT",
+              "name": "cinzento urban com tejadilho preto",
+              "price": 1200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8F0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_parisienne_com_corte_diamantado_preto",
+              "name": "jantes em liga leve 18” parisienne com corte diamantado preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHs/AkXW8kd"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "r5-e-tech-eletrico",
+      "modelName": "Renault 5",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/r5-e-tech-eletrico/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC048_PORT",
+          "versionName": "five 95 cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An2t1A",
+          "startingPrice": 24900,
+          "colors": [
+            {
+              "code": "TEDQL",
+              "name": "verde pop",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An2t1C2o"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An2t1C24"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_18_disco",
+              "name": "jantes de aço de 18\" disco",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An2t1T_A"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC043_PORT",
+          "versionName": "evolution 120 cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1g",
+          "startingPrice": 27740.01,
+          "colors": [
+            {
+              "code": "TEDQL",
+              "name": "verde pop",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1i2o"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1i3A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1i24"
+            },
+            {
+              "code": "TEEQJ",
+              "name": "amarelo pop",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1i2w"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_18_disco",
+              "name": "jantes de aço de 18\" disco",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t1z_A"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC044_PORT",
+          "versionName": "techno 120 cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2A",
+          "startingPrice": 29740,
+          "colors": [
+            {
+              "code": "TEDQL",
+              "name": "verde pop",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2o"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C3A"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C3I"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C24"
+            },
+            {
+              "code": "TEEQJ",
+              "name": "amarelo pop",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2w"
+            },
+            {
+              "code": "BIYYB",
+              "name": "verde pop com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2g"
+            },
+            {
+              "code": "BIYYA",
+              "name": "amarelo pop com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2Y"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2Q"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2C2A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_18_techno_preto_diamantado",
+              "name": "jantes 18\" techno preto diamantado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2T-g"
+            },
+            {
+              "code": "PT5556_jantes_18_chrono_preto_diamantado",
+              "name": "jantes 18\" chrono preto diamantado",
+              "price": 410,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An0t2T-A"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC053_PORT",
+          "versionName": "evolution 150 cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1g",
+          "startingPrice": 31240,
+          "colors": [
+            {
+              "code": "TEDQL",
+              "name": "verde pop",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1i2o"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1i3A"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1i24"
+            },
+            {
+              "code": "TEEQJ",
+              "name": "amarelo pop",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1i2w"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_de_18_disco",
+              "name": "jantes de aço de 18\" disco",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t1z_A"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC045_PORT",
+          "versionName": "techno 150 cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2A",
+          "startingPrice": 33240,
+          "colors": [
+            {
+              "code": "TEDQL",
+              "name": "verde pop",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2o"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C3A"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C3I"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C24"
+            },
+            {
+              "code": "TEEQJ",
+              "name": "amarelo pop",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2w"
+            },
+            {
+              "code": "BIYYB",
+              "name": "verde pop com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2g"
+            },
+            {
+              "code": "BIYYA",
+              "name": "amarelo pop com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2Y"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2Q"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2C2A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_18_techno_preto_diamantado",
+              "name": "jantes 18\" techno preto diamantado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2T-g"
+            },
+            {
+              "code": "PT5556_jantes_18_chrono_preto_diamantado",
+              "name": "jantes 18\" chrono preto diamantado",
+              "price": 410,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t2T-A"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC046_PORT",
+          "versionName": "iconic cinq 150 cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0A",
+          "startingPrice": 35240,
+          "colors": [
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0C24"
+            },
+            {
+              "code": "BIYYA",
+              "name": "amarelo pop com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0C2Y"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0C2Q"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0C2A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_18_chrono_preto_diamantado",
+              "name": "jantes 18\" chrono preto diamantado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0T-A"
+            },
+            {
+              "code": "PT5556_jantes_18_techno_preto_diamantado",
+              "name": "jantes 18\" techno preto diamantado",
+              "price": 410,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0T-g"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC050_PORT",
+          "versionName": "roland-garros 150 cv autonomia conforto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0g",
+          "startingPrice": 36740,
+          "colors": [
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0i24"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0i2Q"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0i2A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_electro_com_corte_diamantado_preto",
+              "name": "jantes em liga leve 18\" electro com corte diamantado preto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHr/An1t0z_g"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "scenic-e-tech-eletrico",
+      "modelName": "Scenic E-Tech elétrico",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/scenic-e-tech-eletrico/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC107_ESPA",
+          "versionName": "techno 220 cv grande autonomia",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqw",
+          "startingPrice": 49640,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwt2"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwt6"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwt4"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwt0"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwty"
+            },
+            {
+              "code": "BIYXJ",
+              "name": "branco nacarado com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwtw"
+            },
+            {
+              "code": "BIYXA",
+              "name": "vermelho flamme com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwtu"
+            },
+            {
+              "code": "BIYWZ",
+              "name": "azul noturno com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwts"
+            },
+            {
+              "code": "BIYWX",
+              "name": "preto estrela com tejadilho cinzento shiste",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwtq"
+            },
+            {
+              "code": "BIYWW",
+              "name": "azul noturno com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwto"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwtk"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwti"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWqwtg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_19_com_corte_diamantado_streamline",
+              "name": "jantes em liga leve de 19\" com corte diamantado streamline",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq0cg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC100_ESPA",
+          "versionName": "esprit Alpine 220 cv grande autonomia",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4",
+          "startingPrice": 51590,
+          "colors": [
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4ty"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4t4"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4t0"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4tk"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq4ti"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_com_corte_diamantado_speedway",
+              "name": "jantes em liga leve de 20\" com corte diamantado speedway",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHm/AjWq8cw"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "twingo",
+      "modelName": "Twingo",
+      "configuratorUrl": "https://www.renault.pt/veiculos-eletricos/twingo/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC001_PORT",
+          "versionName": "evolution 80 cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZw",
+          "startingPrice": 19490,
+          "colors": [
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwq0"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwqg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwqw"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwqs"
+            },
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwqo"
+            },
+            {
+              "code": "OVEQD",
+              "name": "amarelo manga",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZwqk"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_16_domino",
+              "name": "embelezadores de 16\" domino",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ0Jo"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_pretas_mikado",
+              "name": "jantes em liga leve 18\" diamantadas pretas mikado",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ0Jw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC002_PORT",
+          "versionName": "techno 80 cv autonomia urbana",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4",
+          "startingPrice": 21090,
+          "colors": [
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4q0"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4qg"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4qw"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4qs"
+            },
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4qo"
+            },
+            {
+              "code": "OVEQD",
+              "name": "amarelo manga",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ4qk"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_16_bi_tom_diabolo",
+              "name": "embelezadores de 16\" bi-tom diabolo",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ8Jg"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_pretas_reverso",
+              "name": "jantes em liga leve 18\" diamantadas pretas reverso",
+              "price": 599.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHu/AhGZ8J4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "arkana",
+      "modelName": "Arkana",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/arkana/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC114_PORT",
+          "versionName": "techno full hybrid E-Tech 145",
+          "confURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQ",
+          "startingPrice": 32519.99,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQqw"
+            },
+            {
+              "code": "TEGXA",
+              "name": "preto metal",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQqk"
+            },
+            {
+              "code": "OVQXB",
+              "name": "branco opaco",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQqg"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQq4"
+            },
+            {
+              "code": "TEQXD",
+              "name": "branco universal",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQq0"
+            },
+            {
+              "code": "TEKAD",
+              "name": "cinzento metal",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWQqo"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_17_bahamas",
+              "name": "jantes em liga leve de 17\" bahamas",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWT7g"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_18_silverstone",
+              "name": "jantes em liga leve de 18\" silverstone",
+              "price": 310,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWT7o"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC117_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 145",
+          "confURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWY",
+          "startingPrice": 37020,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYqw"
+            },
+            {
+              "code": "TEGXA",
+              "name": "preto metal",
+              "price": 700.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYqk"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYq4"
+            },
+            {
+              "code": "TEQXD",
+              "name": "branco universal",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYq0"
+            },
+            {
+              "code": "TEKAD",
+              "name": "cinzento metal",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYqo"
+            },
+            {
+              "code": "TEKQS",
+              "name": "cinzento metal acetinado",
+              "price": 1550,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWYqs"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_19_elixir",
+              "name": "jantes em liga leve de 19\" elixir",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BADf2/AfWWb7w"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "austral-suv",
+      "modelName": "Austral",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/austral-suv/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC282_PORT",
+          "versionName": "techno mild hybrid 150 auto",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqo",
+          "startingPrice": 37230,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZY"
+            },
+            {
+              "code": "TERRS",
+              "name": "azul naxos",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZa"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZZ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZX"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZW"
+            },
+            {
+              "code": "BIYYZ",
+              "name": "azul naxos com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZS"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado brilhante com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZR"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqoZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_19_komah",
+              "name": "jantes em liga leve de 19\" komah",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApPqqlQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC272_PORT",
+          "versionName": "techno full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqo",
+          "startingPrice": 40130,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZY"
+            },
+            {
+              "code": "TERRS",
+              "name": "azul naxos",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZa"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZZ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZX"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZW"
+            },
+            {
+              "code": "BIYYZ",
+              "name": "azul naxos com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZS"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado brilhante com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZR"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqoZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_19_komah",
+              "name": "jantes em liga leve de 19\" komah",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqqlQ"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC273_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqs",
+          "startingPrice": 43030,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZY"
+            },
+            {
+              "code": "TERRS",
+              "name": "azul naxos",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZa"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZZ"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZX"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZW"
+            },
+            {
+              "code": "BIYYZ",
+              "name": "azul naxos com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZU"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZS"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado brilhante com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZR"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqsZQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_altitude",
+              "name": "jantes em liga leve de 20\" altitude",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEE7/ApNqulU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "captur",
+      "modelName": "Captur",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/captur/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC132_PORT",
+          "versionName": "evolution Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyM",
+          "startingPrice": 25690,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezador_de_jantes_de_17_nymphea",
+              "name": "embelezador de jantes de 17'' nymphéa",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyMpk"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC131_PORT",
+          "versionName": "evolution TCe 115",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyM",
+          "startingPrice": 25690,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezador_de_jantes_de_17_nymphea",
+              "name": "embelezador de jantes de 17'' nymphéa",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyMpk"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC140_PORT",
+          "versionName": "techno Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyN",
+          "startingPrice": 28290,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_18_black_hole",
+              "name": "jantes em liga leve diamantadas 18'' black hole",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApcyNpm"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC135_PORT",
+          "versionName": "techno TCe 115",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyN",
+          "startingPrice": 28290,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_18_black_hole",
+              "name": "jantes em liga leve diamantadas 18'' black hole",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApfyNpm"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC136_PORT",
+          "versionName": "techno mild hybrid 140 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyN",
+          "startingPrice": 29790,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_18_black_hole",
+              "name": "jantes em liga leve diamantadas 18'' black hole",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApeyNpm"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC137_PORT",
+          "versionName": "techno full hybrid E-Tech 160",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyN",
+          "startingPrice": 33290,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1o"
+            },
+            {
+              "code": "BIYYP",
+              "name": "branco nacarado com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1g"
+            },
+            {
+              "code": "BIYYN",
+              "name": "cinzento rafale com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1Y"
+            },
+            {
+              "code": "BIYYL",
+              "name": "preto estrela com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1Q"
+            },
+            {
+              "code": "BIYYK",
+              "name": "cinzento cassiopeia com tejadilho cinzento pérola",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1I"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_18_black_hole",
+              "name": "jantes em liga leve diamantadas 18'' black hole",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyNpm"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC139_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 160",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyO",
+          "startingPrice": 35839.99,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF2I"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF2Y"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF2Q"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF2A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF14"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF1w"
+            },
+            {
+              "code": "BIYYR",
+              "name": "cinzento rafale com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF1o"
+            },
+            {
+              "code": "BIYWU",
+              "name": "cinzento rafale com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF1A"
+            },
+            {
+              "code": "BIYPB",
+              "name": "azul iron com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF04"
+            },
+            {
+              "code": "BIYNW",
+              "name": "preto estrela com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0w"
+            },
+            {
+              "code": "BIYNV",
+              "name": "cinzento cassiopeia com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0o"
+            },
+            {
+              "code": "BIYNU",
+              "name": "branco nacarado com tejadilho cinzento highland",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0g"
+            },
+            {
+              "code": "BIYNM",
+              "name": "azul iron com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0Y"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0Q"
+            },
+            {
+              "code": "BIXPA",
+              "name": "vermelho flamme com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0I"
+            },
+            {
+              "code": "BIXNK",
+              "name": "cinzento cassiopeia com tejadilho preto estrela",
+              "price": 850,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOF0A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_19_elixir",
+              "name": "jantes em liga leve diamantadas 19'' elixir",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHx/ApdyOpn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-clio",
+      "modelName": "Clio",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/novo-clio/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC006_PORT",
+          "versionName": "evolution TCe 115",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGnc",
+          "startingPrice": 21990,
+          "colors": [
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFEg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFHA"
+            },
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFGg"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_16-E2-80-9D_synchro_bi_tom",
+              "name": "embelezadores 16” synchro bi-tom",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncgM"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_16-E2-80-9D_diamantadas_pretas_dynamo",
+              "name": "jantes em liga leve 16” diamantadas pretas dynamo",
+              "price": 400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGncgN"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC025_PORT",
+          "versionName": "evolution Eco-G 120 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEnc",
+          "startingPrice": 23490,
+          "colors": [
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFEg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFHA"
+            },
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFGg"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_16-E2-80-9D_synchro_bi_tom",
+              "name": "embelezadores 16” synchro bi-tom",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncgM"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_16-E2-80-9D_diamantadas_pretas_dynamo",
+              "name": "jantes em liga leve 16” diamantadas pretas dynamo",
+              "price": 400,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEncgN"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC007_PORT",
+          "versionName": "techno TCe 115",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGnd",
+          "startingPrice": 23690,
+          "colors": [
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFEg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFHA"
+            },
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFGg"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16-E2-80-9D_diamantadas_pretas_dynamo",
+              "name": "jantes em liga leve 16” diamantadas pretas dynamo",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndgN"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_diamantadas_pretas_rythmic",
+              "name": "jantes em liga leve 18” diamantadas pretas rythmic",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgGndgO"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC026_PORT",
+          "versionName": "techno Eco-G 120 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEnd",
+          "startingPrice": 25189.99,
+          "colors": [
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFEg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFHA"
+            },
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFGg"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16-E2-80-9D_diamantadas_pretas_dynamo",
+              "name": "jantes em liga leve 16” diamantadas pretas dynamo",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndgN"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_diamantadas_pretas_rythmic",
+              "name": "jantes em liga leve 18” diamantadas pretas rythmic",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEndgO"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC016_PORT",
+          "versionName": "techno TCe 115 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHnd",
+          "startingPrice": 25189.99,
+          "colors": [
+            {
+              "code": "TEDQP",
+              "name": "verde absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFEg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFHA"
+            },
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFGg"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_16-E2-80-9D_diamantadas_pretas_dynamo",
+              "name": "jantes em liga leve 16” diamantadas pretas dynamo",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndgN"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_18-E2-80-9D_diamantadas_pretas_rythmic",
+              "name": "jantes em liga leve 18” diamantadas pretas rythmic",
+              "price": 500,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHndgO"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC024_PORT",
+          "versionName": "esprit Alpine Eco-G 120 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEne",
+          "startingPrice": 26890,
+          "colors": [
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFGg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFHA"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEneFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_cosmic_com_acabamento_fumado",
+              "name": "jantes em liga leve 18\" diamantadas cosmic com acabamento fumado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgEnegP"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC005_PORT",
+          "versionName": "esprit Alpine TCe 115 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHne",
+          "startingPrice": 26890,
+          "colors": [
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFGg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFHA"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHneFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_cosmic_com_acabamento_fumado",
+              "name": "jantes em liga leve 18\" diamantadas cosmic com acabamento fumado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgHnegP"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC003_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 160",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFne",
+          "startingPrice": 28990.01,
+          "colors": [
+            {
+              "code": "TENPU",
+              "name": "vermelho absoluto",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFGg"
+            },
+            {
+              "code": "OV369",
+              "name": "branco glaciar",
+              "price": 300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFEA"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFHA"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFGA"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFFg"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 650.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFneFFA"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_18_diamantadas_cosmic_com_acabamento_fumado",
+              "name": "jantes em liga leve 18\" diamantadas cosmic com acabamento fumado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHt/AgFnegP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "rafale",
+      "modelName": "Rafale",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/rafale/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC025_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dY",
+          "startingPrice": 50800,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYX4"
+            },
+            {
+              "code": "TERRK",
+              "name": "azul cume",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYX5"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYX2"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYX1"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYXw"
+            },
+            {
+              "code": "BIYXR",
+              "name": "azul cume com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYXz"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dYXx"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_castellet",
+              "name": "jantes em liga leve de 20'' castellet",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am1dabw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC026_PORT",
+          "versionName": "esprit Alpine hyper hybrid E-Tech 4x4 300",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dY",
+          "startingPrice": 53800,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYX4"
+            },
+            {
+              "code": "TERRK",
+              "name": "azul cume",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYX5"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYX2"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYX1"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYXw"
+            },
+            {
+              "code": "BIYXR",
+              "name": "azul cume com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYXz"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dYXx"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_20_castellet",
+              "name": "jantes em liga leve de 20'' castellet",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dabw"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC027_PORT",
+          "versionName": "atelier Alpine hyper hybrid E-Tech 4x4 300",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dc",
+          "startingPrice": 58300,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcX4"
+            },
+            {
+              "code": "TERRK",
+              "name": "azul cume",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcX5"
+            },
+            {
+              "code": "TEKQG",
+              "name": "cinzento shiste",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcX2"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcX1"
+            },
+            {
+              "code": "BIXUI",
+              "name": "branco nacarado com tejadilho preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcXw"
+            },
+            {
+              "code": "BIYXR",
+              "name": "azul cume com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcXz"
+            },
+            {
+              "code": "BIYUY",
+              "name": "cinzento shiste com tejadilho preto estrela",
+              "price": 1300,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3dcXx"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_21_chicane",
+              "name": "jantes em liga leve de 21'' chicane",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHn/Am3deb4"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "renault-espace",
+      "modelName": "Espace",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/renault-espace/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC057_PORT",
+          "versionName": "techno full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHQ",
+          "startingPrice": 43980,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHQXW"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHQXY"
+            },
+            {
+              "code": "TEKQD",
+              "name": "cinzento báltico",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHQXS"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHQXQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_liga_leve_de_19_komah",
+              "name": "jantes liga leve de 19\" komah",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHSiQ"
+            },
+            {
+              "code": "PT5556_jantes_liga_leve_de_20_effie",
+              "name": "jantes liga leve de 20\" effie",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHSiY"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC060_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHU",
+          "startingPrice": 46780,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHUXW"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHUXY"
+            },
+            {
+              "code": "TEKQD",
+              "name": "cinzento báltico",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHUXS"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHUXQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_liga_leve_de_20_altitude",
+              "name": "jantes liga leve de 20\" altitude",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHWiU"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC058_PORT",
+          "versionName": "iconic full hybrid E-Tech 200",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHY",
+          "startingPrice": 48780,
+          "colors": [
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado brilhante",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHYXW"
+            },
+            {
+              "code": "TERRE",
+              "name": "azul noturno",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHYXY"
+            },
+            {
+              "code": "TEKQD",
+              "name": "cinzento báltico",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHYXS"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHYXQ"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_liga_leve_de_20_effie",
+              "name": "jantes liga leve de 20\" effie",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHo/AofHaiY"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "symbioz",
+      "modelName": "Renault Symbioz",
+      "configuratorUrl": "https://www.renault.pt/veiculos-hibridos/symbioz/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC076_PORT",
+          "versionName": "evolution Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wc",
+          "startingPrice": 28140,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF9g"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF-g"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF-A"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF9A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF8g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcF8A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_embelezadores_de_jantes_de_17_",
+              "name": "embelezadores de jantes de 17''",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcoE"
+            },
+            {
+              "code": "PT5556_jantes_em_liga_leve_de_17_ediris",
+              "name": "jantes em liga leve de 17'' ediris",
+              "price": 509.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wcoF"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC080_PORT",
+          "versionName": "techno Eco-G 120",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wd",
+          "startingPrice": 30140.01,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF9g"
+            },
+            {
+              "code": "TERRM",
+              "name": "azul mercúrio",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF_A"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF-g"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF-A"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF9A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF8g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdF8A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_de_18_gravity",
+              "name": "jantes em liga leve diamantadas de 18\" gravity",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An8wdoG"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC078_PORT",
+          "versionName": "techno mild hybrid 140 EDC",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wd",
+          "startingPrice": 32840,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF9g"
+            },
+            {
+              "code": "TERRM",
+              "name": "azul mercúrio",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF_A"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF-g"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF-A"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF9A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF8g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdF8A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_de_18_gravity",
+              "name": "jantes em liga leve diamantadas de 18\" gravity",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An-wdoG"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC079_PORT",
+          "versionName": "techno full hybrid E-Tech 160",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wd",
+          "startingPrice": 36340.01,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF9g"
+            },
+            {
+              "code": "TERRM",
+              "name": "azul mercúrio",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF_A"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF-g"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF-A"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF9A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF8g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdF8A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_de_18_gravity",
+              "name": "jantes em liga leve diamantadas de 18\" gravity",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9wdoG"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC083_PORT",
+          "versionName": "esprit Alpine full hybrid E-Tech 160",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9we",
+          "startingPrice": 38340,
+          "colors": [
+            {
+              "code": "TENNP",
+              "name": "vermelho flamme",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF9g"
+            },
+            {
+              "code": "TERQH",
+              "name": "azul iron",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF-g"
+            },
+            {
+              "code": "TEQNC",
+              "name": "branco nacarado",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF-A"
+            },
+            {
+              "code": "TEKQJ",
+              "name": "cinzento rafale",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF9A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "cinzento cassiopeia",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF8g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 800,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weF8A"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_diamantadas_de_19_elixir",
+              "name": "jantes em liga leve diamantadas de 19\" elixir",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEHw/An9weoH"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "kangoo-ice",
+      "modelName": "Kangoo (ICE)",
+      "configuratorUrl": "https://www.renault.pt/veiculos-passageiros/kangoo-ice/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VECB4N_PORT",
+          "versionName": "L1 authentic Blue dCi 95 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMA",
+          "startingPrice": 32310,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMC2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMC3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMC2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMC2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMC2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMUmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECB4P_PORT",
+          "versionName": "L1 authentic Blue dCi 115 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMA",
+          "startingPrice": 33430,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMC2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMC3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMC2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMC2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMC2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMUmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECB4T_PORT",
+          "versionName": "L1 equilibre Blue dCi 95 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMg",
+          "startingPrice": 34290,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMi2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMi3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMi2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMi2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzMi2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_flexwheel",
+              "name": "jante de 16'' com embelezador flexwheel",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzM0mA"
+            },
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApGzM0mg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECB4V_PORT",
+          "versionName": "L1 equilibre Blue dCi 115 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMg",
+          "startingPrice": 35400,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMi2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMi3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMi2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMi2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzMi2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_flexwheel",
+              "name": "jante de 16'' com embelezador flexwheel",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzM0mA"
+            },
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApEzM0mg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECB4U_PORT",
+          "versionName": "L1 equilibre Blue dCi 115 EDC my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMg",
+          "startingPrice": 38570,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMi2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMi3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMi2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMi2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzMi2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_flexwheel",
+              "name": "jante de 16'' com embelezador flexwheel",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzM0mA"
+            },
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKAKB/ApFzM0mg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "kangoo",
+      "modelName": "Kangoo (Kangoo)",
+      "configuratorUrl": "https://www.renault.pt/veiculos-passageiros/kangoo/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VECA2A_PORT",
+          "versionName": "L1 authentic autonomia conforto 11 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0A",
+          "startingPrice": 36890,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_maxi_kijaro",
+              "name": "jantes de aço 16'' com embelezador de roda máxi KIJARO",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0Vag"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2D_PORT",
+          "versionName": "L1 equilibre autonomia conforto 11 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0g",
+          "startingPrice": 37499.99,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz0i6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_flexwheel_liman",
+              "name": "jantes de aço 16'' com embelezador de roda flexwheel LIMAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz01aA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2M_PORT",
+          "versionName": "L1 authentic autonomia conforto 22 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0A",
+          "startingPrice": 37790,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_maxi_kijaro",
+              "name": "jantes de aço 16'' com embelezador de roda máxi KIJARO",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0Vag"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2N_PORT",
+          "versionName": "L1 equilibre autonomia conforto 22 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0g",
+          "startingPrice": 38400,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz0i6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_flexwheel_liman",
+              "name": "jantes de aço 16'' com embelezador de roda flexwheel LIMAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz01aA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2G_PORT",
+          "versionName": "L1 techno autonomia conforto 11 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1A",
+          "startingPrice": 38480,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17-E2-80-9D_design_vereste",
+              "name": "jantes em liga leve 17” design VERESTE",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqkz1Vbg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2P_PORT",
+          "versionName": "L1 techno autonomia conforto 22 CA my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1A",
+          "startingPrice": 39380,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17-E2-80-9D_design_vereste",
+              "name": "jantes em liga leve 17” design VERESTE",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqmz1Vbg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA1Y_PORT",
+          "versionName": "L1 authentic autonomia confort 22 CA/80 CC my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0A",
+          "startingPrice": 39889.99,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_maxi_kijaro",
+              "name": "jantes de aço 16'' com embelezador de roda máxi KIJARO",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0Vag"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2B_PORT",
+          "versionName": "L1 equilibre autonomia conforto 22 CA/80 CC my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0g",
+          "startingPrice": 40500,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz0i6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_de_aco_16_com_embelezador_de_roda_flexwheel_liman",
+              "name": "jantes de aço 16'' com embelezador de roda flexwheel LIMAN",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz01aA"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECA2E_PORT",
+          "versionName": "L1 techno autonomia conforto 22 CA/80 CC my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1A",
+          "startingPrice": 41480,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C6A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C7Q"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C7A"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C6w"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C6g"
+            },
+            {
+              "code": "TECNZ",
+              "name": "castanho terracotta",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1C6Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17-E2-80-9D_design_vereste",
+              "name": "jantes em liga leve 17” design VERESTE",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGu0AhhAjJfJgJh/Aqlz1Vbg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "renault-grand-kangoo",
+      "modelName": "Grand Kangoo (Renault Grand Kangoo)",
+      "configuratorUrl": "https://www.renault.pt/veiculos-passageiros/renault-grand-kangoo/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VECB6H_PORT",
+          "versionName": "L2 equilibre Blue dCi 115 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOA",
+          "startingPrice": 40966.7,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOC2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOC3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOC2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOC2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOC2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOUmg"
+            }
+          ]
+        },
+        {
+          "versionCode": "VECB6G_PORT",
+          "versionName": "L2 techno Blue dCi 115 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOg",
+          "startingPrice": 42910,
+          "colors": [
+            {
+              "code": "OQNG",
+              "name": "Branco Mineral",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOi2A"
+            },
+            {
+              "code": "TERQV",
+              "name": "azul sodalite",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOi3A"
+            },
+            {
+              "code": "TEKQA",
+              "name": "Cinzento Highland",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOi2w"
+            },
+            {
+              "code": "TEKNG",
+              "name": "Cinzento Cassiopeia",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOi2g"
+            },
+            {
+              "code": "TEGNE",
+              "name": "preto estrela",
+              "price": 549.99,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzOi2Q"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_liga_leve_17_",
+              "name": "jantes em liga leve 17''",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzO0nA"
+            },
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_flexwheel",
+              "name": "jante de 16'' com embelezador flexwheel",
+              "price": 170,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzO0mA"
+            },
+            {
+              "code": "PT5556_jante_de_16_com_embelezador_maxi",
+              "name": "jante de 16'' com embelezador maxi",
+              "price": 200,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEGs0AhhAiKEKF/ApEzO0mg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "trafic",
+      "modelName": "Trafic Combi",
+      "configuratorUrl": "https://www.renault.pt/veiculos-passageiros/trafic/configurador.html",
+      "variants": [
+        {
+          "versionCode": "VEC548_PORT",
+          "versionName": "equilibre L1 Blue dCi 110 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vM",
+          "startingPrice": 55279.69,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vMkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC550_PORT",
+          "versionName": "grand equilibre L2 Blue dCi 110 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vN",
+          "startingPrice": 56530,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj8vNkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC547_PORT",
+          "versionName": "equilibre L1 Blue dCi 150 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vM",
+          "startingPrice": 56674.85,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vMkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC652_PORT",
+          "versionName": "grand equilibre L2 Blue dCi 150 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vN",
+          "startingPrice": 58050,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vNkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC526_PORT",
+          "versionName": "equilibre L1 Blue dCi 150 EAG9 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vM",
+          "startingPrice": 61258.77,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vMkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC551_PORT",
+          "versionName": "techno L1 Blue dCi 150 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vP",
+          "startingPrice": 61414.85,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPGWA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vPkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC527_PORT",
+          "versionName": "grand equilibre L2 Blue dCi 150 EAG9 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vN",
+          "startingPrice": 62499.08,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGWA"
+            },
+            {
+              "code": "OVKPW",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGVg"
+            },
+            {
+              "code": "ORRT",
+              "name": "azul comulus",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGVA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vNkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC554_PORT",
+          "versionName": "grand techno L2 Blue dCi 150 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vO",
+          "startingPrice": 62650,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOGWA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj9vOkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC528_PORT",
+          "versionName": "techno L1 Blue dCi 150 EAG9 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vP",
+          "startingPrice": 65709.08,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPGWA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vPkE"
+            }
+          ]
+        },
+        {
+          "versionCode": "VEC530_PORT",
+          "versionName": "grand techno L2 Blue dCi 150 EAG9 my26",
+          "confURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vO",
+          "startingPrice": 66819.38,
+          "colors": [
+            {
+              "code": "O389",
+              "name": "branco glaciar",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOGUA"
+            },
+            {
+              "code": "TEKQA",
+              "name": "cinzento highland",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOGXA"
+            },
+            {
+              "code": "TEKNA",
+              "name": "cinzento cometa",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOGWg"
+            },
+            {
+              "code": "TED68",
+              "name": "preto midnight",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOGWA"
+            },
+            {
+              "code": "OKQR",
+              "name": "cinzento urban",
+              "price": 620.01,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOGUg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "PT5556_jantes_em_aco_17_",
+              "name": "jantes em aço 17\"",
+              "price": 0,
+              "nextURI": "https://pt.co.rplug.renault.com/c/BAEG0/Aj-vOkE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1068 @@
+{
+  "models": [
+    {
+      "modelId": "corsa-5-portas",
+      "modelName": "Corsa",
+      "variants": [
+        {
+          "versionName": "Edition 1.2 Turbo 100cv",
+          "lcdv16": "1GJOA5HJLKB0A0J2",
+          "trimCode": "0PBP0RFX",
+          "colors": [
+            {
+              "code": "0MM00NAV",
+              "name": "Azul Voltaik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NAV.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHG9",
+              "name": "Jantes em liga leve, 6.5J x 16",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "versionName": "YES 1.2 Turbo 100cv",
+          "lcdv16": "1GJOA5HJLKB02CJ2",
+          "trimCode": "0PD40RFV",
+          "colors": [
+            {
+              "code": "0MM00NAV",
+              "name": "Azul Voltaik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NAV.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionName": "GS 1.2 Turbo 100cv",
+          "lcdv16": "1GJOA5TJLKB0A0J2",
+          "trimCode": "0PD40RFV",
+          "colors": [
+            {
+              "code": "0MM00NAV",
+              "name": "Azul Voltaik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NAV.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 500,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GJO/A5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZH0Q",
+              "name": "Jantes em liga leve, 7.0J x 17",
+              "price": 350
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "frontera-suv",
+      "modelName": "Frontera",
+      "variants": [
+        {
+          "versionName": "Edition Hybrid 110cv (81kW)",
+          "lcdv16": "1GO3SULJGWL0A0C2",
+          "trimCode": "0PBL0RFX",
+          "colors": [
+            {
+              "code": "0MM00NRD",
+              "name": "Azul Effekt, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NRD.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NGQ",
+              "name": "Verde Khaki, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NGQ.jpg"
+            },
+            {
+              "code": "0MM00NTW",
+              "name": "Laranja Kanyon, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NTW.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis, Sólido",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZIAI",
+              "name": "Jantes em liga leve de 17\" bi-cor",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "versionName": "GS Hybrid 110cv (81kW)",
+          "lcdv16": "1GO3SUPJGWL0A0C2",
+          "trimCode": "0PBM0RFR",
+          "colors": [
+            {
+              "code": "0MM00NRD",
+              "name": "Azul Effekt, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NRD.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NGQ",
+              "name": "Verde Khaki, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NGQ.jpg"
+            },
+            {
+              "code": "0MM00NTW",
+              "name": "Laranja Kanyon, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NTW.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall, Metalizado",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis, Sólido",
+              "price": 550.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO3/SU/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    },
+    {
+      "modelId": "mokka-suv",
+      "modelName": "Mokka",
+      "variants": [
+        {
+          "versionName": "Edition Gasolina 136cv (100 kW)",
+          "lcdv16": "1GQOSYKP9KB0A062",
+          "trimCode": "0PEG0RFR",
+          "colors": [
+            {
+              "code": "0MM00N6Z",
+              "name": "Azul Kolibri, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N6Z.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NF4.jpg"
+            },
+            {
+              "code": "0MM00NYQ",
+              "name": "Verde Tropikal, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NYQ.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis, sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHP8",
+              "name": "Jantes de liga leve de 17\", bi-cor",
+              "price": 400
+            }
+          ]
+        },
+        {
+          "versionName": "GS Gasolina 136cv (100 kW)",
+          "lcdv16": "1GQOSYHP9KB0A062",
+          "trimCode": "0PEH0RFX",
+          "colors": [
+            {
+              "code": "0MM00N6Z",
+              "name": "Azul Kolibri, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N6Z.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NF4.jpg"
+            },
+            {
+              "code": "0MM00NYQ",
+              "name": "Verde Tropikal, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NYQ.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis, sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHQ1",
+              "name": "Jantes de liga leve de 18\", bi-cor",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "versionName": "GSE Electric 281cv (207kW)",
+          "lcdv16": "1GQOSYZZRFB0A062",
+          "trimCode": "0PK10RFX",
+          "colors": [
+            {
+              "code": "0MM00N6Z",
+              "name": "Azul Kolibri, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N6Z.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NF4.jpg"
+            },
+            {
+              "code": "0MM00NYQ",
+              "name": "Verde Tropikal, Metalizado",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MM00NYQ.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis, sólido",
+              "price": 549.99,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GQO/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    },
+    {
+      "modelId": "astra-5-portas",
+      "modelName": "Astra",
+      "variants": [
+        {
+          "versionName": "Edition Hybrid 145cv (107kW)",
+          "lcdv16": "1GO5A5LJHWB0A0F0",
+          "trimCode": "0PBP0RFX",
+          "colors": [
+            {
+              "code": "0MM00N6S",
+              "name": "Azul Athletik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00N6S.jpg"
+            },
+            {
+              "code": "0MM00NRV",
+              "name": "Amarelo Kult, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NRV.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur,  Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MM40N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM40N9V.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHYF",
+              "name": "Jantes de liga leve Kadett de 17\", bi-cor",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "versionName": "GS Hybrid 145cv (107kW)",
+          "lcdv16": "1GO5A5TJHWB0A0F0",
+          "trimCode": "0PFY0RFX",
+          "colors": [
+            {
+              "code": "0MM00N6S",
+              "name": "Azul Athletik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00N6S.jpg"
+            },
+            {
+              "code": "0MM00NRV",
+              "name": "Amarelo Kult, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NRV.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur,  Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MM40N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MM40N9V.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/A5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHYH",
+              "name": "Jantes de liga leve Pentagon de 18\",  bi-cor, inserções em cinzento Storm",
+              "price": 350
+            },
+            {
+              "code": "ZHZI",
+              "name": "Jantes de liga leve Pentagon de 18\", Preto",
+              "price": 350
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "astra-sports-tourer-sports-tourer",
+      "modelName": "Astra Sports Tourer",
+      "variants": [
+        {
+          "versionName": "Edition Hybrid 145cv (107kW)",
+          "lcdv16": "1GO5C5LJHWB0A0F0",
+          "trimCode": "0PBP0RFX",
+          "colors": [
+            {
+              "code": "0MM00N6S",
+              "name": "Azul Athletik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00N6S.jpg"
+            },
+            {
+              "code": "0MM00NAT",
+              "name": "Verde Klover, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NAT.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur,  Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MM40N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM40N9V.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHYF",
+              "name": "Jantes de liga leve Kadett de 17\", bi-cor",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "versionName": "GS Hybrid 145cv (107kW)",
+          "lcdv16": "1GO5C5TJHWB0A0F0",
+          "trimCode": "0PFY0RFX",
+          "colors": [
+            {
+              "code": "0MM00N6S",
+              "name": "Azul Athletik Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00N6S.jpg"
+            },
+            {
+              "code": "0MM00NAT",
+              "name": "Verde Klover, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NAT.jpg"
+            },
+            {
+              "code": "0MM00NSU",
+              "name": "Branco Kontur,  Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NSU.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MM40N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MM40N9V.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktis Sólido",
+              "price": 625,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO5/C5/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHYH",
+              "name": "Jantes de liga leve Pentagon de 18\",  bi-cor, inserções em cinzento Storm",
+              "price": 350
+            },
+            {
+              "code": "ZHZI",
+              "name": "Jantes de liga leve Pentagon de 18\", Preto",
+              "price": 350
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "grandland-suv",
+      "modelName": "Grandland",
+      "variants": [
+        {
+          "versionName": "Edition Hybrid 145cv (107kW)",
+          "lcdv16": "1GO6SYPJH7L0A0C2",
+          "trimCode": "0PCB0RFR",
+          "colors": [
+            {
+              "code": "0MM00NZG",
+              "name": "Azul Spektrum, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZG.jpg"
+            },
+            {
+              "code": "0MM00N6U",
+              "name": "Impakt Copper, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N6U.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktics, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "ZHIX",
+              "name": "Jantes em Liga Leve de 19\" efeito Corte de Diamante (M12)",
+              "price": 100
+            }
+          ]
+        },
+        {
+          "versionName": "GS Hybrid 145cv (107kW)",
+          "lcdv16": "1GO6SYUJH7L0A0C2",
+          "trimCode": "0PCD0RFT",
+          "colors": [
+            {
+              "code": "0MM00NZG",
+              "name": "Azul Spektrum, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZG.jpg"
+            },
+            {
+              "code": "0MM00N6U",
+              "name": "Impakt Copper, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N6U.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktics, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionName": "Ultimate Electric 325cv | Bat. 73kWh",
+          "lcdv16": "1GO6SYWG1IL0A0C2",
+          "trimCode": "0P1U0RFX",
+          "colors": [
+            {
+              "code": "0MM00NZG",
+              "name": "Azul Spektrum, Metalizado",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZG.jpg"
+            },
+            {
+              "code": "0MM00N6U",
+              "name": "Impakt Copper, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N6U.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NZR",
+              "name": "Cinzento Kristall, Metalizado",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MM00NZR.jpg"
+            },
+            {
+              "code": "0MP00NSD",
+              "name": "Cinzento Grafik, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NSD.jpg"
+            },
+            {
+              "code": "0MP00NWP",
+              "name": "Branco Arktics, Sólido",
+              "price": 650.01,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GO6/SY/Colors/0MP00NWP.jpg"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    },
+    {
+      "modelId": "combo-monovolume",
+      "modelName": "Combo",
+      "variants": [
+        {
+          "versionName": "Edition Diesel 100cv",
+          "lcdv16": "1GK9AF8P6KB0A0B2",
+          "trimCode": "0PCQ0RFY",
+          "colors": [
+            {
+              "code": "0MP00NPR",
+              "name": "Branco Kaolin",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MP00NPR.jpg"
+            },
+            {
+              "code": "0MM00N4Q",
+              "name": "Verde Kontras",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00N4Q.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Sirkka",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00NF4.jpg"
+            },
+            {
+              "code": "0MM00NM6",
+              "name": "Azul Kaima",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00NM6.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "DZSD",
+              "name": "Jantes de liga leve 16 x 6.5 J",
+              "price": 350
+            }
+          ]
+        },
+        {
+          "versionName": "GS Diesel 100cv",
+          "lcdv16": "1GK9AF5P6KB0A0B2",
+          "trimCode": "0PCQ0RFY",
+          "colors": [
+            {
+              "code": "0MP00NPR",
+              "name": "Branco Kaolin",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MP00NPR.jpg"
+            },
+            {
+              "code": "0MM00N4Q",
+              "name": "Verde Kontras",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00N4Q.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Sirkka",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00NF4.jpg"
+            },
+            {
+              "code": "0MM00NM6",
+              "name": "Azul Kaima",
+              "price": 400,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK9/AF/Colors/0MM00NM6.jpg"
+            }
+          ],
+          "wheels": [
+            {
+              "code": "",
+              "name": "Jantes",
+              "price": 0
+            },
+            {
+              "code": "DZG7",
+              "name": "Jantes de liga leve 17 x 6.5 J",
+              "price": 100
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "zafira-monovolume",
+      "modelName": "Zafira",
+      "variants": [
+        {
+          "versionName": "Edition Electric 100kW",
+          "lcdv16": "1GK0NNQZEFB0A0L0",
+          "trimCode": "0PCM0RFT",
+          "colors": [
+            {
+              "code": "0MP00NPR",
+              "name": "Branco Kaolin",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MP00NPR.jpg"
+            },
+            {
+              "code": "0MM00N1J",
+              "name": "Cinzento Merkur",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N1J.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NDU",
+              "name": "Verde Kapari",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00NDU.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00NF4.jpg"
+            }
+          ],
+          "wheels": []
+        },
+        {
+          "versionName": "GS Electric 100kW",
+          "lcdv16": "1GK0NNSZEFB0A0L0",
+          "trimCode": "0PCY0RFX",
+          "colors": [
+            {
+              "code": "0MP00NPR",
+              "name": "Branco Kaolin",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MP00NPR.jpg"
+            },
+            {
+              "code": "0MM00N1J",
+              "name": "Cinzento Merkur",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N1J.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NDU",
+              "name": "Verde Kapari",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00NDU.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00NF4.jpg"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    },
+    {
+      "modelId": "vivaro-life-monovolume",
+      "modelName": "Vivaro Life",
+      "variants": [
+        {
+          "versionName": "Life Electric 100kW",
+          "lcdv16": "1GK0NNLZEFB0A0L0",
+          "trimCode": "0PCM0RFT",
+          "colors": [
+            {
+              "code": "0MP00NPR",
+              "name": "Branco Kaolin",
+              "price": 0,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MP00NPR.jpg"
+            },
+            {
+              "code": "0MM00N1J",
+              "name": "Cinzento Merkur",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N1J.jpg"
+            },
+            {
+              "code": "0MM00N9V",
+              "name": "Preto Karbon",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00N9V.jpg"
+            },
+            {
+              "code": "0MM00NF4",
+              "name": "Cinzento Kontrast",
+              "price": 490,
+              "swatchUrl": "https://visual3d-secure.opel-vauxhall.com/V3DCentral/1GK0/NN/Colors/0MM00NF4.jpg"
+            }
+          ],
+          "wheels": []
+        }
+      ]
+    }
+  ]
+}

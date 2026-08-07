@@ -1,16 +1,20 @@
 """
 Extrai o catálogo Volkswagen Portugal: modelos, cores e jantes.
-Usa a API pública do configurador volkswagen.pt.
+Usa a API pública do configurador volkswagen.pt — a mesma plataforma
+partilhada por todo o grupo VW (Audi, SEAT, Škoda, ...), só muda o
+domínio, o locale no caminho e a letra da marca (brand=V para a VW).
+A lógica genérica está em build_catalog_generic, reaproveitada por
+audi_catalog.py.
 Cache em data/vw_catalog.json.
 """
 import json
-import os
 import ssl
 import urllib.request
 from pathlib import Path
 
 BASE = "https://configurador.volkswagen.pt/cc-pt/be/pt_PT_VW22"
 CDN = "https://cdn.nwi-ms.com/media/pt/V/mc"
+BRAND_CODE = "V"
 DATA_FILE = Path(__file__).parent.parent / "data" / "vw_catalog.json"
 
 _ssl_ctx = ssl.create_default_context()
@@ -24,28 +28,32 @@ _HEADERS = {
 }
 
 
-def _get(url: str) -> dict | list:
-    req = urllib.request.Request(url, headers=_HEADERS)
+def _get(url: str, referer: str) -> dict | list:
+    headers = dict(_HEADERS, Referer=referer)
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, context=_ssl_ctx, timeout=20) as r:
         return json.loads(r.read())
 
 
-def _get_model_detail(model_code: str, color: str, upholstery: str) -> dict:
-    url = f"{BASE}/api/v2/modeldetailFull/V/{model_code}/{color}/{upholstery}/@/@"
-    return _get(url)
+def _get_model_detail(base: str, brand_code: str, referer: str, model_code: str, color: str, upholstery: str) -> dict:
+    url = f"{base}/api/v2/modeldetailFull/{brand_code}/{model_code}/{color}/{upholstery}/@/@"
+    return _get(url, referer)
 
 
-def _build_image_url(model_code: str, view: str, color: str, upholstery: str, wheel: str = "") -> str:
+def _build_image_url(cdn: str, model_code: str, view: str, color: str, upholstery: str, wheel: str = "") -> str:
     return (
-        f"{CDN}/{model_code}/model/{view}.webp"
+        f"{cdn}/{model_code}/model/{view}.webp"
         f"?F={color}&P={upholstery}&M={wheel}&size=XL"
     )
 
 
-def build_catalog(force: bool = False) -> dict:
+def build_catalog_generic(
+    brand_name: str, base: str, brand_code: str, referer: str, data_file: Path, force: bool = False,
+) -> dict:
     """
-    Constrói e guarda o catálogo VW. Usa cache se existir.
-    Devolve dict com estrutura:
+    Constrói e guarda o catálogo de uma marca da plataforma "Car
+    Configurator" do grupo VW. Usa cache se existir. Devolve dict com
+    estrutura:
     {
         "models": [
             {
@@ -66,15 +74,15 @@ def build_catalog(force: bool = False) -> dict:
         ]
     }
     """
-    if not force and DATA_FILE.exists():
-        print(f"Catálogo em cache: {DATA_FILE}")
-        with open(DATA_FILE, encoding="utf-8") as f:
+    if not force and data_file.exists():
+        print(f"Catálogo em cache: {data_file}")
+        with open(data_file, encoding="utf-8") as f:
             return json.load(f)
 
-    print("A construir catálogo VW...")
-    DATA_FILE.parent.mkdir(exist_ok=True)
+    print(f"A construir catálogo {brand_name}...")
+    data_file.parent.mkdir(exist_ok=True)
 
-    model_groups_data = _get(f"{BASE}/api/v2/modelgroup?brand=V")
+    model_groups_data = _get(f"{base}/api/v2/modelgroup?brand={brand_code}", referer)
     catalog = {"models": []}
 
     for mg in model_groups_data.get("modelgroups", []):
@@ -90,61 +98,82 @@ def build_catalog(force: bool = False) -> dict:
         }
 
         for variant in mg.get("variants", []):
-            mc = variant.get("cheapestModelCode")
-            if not mc:
-                continue
+            # Cada "variant" é um nível de acabamento (ex.: "Selection"), mas
+            # pode ter VÁRIAS motorizações distintas em "models" (ex.: Fabia
+            # Selection tem 4: 1.0 MPI 80cv, 1.0 TSI 95cv/116cv, 116cv DSG) —
+            # cada uma com o seu próprio modelCode, preço e ficha técnica.
+            # Ignorar isto e usar só "cheapestModelCode" (como fazia esta
+            # função antes) descarta ~60% das motorizações reais (confirmado
+            # na Škoda: 94 motorizações reais vs. 40 só com a mais barata).
+            models = variant.get("models") or []
+            if not models:
+                mc = variant.get("cheapestModelCode")
+                if mc:
+                    models = [{"number": mc, "designation": variant["name"], "preSelection": variant.get("preSelection", {})}]
 
-            ps = variant.get("preSelection", {})
-            default_color = ps.get("standardColorCode", "")
-            default_upholstery = ps.get("standardUpholsteryCode", "")
+            for m in models:
+                mc = m.get("number")
+                if not mc:
+                    continue
 
-            print(f"    {variant['name']} ({mc}) cor={default_color}")
+                ps = m.get("preSelection") or variant.get("preSelection", {})
+                default_color = ps.get("standardColorCode", "")
+                default_upholstery = ps.get("standardUpholsteryCode", "")
+                designation = m.get("designation", variant["name"])
 
-            try:
-                detail = _get_model_detail(mc, default_color, default_upholstery)
-            except Exception as e:
-                print(f"    ERRO ao buscar detalhe: {e}")
-                continue
+                print(f"    {designation} ({mc}) cor={default_color}")
 
-            colors = [
-                {
-                    "code": ext["code"],
-                    "name": ext.get("bezf", ext["code"]),
-                    "price": ext.get("preis", {}).get("brutto", 0) or 0,
-                    "available": not ext.get("notAvailable", False),
-                    "swatchUrl": ext.get("image", ""),
+                try:
+                    detail = _get_model_detail(base, brand_code, referer, mc, default_color, default_upholstery)
+                except Exception as e:
+                    print(f"    ERRO ao buscar detalhe: {e}")
+                    continue
+
+                colors = [
+                    {
+                        "code": ext["code"],
+                        "name": ext.get("bezf", ext["code"]),
+                        "price": ext.get("preis", {}).get("brutto", 0) or 0,
+                        "available": not ext.get("notAvailable", False),
+                        "swatchUrl": ext.get("image", ""),
+                    }
+                    for ext in detail.get("availableExteriors", [])
+                    if not ext.get("notAvailable", False)
+                ]
+
+                wheels = [
+                    {
+                        "code": w["code"],
+                        "title": w.get("title", w["code"]),
+                        "serie": w.get("serie", False),
+                        "imageUrl": w.get("image", ""),
+                    }
+                    for w in detail.get("availableWheels", [])
+                ]
+
+                variant_entry = {
+                    "modelCode": mc,
+                    "variantName": designation,
+                    "name": detail.get("name", f"{group_name} {designation}"),
+                    "price": (m.get("listPrice") or {}).get("gross", 0) or 0,
+                    "defaultColor": default_color,
+                    "defaultUpholstery": default_upholstery,
+                    "colors": colors,
+                    "wheels": wheels,
                 }
-                for ext in detail.get("availableExteriors", [])
-                if not ext.get("notAvailable", False)
-            ]
-
-            wheels = [
-                {
-                    "code": w["code"],
-                    "title": w.get("title", w["code"]),
-                    "serie": w.get("serie", False),
-                    "imageUrl": w.get("image", ""),
-                }
-                for w in detail.get("availableWheels", [])
-            ]
-
-            variant_entry = {
-                "modelCode": mc,
-                "variantName": variant["name"],
-                "name": detail.get("name", f"{group_name} {variant['name']}"),
-                "defaultColor": default_color,
-                "defaultUpholstery": default_upholstery,
-                "colors": colors,
-                "wheels": wheels,
-            }
-            group_entry["variants"].append(variant_entry)
+                group_entry["variants"].append(variant_entry)
 
         catalog["models"].append(group_entry)
 
-    with open(DATA_FILE, "w", encoding="utf-8") as f:
+    with open(data_file, "w", encoding="utf-8") as f:
         json.dump(catalog, f, ensure_ascii=False, indent=2)
-    print(f"\nCatálogo guardado: {DATA_FILE}")
+    print(f"\nCatálogo guardado: {data_file}")
     return catalog
+
+
+def build_catalog(force: bool = False) -> dict:
+    """Constrói e guarda o catálogo VW. Usa cache se existir."""
+    return build_catalog_generic("VW", BASE, BRAND_CODE, "https://configurador.volkswagen.pt/", DATA_FILE, force)
 
 
 def load_catalog() -> dict:
@@ -164,7 +193,7 @@ def get_image_urls(model_code: str, color: str, upholstery: str, wheel: str = ""
         "Traseira": "back",
     }
     return {
-        label: _build_image_url(model_code, view, color, upholstery, wheel)
+        label: _build_image_url(CDN, model_code, view, color, upholstery, wheel)
         for label, view in views.items()
     }
 

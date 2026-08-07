@@ -1,0 +1,2042 @@
+{
+  "models": [
+    {
+      "type": "legacy",
+      "modelName": "Qashqai",
+      "modelCode": "QASHQAIJ12B",
+      "grades": [
+        {
+          "key": "LVL001",
+          "name": "Engage",
+          "startingPrice": 33400.0,
+          "versions": [
+            {
+              "name": "NOVO QASHQAI DIG-T (140 CV) ENGAGE M/T",
+              "startingPrice": 33400.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC001_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC001_col{COLOR}_CRI087.png",
+              "wheelName": "Jantes de liga leve de 17''",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI087.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL002",
+          "name": "Advance",
+          "startingPrice": 39508.0,
+          "versions": [
+            {
+              "name": "NOVO QASHQAI DIG-T (140 CV) ADVANCE M/T",
+              "startingPrice": 39508.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC002_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC002_col{COLOR}_CRI094.png",
+              "wheelName": "Jantes de liga leve em Corte de Diamante de 18\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI094.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI DIG-T (158 CV) ADVANCE XTRONIC",
+              "startingPrice": 42308.0,
+              "fuelType": "Gasolina",
+              "transmission": "A/T CVT de 8 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC003_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC003_col{COLOR}_CRI094.png",
+              "wheelName": "Jantes de liga leve em Corte de Diamante de 18\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI094.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI E-POWER (190 CV) ADVANCE",
+              "startingPrice": 44500.0,
+              "fuelType": "Gasolina",
+              "transmission": "Redutor / multiplicador",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC004_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC004_col{COLOR}_CRI094 .png",
+              "wheelName": "Jantes de liga leve em Corte de Diamante de 18\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI094 .png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL003",
+          "name": "Evolve",
+          "startingPrice": 41100.0,
+          "versions": [
+            {
+              "name": "NOVO QASHQAI DIG-T (140 CV) EVOLVE M/T",
+              "startingPrice": 41100.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC005_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC005_col{COLOR}_CRI102.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 20''",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI102.png",
+              "colors": [
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI DIG-T (158 CV) EVOLVE XTRONIC",
+              "startingPrice": 43908.0,
+              "fuelType": "Gasolina",
+              "transmission": "A/T CVT de 8 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC006_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC006_col{COLOR}_CRI102.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 20''",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI102.png",
+              "colors": [
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI E-POWER (190 CV) EVOLVE",
+              "startingPrice": 46100.0,
+              "fuelType": "Gasolina",
+              "transmission": "Redutor / multiplicador",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC007_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC007_col{COLOR}_CRI102.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 20''",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI102.png",
+              "colors": [
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL004",
+          "name": "Evolve +",
+          "startingPrice": 42900.0,
+          "versions": [
+            {
+              "name": "NOVO QASHQAI DIG-T (158 CV) EVOLVE + M/T",
+              "startingPrice": 42900.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC008_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC008_col{COLOR}_CRI107.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 19'' e revestimento aerodinâmico",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI107.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI DIG-T (158 CV) EVOLVE + XTRONIC",
+              "startingPrice": 44708.0,
+              "fuelType": "Gasolina",
+              "transmission": "A/T CVT de 8 vel.",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC009_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC009_col{COLOR}_CRI107.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 19'' e revestimento aerodinâmico",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI107.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            },
+            {
+              "name": "NOVO QASHQAI E-POWER (190 CV) EVOLVE +",
+              "startingPrice": 47300.0,
+              "fuelType": "Gasolina",
+              "transmission": "Redutor / multiplicador",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC010_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/QASHQAIJ12B/QASHQAIJ12B_VEC010_col{COLOR}_CRI107.png",
+              "wheelName": "Jantes de liga leve em Corte Diamante de 19'' e revestimento aerodinâmico",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/QASHQAIJ12B/CRI107.png",
+              "colors": [
+                {
+                  "code": "COLFAP",
+                  "name": "DEEP OCEAN",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLFAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLKY0",
+                  "name": "DIAMOND SILVER",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLKY0.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXEX.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETC BLUE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLYBJ",
+                  "name": "DEEP OCEAN + SOLID BLACK ROOF",
+                  "price": 1450.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/QASHQAIJ12B/colCOLYBJ.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "legacy",
+      "modelName": "Juke",
+      "modelCode": "JUKEF16B",
+      "grades": [
+        {
+          "key": "LVL001",
+          "name": "Acenta+",
+          "startingPrice": 21990.0,
+          "versions": [
+            {
+              "name": "Novo Juke DIG-T (114 CV) M/T Acenta+",
+              "startingPrice": 21990.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 velocidades",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC001_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC001_col{COLOR}_CRI064.png",
+              "wheelName": "Jantes 17'' ",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI064.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke DIG-T (114 CV) DCT Acenta+",
+              "startingPrice": 23550.0,
+              "fuelType": "Gasolina",
+              "transmission": "Automática de 7 velocidades com dupla embraiagem",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC002_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC002_col{COLOR}_CRI064.png",
+              "wheelName": "Jantes Sakura em liga leve 17''",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI064.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke 1.6 Hybrid (143 CV) Auto Acenta+",
+              "startingPrice": 28050.0,
+              "fuelType": "Gasolina",
+              "transmission": "Caixa de velocidades Automática multi-modo",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC003_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC003_col{COLOR}_CRI064.png",
+              "wheelName": "Jantes 17'' ",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI064.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL002",
+          "name": "N-Connecta",
+          "startingPrice": 25750.0,
+          "versions": [
+            {
+              "name": "Novo Juke DIG-T (114 CV) M/T N-Connecta",
+              "startingPrice": 25750.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 velocidades",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC004_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC004_col{COLOR}_CRI061.png",
+              "wheelName": "Novas jantes de 17'' em corte diamante",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI061.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke DIG-T (114 CV) DCT N-Connecta",
+              "startingPrice": 27400.0,
+              "fuelType": "Gasolina",
+              "transmission": "Automática de 7 velocidades com dupla embraiagem",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC005_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC005_col{COLOR}_CRI061.png",
+              "wheelName": "Novas jantes de 17'' em corte diamante",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI061.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke 1.6 Hybrid (143 CV) Auto N-Connecta",
+              "startingPrice": 31930.0,
+              "fuelType": "Gasolina",
+              "transmission": "Caixa de velocidades Automática multi-modo",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC006_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC006_col{COLOR}_CRI062.png",
+              "wheelName": "Jantes de 19'' Two Tone \"Aero\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI062.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL003",
+          "name": "Tekna",
+          "startingPrice": 27750.0,
+          "versions": [
+            {
+              "name": "Novo Juke DIG-T (114 CV) M/T Tekna",
+              "startingPrice": 27750.0,
+              "fuelType": "Gasolina",
+              "transmission": "Manual de 6 velocidades",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC007_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC007_col{COLOR}_CRI063.png",
+              "wheelName": "Jantes em liga leve 19'' em Preto",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI063.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke DIG-T (114 CV) DCT Tekna",
+              "startingPrice": 29500.0,
+              "fuelType": "Gasolina",
+              "transmission": "Automática de 7 velocidades com dupla embraiagem",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC008_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC008_col{COLOR}_CRI063.png",
+              "wheelName": "Jantes em liga leve 19'' em Preto",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI063.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            },
+            {
+              "name": "Novo Juke 1.6 Hybrid (143 CV) Auto Tekna",
+              "startingPrice": 33930.0,
+              "fuelType": "Gasolina",
+              "transmission": "Caixa de velocidades Automática multi-modo",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC009_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/JUKEF16B/JUKEF16B_VEC009_col{COLOR}_CRI062.png",
+              "wheelName": "Jantes de 19'' Two Tone \"Aero\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/JUKEF16B/CRI062.png",
+              "colors": [
+                {
+                  "code": "COL326",
+                  "name": "SAPPORO WHITE",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOL326.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "MIDNIGHT BLACK",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "SKYLINE GREY",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKAD.png"
+                },
+                {
+                  "code": "COLRCF",
+                  "name": "MAGNETC BLUE",
+                  "price": 750.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLRCF.png"
+                },
+                {
+                  "code": "COLNBV",
+                  "name": "FUJI SUNSET RED",
+                  "price": 675.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLNBV.png"
+                },
+                {
+                  "code": "COLQBE",
+                  "name": "PEARL WHITE",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLQBE.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "CERAMIC GREY",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLKBY.png"
+                },
+                {
+                  "code": "COLECE",
+                  "name": "ICONIC  YELLOW",
+                  "price": 850.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLECE.png"
+                },
+                {
+                  "code": "COLGAQ",
+                  "name": "SKYLINE GREY + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLGAQ.png"
+                },
+                {
+                  "code": "COLXGZ",
+                  "name": "MAGNETIC BLUE + SOLID BLACK",
+                  "price": 1250.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXGZ.png"
+                },
+                {
+                  "code": "COLYAS",
+                  "name": "ICONIC YELLOW + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAS.png"
+                },
+                {
+                  "code": "COLYAU",
+                  "name": "FUJI SUNSET RED + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLYAU.png"
+                },
+                {
+                  "code": "COLXKJ",
+                  "name": "PEARL WHITE + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXKJ.png"
+                },
+                {
+                  "code": "COLXEX",
+                  "name": "CERAMIC GREY + SOLID BLACK",
+                  "price": 1350.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/JUKEF16B/colCOLXEX.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "legacy",
+      "modelName": "Ariya",
+      "modelCode": "FE0A",
+      "grades": [
+        {
+          "key": "LVL001",
+          "name": "Engage",
+          "startingPrice": 37100.0,
+          "versions": [
+            {
+              "name": "ARIYA 63 kWh 4x2 Engage",
+              "startingPrice": 37100.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC001_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC001_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            },
+            {
+              "name": "ARIYA 87 kWh 4x2 Engage",
+              "startingPrice": 41600.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC004_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC004_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL002",
+          "name": "Advance",
+          "startingPrice": 41250.0,
+          "versions": [
+            {
+              "name": "ARIYA 63 kWh 4x2 Advance",
+              "startingPrice": 41250.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC002_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC002_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            },
+            {
+              "name": "ARIYA 87 kWh 4x2 Advance",
+              "startingPrice": 45750.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC005_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC005_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL003",
+          "name": "Evolve",
+          "startingPrice": 47650.0,
+          "versions": [
+            {
+              "name": "ARIYA 63 kWh 4x2 Evolve",
+              "startingPrice": 47650.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC003_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC003_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            },
+            {
+              "name": "ARIYA 87 kWh 4x2 Evolve",
+              "startingPrice": 49150.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC006_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC006_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            },
+            {
+              "name": "ARIYA 87kWh e-4ORCE Evolve",
+              "startingPrice": 53150.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC007_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC007_col{COLOR}_CRI073.png",
+              "wheelName": "Jantes em liga leve KOTAE de 19'' + cobertura aerodinâmica",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI073.png",
+              "colors": [
+                {
+                  "code": "COLDAP",
+                  "name": "Aurora Green",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLDAP.png"
+                },
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLKBY",
+                  "name": "Ceramic Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKBY.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLXGJ",
+                  "name": "Akatsuki Cooper + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGJ.png"
+                },
+                {
+                  "code": "COLXGU",
+                  "name": "Ocean Blue + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGU.png"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "LVL004",
+          "name": "Nismo",
+          "startingPrice": 57750.0,
+          "versions": [
+            {
+              "name": "ARIYA 87kWh e-4ORCE Nismo",
+              "startingPrice": 57750.0,
+              "fuelType": "Elétrico",
+              "transmission": "",
+              "imageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC008_col{COLOR}.png",
+              "wheelImageTemplate": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_packshots/FE0A/FE0A_VEC008_col{COLOR}_CRI107.png",
+              "wheelName": "Jantes em liga leve Enkei Nismo de 20\"",
+              "wheelImageUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/wheels/FE0A/CRI107.png",
+              "colors": [
+                {
+                  "code": "COLGAT",
+                  "name": "Ninja Black",
+                  "price": 1075.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLGAT.png"
+                },
+                {
+                  "code": "COLKAD",
+                  "name": "Skyline Grey",
+                  "price": 925.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLKAD.png"
+                },
+                {
+                  "code": "COLXGA",
+                  "name": "Fuji White + Ninja Black",
+                  "price": 1575.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLXGA.png"
+                },
+                {
+                  "code": "COLYAZ",
+                  "name": "Nismo Stealth Gray + Ninja Black",
+                  "price": 1425.0,
+                  "swatchUrl": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/exterior_colours/FE0A/colCOLYAZ.png"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "rich360",
+      "modelName": "Micra",
+      "colors": [
+        {
+          "code": "COLXUF",
+          "name": "Pure White  Mystery Black",
+          "images": {
+            "lado": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0001.png.ximg.c1h.360.png",
+            "3_4_frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0016.png.ximg.c1h.360.png",
+            "frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0030.png.ximg.c1h.360.png",
+            "extra_1": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0045.png.ximg.c1h.360.png",
+            "extra_2": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0060.png.ximg.c1h.360.png",
+            "extra_3": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0074.png.ximg.c1h.360.png",
+            "traseira": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0089.png.ximg.c1h.360.png",
+            "extra_4": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Pure_White__Mystery_Black/Bi-tone_Mystery_Black_x_Pure_White.0103.png.ximg.c1h.360.png"
+          }
+        },
+        {
+          "code": "COLYUY",
+          "name": "Elegant Silver  Mystery Black",
+          "images": {
+            "lado": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0000.png.ximg.c1h.360.png",
+            "3_4_frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0015.png.ximg.c1h.360.png",
+            "frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0030.png.ximg.c1h.360.png",
+            "extra_1": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0045.png.ximg.c1h.360.png",
+            "extra_2": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0061.png.ximg.c1h.360.png",
+            "extra_3": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0075.png.ximg.c1h.360.png",
+            "traseira": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0090.png.ximg.c1h.360.png",
+            "extra_4": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Elegant_Silver__Mystery_Black/Bi-tone_Elegant_Silver_X_Mystery_Black.0105.png.ximg.c1h.360.png"
+          }
+        },
+        {
+          "code": "COLYZA",
+          "name": "Rebel Red  Mystery Black",
+          "images": {
+            "lado": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0000.png.ximg.c1h.360.png",
+            "3_4_frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0015.png.ximg.c1h.360.png",
+            "frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0030.png.ximg.c1h.360.png",
+            "extra_1": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0045.png.ximg.c1h.360.png",
+            "extra_2": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0061.png.ximg.c1h.360.png",
+            "extra_3": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0075.png.ximg.c1h.360.png",
+            "traseira": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0090.png.ximg.c1h.360.png",
+            "extra_4": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Rebel_Red__Mystery_Black/Bi-tone_Mystery_Black_X_Rebel_Red.0105.png.ximg.c1h.360.png"
+          }
+        },
+        {
+          "code": "COLYZF",
+          "name": "Authentic Blue  Mystery Black",
+          "images": {
+            "lado": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0000.png.ximg.c1h.360.png",
+            "3_4_frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0015.png.ximg.c1h.360.png",
+            "frente": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0030.png.ximg.c1h.360.png",
+            "extra_1": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0045.png.ximg.c1h.360.png",
+            "extra_2": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0061.png.ximg.c1h.360.png",
+            "extra_3": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0075.png.ximg.c1h.360.png",
+            "traseira": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0090.png.ximg.c1h.360.png",
+            "extra_4": "https://www-europe.nissan-cdn.net/content/dam/Nissan/pt/ImagensSite/Modelos/NovoMicra/ColorPicker/Authentic_Blue__Mystery_Black/Bi-Tone_Mystery_Black_X_Authentic_Blue.0105.png.ximg.c1h.360.png"
+          }
+        }
+      ]
+    }
+  ]
+}

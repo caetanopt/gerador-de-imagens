@@ -1,0 +1,104 @@
+{
+  "models": [
+    {
+      "modelSlug": "geely-e5",
+      "modelName": "Geely E5",
+      "assetSlug": "e5",
+      "versions": [
+        {
+          "name": "PRO",
+          "spec": "60 kWh",
+          "price": 35658.0
+        },
+        {
+          "name": "MAX",
+          "spec": "60 kWh",
+          "price": 38118.0
+        }
+      ],
+      "colors": [
+        {
+          "slug": "turquoise-green",
+          "name": "Turquoise Green",
+          "price": 0.0
+        },
+        {
+          "slug": "carbon-black",
+          "name": "Carbon Black",
+          "price": 650.0
+        },
+        {
+          "slug": "frost-grey",
+          "name": "Frost Grey",
+          "price": 650.0
+        },
+        {
+          "slug": "moonlight-silver",
+          "name": "Moonlight Silver",
+          "price": 650.0
+        },
+        {
+          "slug": "snowy-white",
+          "name": "Snowy White",
+          "price": 650.0
+        }
+      ],
+      "interiorImage": "https://www.geely-auto.pt/assets/interior/1767494443-1e5white.webp"
+    },
+    {
+      "modelSlug": "geely-starray-em-i",
+      "modelName": "Geely Starray EM-i",
+      "assetSlug": "starray",
+      "versions": [
+        {
+          "name": "PRO",
+          "spec": "18 kWh",
+          "price": 36400.0
+        },
+        {
+          "name": "MAX",
+          "spec": "18 kWh",
+          "price": 37900.0
+        },
+        {
+          "name": "MAX+",
+          "spec": "30 kWh",
+          "price": 39400.0
+        }
+      ],
+      "colors": [
+        {
+          "slug": "glacier-blue",
+          "name": "Glacier Blue",
+          "price": 0.0
+        },
+        {
+          "slug": "alpine-white",
+          "name": "Alpine White",
+          "price": 800.0
+        },
+        {
+          "slug": "cloudveil-silver",
+          "name": "Cloudveil Silver",
+          "price": 800.0
+        },
+        {
+          "slug": "jungle-green",
+          "name": "Jungle Green",
+          "price": 800.0
+        },
+        {
+          "slug": "polar-black",
+          "name": "Polar Black",
+          "price": 800.0
+        },
+        {
+          "slug": "volcanic-grey",
+          "name": "Volcanic Grey",
+          "price": 800.0
+        }
+      ],
+      "interiorImage": "https://www.geely-auto.pt/assets/interior/1767521796-front-side-interior-1.webp"
+    }
+  ]
+}

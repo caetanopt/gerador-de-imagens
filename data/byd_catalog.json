@@ -1,0 +1,1164 @@
+{
+  "models": [
+    {
+      "modelId": "BYD0000BEVDS",
+      "modelName": "BYD DOLPHIN SURF",
+      "variants": [
+        {
+          "versionName": "Dolphin Surf Boost",
+          "price": 23394.267899999995,
+          "colors": [
+            {
+              "code": "AW",
+              "name": "Apricity White",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2719.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2719_2025-06-06-12-30-35.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2719_2025-06-06-12-30-47.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2719_2025-06-06-12-31-15.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2719_2025-06-06-12-31-28.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2719_2025-06-06-12-31-41.webp"
+              }
+            },
+            {
+              "code": "PNB",
+              "name": "Polar Night Black",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2718.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2718_2025-06-06-12-36-12.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2718_2025-06-06-12-36-48.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2718_2025-06-06-12-37-05.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2718_2025-06-06-12-37-55.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19408_idColorExt_2718_2025-06-06-12-39-30.webp"
+              }
+            }
+          ]
+        },
+        {
+          "versionName": "Dolphin Surf Comfort",
+          "price": 28224.281099999997,
+          "colors": [
+            {
+              "code": "AW",
+              "name": "Apricity White",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2719.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2719_2025-06-06-15-14-41.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2719_2025-06-06-15-14-51.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2719_2025-06-06-15-14-59.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2719_2025-06-06-15-15-11.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2719_2025-06-06-15-15-20.webp"
+              }
+            },
+            {
+              "code": "PNB",
+              "name": "Polar Night Black",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2718.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2718_2025-06-06-15-17-06.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2718_2025-06-06-15-17-13.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2718_2025-06-06-15-17-20.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2718_2025-06-06-15-17-29.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19409_idColorExt_2718_2025-06-06-15-17-37.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0004PHEVS",
+      "modelName": "BYD DOLPHIN G DM-i",
+      "variants": [
+        {
+          "versionName": "Dolphin G DM-i Boost",
+          "price": 31424.273699999998,
+          "colors": [
+            {
+              "code": "OW",
+              "name": "Oxford White",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_1_idColorExt_3447.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3447_2026-07-21-12-17-35.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3447_2026-07-21-12-17-46.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3447_2026-07-21-12-17-55.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3447_2026-07-21-12-18-05.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3447_2026-07-21-12-18-15.webp"
+              }
+            },
+            {
+              "code": "ORS",
+              "name": "Orange Sunset",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3393.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3393_2026-07-06-11-05-45.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3393_2026-07-06-11-06-02.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3393_2026-07-06-11-06-12.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3393_2026-07-06-11-06-23.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3393_2026-07-06-11-06-31.webp"
+              }
+            },
+            {
+              "code": "OCB",
+              "name": "Ocean Blue",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3392.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3392_2026-07-06-11-04-22.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3392_2026-07-06-11-04-37.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3392_2026-07-06-11-04-46.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3392_2026-07-06-11-04-57.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_3392_2026-07-06-11-05-07.webp"
+              }
+            },
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1960_2026-07-06-11-07-11.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1960_2026-07-06-11-07-06.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1960_2026-07-06-11-07-21.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1960_2026-07-06-11-07-31.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1960_2026-07-06-11-07-40.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_2775_2026-07-03-11-56-52.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_2775_2026-07-03-11-57-08.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_2775_2026-07-06-11-03-33.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_2775_2026-07-06-11-03-45.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_2775_2026-07-06-11-03-58.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1964_2026-07-06-11-08-51.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1964_2026-07-06-11-08-59.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1964_2026-07-06-11-09-13.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1964_2026-07-06-11-09-30.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23718_idColorExt_1964_2026-07-06-11-09-41.webp"
+              }
+            }
+          ]
+        },
+        {
+          "versionName": "Dolphin G DM-i Comfort",
+          "price": 33424.2783,
+          "colors": [
+            {
+              "code": "OW",
+              "name": "Oxford White",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_1_idColorExt_3447.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3447_2026-07-21-12-18-38.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3447_2026-07-21-12-18-50.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3447_2026-07-21-12-19-00.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3447_2026-07-21-12-19-10.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3447_2026-07-21-12-19-18.webp"
+              }
+            },
+            {
+              "code": "ORS",
+              "name": "Orange Sunset",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3393.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3393_2026-07-06-11-24-46.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3393_2026-07-06-11-24-58.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3393_2026-07-06-11-25-09.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3393_2026-07-06-11-25-18.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3393_2026-07-06-11-25-27.webp"
+              }
+            },
+            {
+              "code": "OCB",
+              "name": "Ocean Blue",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3392.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3392_2026-07-06-11-23-49.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3392_2026-07-06-11-24-00.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3392_2026-07-06-11-24-10.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3392_2026-07-06-11-24-20.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_3392_2026-07-06-11-24-31.webp"
+              }
+            },
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1960_2026-07-06-11-25-45.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1960_2026-07-06-11-26-00.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1960_2026-07-06-11-26-09.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1960_2026-07-06-11-26-43.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1960_2026-07-06-11-26-51.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_2775_2026-07-06-11-10-18.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_2775_2026-07-06-11-21-16.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_2775_2026-07-06-11-23-05.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_2775_2026-07-06-11-23-13.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_2775_2026-07-06-11-23-22.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1964_2026-07-06-11-28-41.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1964_2026-07-06-11-28-50.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1964_2026-07-06-11-28-58.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1964_2026-07-06-11-29-07.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23719_idColorExt_1964_2026-07-06-11-29-16.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD7004BEV1",
+      "modelName": "BYD DOLPHIN",
+      "variants": [
+        {
+          "versionName": "Dolphin Comfort",
+          "price": 33124.281299999995,
+          "colors": [
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1960_2025-09-24-15-21-50.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1960_2025-09-24-15-21-58.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1960_2025-09-24-15-22-04.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1960_2025-09-24-15-22-11.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1960_2025-09-24-15-22-17.webp"
+              }
+            },
+            {
+              "code": "ME7",
+              "name": "Atlantis Grey",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2014.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2014_2025-09-25-15-03-33.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2014_2025-09-25-15-03-45.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2014_2025-09-25-15-03-53.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2014_2025-09-25-15-04-03.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2014_2025-09-25-15-04-47.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2775_2025-09-24-15-20-55.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2775_2025-09-24-15-21-04.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2775_2025-09-24-15-21-11.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2775_2025-09-24-15-21-19.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_2775_2025-09-24-15-21-26.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 750.0047999999999,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1964_2025-09-24-15-22-30.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1964_2025-09-24-15-22-40.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1964_2025-09-24-15-22-46.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1964_2025-09-24-15-22-55.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20763_idColorExt_1964_2025-09-24-15-23-02.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0003PHEVS",
+      "modelName": "BYD ATTO 2 DM-i",
+      "variants": [
+        {
+          "versionName": "ATTO 2 DM-i Boost",
+          "price": 33274.29209999999,
+          "colors": [
+            {
+              "code": "MB",
+              "name": "Midnight blue",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3196.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_3196_2025-12-11-16-33-17.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_3196_2025-12-11-16-34-53.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_3196_2025-12-11-16-35-09.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_3196_2025-12-11-16-35-18.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_3196_2025-12-11-16-35-28.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_2775_2025-12-11-16-35-58.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_2775_2025-12-11-16-36-09.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_2775_2025-12-11-16-36-21.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_2775_2025-12-11-16-36-30.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_2775_2025-12-11-16-36-41.webp"
+              }
+            },
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1960_2025-12-11-16-37-55.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1960_2025-12-11-16-38-08.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1960_2025-12-11-16-38-27.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1960_2025-12-11-16-38-38.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1960_2025-12-11-16-38-47.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1964_2025-12-11-16-36-53.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1964_2025-12-11-16-37-08.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1964_2025-12-11-16-37-19.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1964_2025-12-11-16-37-30.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22197_idColorExt_1964_2025-12-11-16-37-43.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0000BEVA2",
+      "modelName": "BYD ATTO 2",
+      "variants": [
+        {
+          "versionName": "ATTO 2 Comfort",
+          "price": 35914.29029999999,
+          "colors": [
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1964_2025-11-25-17-14-34.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1964_2025-11-25-17-14-48.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1964_2025-11-25-17-15-00.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1964_2025-11-25-17-15-15.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1964_2025-11-25-17-15-28.webp"
+              }
+            },
+            {
+              "code": "HG",
+              "name": "Hiking Green",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2600.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2600_2025-11-25-17-08-45.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2600_2025-11-25-17-09-27.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2600_2025-11-25-17-09-41.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2600_2025-11-25-17-09-56.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2600_2025-11-25-17-10-10.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2775_2025-11-25-17-10-46.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2775_2025-11-25-17-11-11.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2775_2025-11-25-17-11-22.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2775_2025-11-25-17-11-39.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_2775_2025-11-25-17-11-53.webp"
+              }
+            },
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1960_2025-11-25-17-12-54.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1960_2025-11-25-17-13-08.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1960_2025-11-25-17-13-20.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1960_2025-11-25-17-13-45.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22113_idColorExt_1960_2025-11-25-17-14-16.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0000PHEVS",
+      "modelName": "BYD SEAL U DM-i",
+      "variants": [
+        {
+          "versionName": "SEAL U DM-i Boost",
+          "price": 39224.2818,
+          "colors": [
+            {
+              "code": "WA2",
+              "name": "Snow White",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1963.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1963_2025-03-21-17-27-06.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1963_2025-03-21-17-24-16.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1963_2025-03-21-17-24-42.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1963_2025-05-28-15-18-08.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1963_2025-05-28-15-18-44.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1964_2025-03-21-17-27-18.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1964_2025-03-21-17-25-52.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1964_2025-03-21-17-26-17.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1964_2025-05-28-15-21-00.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_1964_2025-05-28-15-21-13.webp"
+              }
+            },
+            {
+              "code": "DB",
+              "name": "Delan Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2336.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_2336_2025-03-21-17-27-00.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_2336_2025-03-21-17-23-33.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_2336_2025-03-21-17-23-55.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_2336_2025-05-28-15-17-18.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19105_idColorExt_2336_2025-05-28-15-17-27.webp"
+              }
+            }
+          ]
+        },
+        {
+          "versionName": "SEAL U DM-i Comfort",
+          "price": 41624.270099999994,
+          "colors": [
+            {
+              "code": "WA2",
+              "name": "Snow White",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1963.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1963_2025-03-21-17-35-40.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1963_2025-03-21-17-33-35.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1963_2025-03-21-17-33-59.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1963_2025-05-28-15-24-37.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1963_2025-05-28-15-24-44.webp"
+              }
+            },
+            {
+              "code": "DB",
+              "name": "Delan Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2336.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_2336_2025-03-21-17-36-48.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_2336_2025-03-21-17-36-19.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_2336_2025-03-21-17-36-39.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_2336_2025-05-28-15-24-16.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_2336_2025-05-28-15-24-23.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1964_2025-03-21-17-35-52.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1964_2025-03-21-17-35-00.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1964_2025-03-21-17-35-26.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1964_2025-05-28-15-25-44.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_19123_idColorExt_1964_2025-05-28-15-25-51.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0002PHEVS",
+      "modelName": "BYD SEAL 6 DM-i",
+      "variants": [
+        {
+          "versionName": "SEAL 6 DM-i Sedan Comfort",
+          "price": 40624.29239999999,
+          "colors": [
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2078_2025-09-04-12-47-58.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2078_2025-09-04-12-48-14.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2078_2025-09-04-12-48-49.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2078_2025-09-04-12-48-58.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2078_2025-09-04-12-49-15.webp"
+              }
+            },
+            {
+              "code": "AB",
+              "name": "Atlantis Blue",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2950.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2950_2025-09-13-11-23-06.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2950_2025-09-04-12-44-14.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2950_2025-09-04-12-46-18.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2950_2025-09-04-12-46-26.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2950_2025-09-04-12-46-34.webp"
+              }
+            },
+            {
+              "code": "ST",
+              "name": "Sandstone",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2951.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2951_2025-09-13-11-23-24.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2951_2025-09-04-12-49-40.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2951_2025-09-04-12-49-51.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2951_2025-09-04-12-50-02.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2951_2025-09-04-12-50-12.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2775_2025-09-13-11-23-12.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2775_2025-09-04-12-47-20.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2775_2025-09-04-12-47-27.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2775_2025-09-04-12-47-35.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20684_idColorExt_2775_2025-09-04-12-47-44.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0001PHEVS",
+      "modelName": "BYD SEAL 6 DM-i TOURING",
+      "variants": [
+        {
+          "versionName": "SEAL 6 DM-i Touring Comfort",
+          "price": 41624.2947,
+          "colors": [
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2078_2025-09-04-13-03-22.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2078_2025-09-04-13-03-33.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2078_2025-09-04-13-03-56.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2078_2025-09-04-13-04-05.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2078_2025-09-04-13-04-14.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2775_2025-09-13-11-24-07.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2775_2025-09-04-13-02-35.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2775_2025-09-04-13-02-43.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2775_2025-09-04-13-02-52.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2775_2025-09-04-13-03-00.webp"
+              }
+            },
+            {
+              "code": "ST",
+              "name": "Sandstone",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2951.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2951_2025-09-13-11-24-18.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2951_2025-09-04-13-05-31.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2951_2025-09-04-13-05-42.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2951_2025-09-04-13-05-50.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2951_2025-09-04-13-06-27.webp"
+              }
+            },
+            {
+              "code": "AB",
+              "name": "Atlantis Blue",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2950.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2950_2025-09-13-11-24-01.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2950_2025-09-04-13-01-49.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2950_2025-09-04-13-01-55.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2950_2025-09-04-13-02-05.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_20682_idColorExt_2950_2025-09-04-13-02-13.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD7003BEVAE",
+      "modelName": "BYD ATTO 3 EVO",
+      "variants": [
+        {
+          "versionName": "ATTO 3 EVO Design",
+          "price": 45424.2813,
+          "colors": [
+            {
+              "code": "IRB",
+              "name": "Iris Blue",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3255.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3255_2026-04-01-15-13-14.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3255_2026-04-01-15-15-05.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3255_2026-04-01-15-15-12.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3255_2026-04-01-15-15-23.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3255_2026-04-01-15-15-32.webp"
+              }
+            },
+            {
+              "code": "WAC",
+              "name": "Skiing White",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1960.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1960_2026-04-01-15-18-50.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1960_2026-04-01-15-18-59.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1960_2026-04-01-15-19-06.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1960_2026-04-01-15-19-14.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1960_2026-04-01-15-19-23.webp"
+              }
+            },
+            {
+              "code": "RR",
+              "name": "Ruby Red",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3254.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3254_2026-04-01-15-17-38.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3254_2026-04-01-15-17-48.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3254_2026-04-01-15-18-02.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3254_2026-04-01-15-18-12.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_3254_2026-04-01-15-18-20.webp"
+              }
+            },
+            {
+              "code": "AB",
+              "name": "Atlantis Blue",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2950.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2950_2026-04-01-15-11-01.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2950_2026-04-01-15-11-12.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2950_2026-04-01-15-11-45.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2950_2026-04-01-15-12-08.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2950_2026-04-01-15-12-22.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2775_2026-04-01-15-16-09.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2775_2026-04-01-15-16-24.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2775_2026-04-01-15-16-33.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2775_2026-04-01-15-16-42.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_2775_2026-04-01-15-17-21.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 850.0038,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1964_2026-04-01-15-19-43.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1964_2026-04-01-15-19-53.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1964_2026-04-01-15-20-11.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1964_2026-04-01-15-20-23.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_23141_idColorExt_1964_2026-04-01-15-20-31.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0000BEVSL",
+      "modelName": "BYD SEAL",
+      "variants": [
+        {
+          "versionName": "SEAL Design",
+          "price": 45924.2763,
+          "colors": [
+            {
+              "code": "IG",
+              "name": "Indigo Grey",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_3_idColorExt_3310.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3310_2026-03-31-12-50-28.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3310_2026-03-31-12-50-39.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3310_2026-03-31-12-50-48.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3310_2026-03-31-12-50-56.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3310_2026-03-31-12-51-06.webp"
+              }
+            },
+            {
+              "code": "RR",
+              "name": "Ruby Red",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3254.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3254_2026-03-05-15-31-20.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3254_2026-03-05-15-31-33.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3254_2026-03-05-15-31-42.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3254_2026-03-05-15-32-16.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3254_2026-03-05-15-32-28.webp"
+              }
+            },
+            {
+              "code": "LG",
+              "name": "Lavender Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3256.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3256_2026-03-05-15-27-08.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3256_2026-03-05-15-27-29.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3256_2026-03-05-15-27-40.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3256_2026-03-05-15-27-51.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_3256_2026-03-05-15-28-00.webp"
+              }
+            },
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2078_2026-03-05-15-29-46.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2078_2026-03-05-15-29-57.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2078_2026-03-05-15-30-06.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2078_2026-03-05-15-30-22.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2078_2026-03-05-15-30-34.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2775_2026-03-05-15-28-17.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2775_2026-03-05-15-28-47.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2775_2026-03-05-15-28-57.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2775_2026-03-05-15-29-10.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22769_idColorExt_2775_2026-03-05-15-29-18.webp"
+              }
+            }
+          ]
+        },
+        {
+          "versionName": "SEAL Excellence AWD",
+          "price": 50926.4895,
+          "colors": [
+            {
+              "code": "IG",
+              "name": "Indigo Grey",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_3_idColorExt_3310.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3310_2026-03-31-12-49-17.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3310_2026-03-31-12-49-25.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3310_2026-03-31-12-49-33.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3310_2026-03-31-12-49-40.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3310_2026-03-31-12-49-47.webp"
+              }
+            },
+            {
+              "code": "RR",
+              "name": "Ruby Red",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3254.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3254_2026-03-18-15-55-13.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3254_2026-03-18-15-55-29.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3254_2026-03-18-15-55-42.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3254_2026-03-18-16-02-28.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3254_2026-03-18-16-02-46.webp"
+              }
+            },
+            {
+              "code": "LG",
+              "name": "Lavender Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_3256.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3256_2026-03-18-15-50-35.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3256_2026-03-18-15-50-48.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3256_2026-03-18-15-51-43.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3256_2026-03-18-15-51-55.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_3256_2026-03-18-15-52-07.webp"
+              }
+            },
+            {
+              "code": "ME7",
+              "name": "Atlantis Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2014.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2014_2026-03-18-15-45-48.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2014_2026-03-18-15-47-27.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2014_2026-03-18-15-47-41.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2014_2026-03-18-15-47-54.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2014_2026-03-18-15-48-07.webp"
+              }
+            },
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2078_2026-03-18-15-53-41.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2078_2026-03-18-15-53-53.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2078_2026-03-18-15-54-06.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2078_2026-03-18-15-54-35.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2078_2026-03-18-15-54-46.webp"
+              }
+            },
+            {
+              "code": "OB",
+              "name": "Obsidian Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2775.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2775_2026-03-18-15-52-30.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2775_2026-03-18-15-52-43.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2775_2026-03-18-15-52-54.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2775_2026-03-18-15-53-05.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_22770_idColorExt_2775_2026-03-18-15-53-15.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD0000BEVSU",
+      "modelName": "BYD SEAL U",
+      "variants": [
+        {
+          "versionName": "SEAL U Design ",
+          "price": 45924.2763,
+          "colors": [
+            {
+              "code": "WA2",
+              "name": "Snow White",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1963.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1963_2025-02-20-16-33-41.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_1963_2025-02-14-16-20-58.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_1963_2025-02-14-16-21-05.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1963_2025-05-28-15-13-41.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1963_2025-05-28-15-13-48.webp"
+              }
+            },
+            {
+              "code": "DB",
+              "name": "Delan Black",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2336.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_2336_2025-02-20-16-32-55.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_2336_2025-02-14-16-20-41.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_2336_2025-02-14-16-20-48.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_2336_2025-05-28-15-13-19.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_2336_2025-05-28-15-13-24.webp"
+              }
+            },
+            {
+              "code": "HA4",
+              "name": "Time Grey",
+              "price": 1299.9993000000002,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1964.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1964_2025-02-20-16-34-45.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_1964_2025-02-14-16-21-33.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_17114_idColorExt_1964_2025-02-14-16-21-40.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1964_2025-05-28-15-14-25.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_17114_idColorExt_1964_2025-05-28-15-14-32.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD7000BEVS7",
+      "modelName": "BYD SEALION 7",
+      "variants": [
+        {
+          "versionName": "SEALION 7 Comfort ",
+          "price": 47174.2761,
+          "colors": [
+            {
+              "code": "IG",
+              "name": "Indigo Grey",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2080.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2080_2025-05-28-15-32-34.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2080_2025-05-28-15-32-43.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2080_2025-05-28-15-32-49.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2080_2025-05-28-15-32-57.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2080_2025-05-28-15-33-05.webp"
+              }
+            },
+            {
+              "code": "ME7",
+              "name": "Atlantis Grey",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2014.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2014_2025-05-28-15-31-47.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2014_2025-05-28-15-31-55.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2014_2025-05-28-15-32-03.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2014_2025-05-28-15-32-09.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2014_2025-05-28-15-32-15.webp"
+              }
+            },
+            {
+              "code": "00AN",
+              "name": "Space Black",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1965.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_1965_2025-05-28-15-38-17.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_1965_2025-05-28-15-39-01.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_1965_2025-05-28-15-39-11.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_1965_2025-05-28-15-39-21.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_1965_2025-05-28-15-39-32.webp"
+              }
+            },
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2078_2025-05-28-15-33-28.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2078_2025-06-06-11-52-55.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2078_2025-06-06-11-53-24.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2078_2025-06-06-11-53-35.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18982_idColorExt_2078_2025-06-06-11-53-55.webp"
+              }
+            }
+          ]
+        },
+        {
+          "versionName": "SEALION 7 Excellence AWD ",
+          "price": 56176.4862,
+          "colors": [
+            {
+              "code": "IG",
+              "name": "Indigo Grey",
+              "price": 0,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2080.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2080_2025-05-28-15-40-54.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2080_2025-05-28-15-41-07.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2080_2025-05-28-15-41-15.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2080_2025-05-28-15-41-22.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2080_2025-05-28-15-41-28.webp"
+              }
+            },
+            {
+              "code": "PW",
+              "name": "Polar White",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2078.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2078_2025-06-06-11-54-56.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2078_2025-06-06-11-58-18.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2078_2025-06-06-11-58-38.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2078_2025-06-06-11-59-27.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2078_2025-06-06-12-00-15.webp"
+              }
+            },
+            {
+              "code": "ME7",
+              "name": "Atlantis Grey",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_2014.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2014_2025-05-28-15-40-08.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2014_2025-05-28-15-40-16.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2014_2025-05-28-15-40-23.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2014_2025-05-28-15-40-33.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_2014_2025-05-28-15-40-38.webp"
+              }
+            },
+            {
+              "code": "00AN",
+              "name": "Space Black",
+              "price": 1549.9968000000001,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1965.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_1965_2025-05-28-15-42-57.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_1965_2025-05-28-15-43-06.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_1965_2025-05-28-15-43-13.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_1965_2025-05-28-15-43-20.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18984_idColorExt_1965_2025-05-28-15-43-26.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD7009BEV97",
+      "modelName": "BYD HAN",
+      "variants": [
+        {
+          "versionName": "HAN Executive",
+          "price": 58926.4956,
+          "colors": [
+            {
+              "code": "K7",
+              "name": "Emperor Red",
+              "price": 1649.9958,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1966.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_15143_idColorExt_1966_2025-02-20-16-24-09.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_15143_idColorExt_1966_2025-02-20-16-00-11.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_15143_idColorExt_1966_2025-02-20-16-00-17.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_15143_idColorExt_1966_2025-05-28-14-57-01.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_15143_idColorExt_1966_2025-05-28-14-57-08.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "BYD6490SBEVA",
+      "modelName": "BYD TANG",
+      "variants": [
+        {
+          "versionName": "TANG Flagship",
+          "price": 65786.4885,
+          "colors": [
+            {
+              "code": "WA2",
+              "name": "Snow White",
+              "price": 1850.0060999999998,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1963.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1963_2025-02-20-16-39-54.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1963_2025-02-20-14-46-57.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1963_2025-02-20-14-47-03.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1963_2025-05-28-15-29-04.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1963_2025-05-28-15-29-14.webp"
+              }
+            },
+            {
+              "code": "DN",
+              "name": "Mountain Grey",
+              "price": 1850.0060999999998,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1971.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1971_2025-02-20-16-39-43.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1971_2025-02-20-14-46-20.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1971_2025-02-20-14-46-27.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1971_2025-05-28-15-27-53.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1971_2025-05-28-15-28-22.webp"
+              }
+            },
+            {
+              "code": "A3",
+              "name": "Silver Sand Black",
+              "price": 1850.0060999999998,
+              "swatchUrl": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idPaintingType_2_idColorExt_1969.png",
+              "images": {
+                "3_4_frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1969_2025-02-20-16-39-48.webp",
+                "frente": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1969_2025-02-20-14-46-38.webp",
+                "lado": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idvc_18365_idColorExt_1969_2025-02-20-14-46-46.webp",
+                "traseira": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1969_2025-05-28-15-28-39.webp",
+                "lado_oposto": "https://cardb.byd-auto.pt/files/bdproduto_81/Version/idVersionCommercial_18365_idColorExt_1969_2025-05-28-15-28-45.webp"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
