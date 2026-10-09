@@ -1,0 +1,26 @@
+# Temporary, branch-scoped helper for the update requested on 2026-10-09.
+# No schedule, no deployment, no AWS credentials. Removed before the final PR.
+name: Temporary local update preparation
+on:
+  push:
+    branches: [atualizacao-projeto-local-2026-10-09]
+    paths: [.github/workflows/local-update-transfer.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    if: github.ref == 'refs/heads/atualizacao-projeto-local-2026-10-09'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: d071dda57eeb5198f4b0cd15612a2c6a8139796e
+          persist-credentials: false
+      - name: Archive the verified base revision
+        run: git archive --format=zip HEAD -o "$RUNNER_TEMP/base-repository.zip"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: local-update-base-d071dda
+          path: ${{ runner.temp }}/base-repository.zip
+          retention-days: 1
