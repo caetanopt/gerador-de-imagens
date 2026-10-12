@@ -1,0 +1,79 @@
+[
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv.renault.com/ImagesFromBookmarkSet?configuration=HJB%2FEA2%2FDG%2FTR4X2%2FACCLM%2FSBARTO%2FCA03%2FTN%2FHAYMAN%2FVT%2FRET03%2FRTOL17%2FDRAP25%2FHARM01%2FSGAV01%2FTENNP%2FSSFRPA%2FALAEVM%2FSOPC1C%2FEQGPL%2FVLMOU1%2FRETRJN%2FRENTC%2FLVAREI%2FKTGREP%2FSGSCHA%2FAPL03%2FRA483%2FBVM6%2FECLHB3%2FPNSTRD%2FCSRGAC%2FSANACF%2FAIRBDE%2FE06X%2FNOFCI%2FM2025%2FSAN913%2FHYB01%2FANTEN2%2FPGPRT2%2FSCDVIT%2FRCALL%2FMET04%2FNOBSD%2FTPNNP%2FTSNNP%2FITPK0%2FSSMLEX%2FSPERTA%2FDADWA%2FEV2GA2%2FNOLIE%2FNOLII%2FRRCA2%2FNOEVH&profile=1704x960_169_jpg&bookmarkSet=CONFIG_MULTISTATIC&decorDeltaAltitude=0.00&databaseId=5948710b-ff8c-4466-a7a5-984b52264330"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=3b763f09-5d91-5f18-9792-ec2051ff50f3"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=2f742667-813f-c136-d28c-9f9e556de09d"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=0e983b58-63f8-4c98-2d41-8a2e2ba28778"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=712f467b-b966-1e69-aea1-a7cdb28365d3"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=31ac6b12-258c-e2f9-758c-0b73a31ebd66"
+  },
+  {
+    "phase": "request",
+    "method": "GET",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=bce99c28-0721-db32-5f1f-3c891946457e"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv.renault.com/ImagesFromBookmarkSet?configuration=HJB%2FEA2%2FDG%2FTR4X2%2FACCLM%2FSBARTO%2FCA03%2FTN%2FHAYMAN%2FVT%2FRET03%2FRTOL17%2FDRAP25%2FHARM01%2FSGAV01%2FTENNP%2FSSFRPA%2FALAEVM%2FSOPC1C%2FEQGPL%2FVLMOU1%2FRETRJN%2FRENTC%2FLVAREI%2FKTGREP%2FSGSCHA%2FAPL03%2FRA483%2FBVM6%2FECLHB3%2FPNSTRD%2FCSRGAC%2FSANACF%2FAIRBDE%2FE06X%2FNOFCI%2FM2025%2FSAN913%2FHYB01%2FANTEN2%2FPGPRT2%2FSCDVIT%2FRCALL%2FMET04%2FNOBSD%2FTPNNP%2FTSNNP%2FITPK0%2FSSMLEX%2FSPERTA%2FDADWA%2FEV2GA2%2FNOLIE%2FNOLII%2FRRCA2%2FNOEVH&profile=1704x960_169_jpg&bookmarkSet=CONFIG_MULTISTATIC&decorDeltaAltitude=0.00&databaseId=5948710b-ff8c-4466-a7a5-984b52264330",
+    "status": 200,
+    "sample": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><frames><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=3b763f09-5d91-5f18-9792-ec2051ff50f3\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=3b763f09-5d91-5f18-9792-ec2051ff50f3\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=3b763f09-5d91-5f18-9792-ec2051ff50f3\" /><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=2f742667-813f-c136-d28c-9f9e556de09d\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=2f742667-813f-c136-d28c-9f9e556de09d\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=2f742667-813f-c136-d28c-9f9e556de09d\" /><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=0e983b58-63f8-4c98-2d41-8a2e2ba28778\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=0e983b58-63f8-4c98-2d41-8a2e2ba28778\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=0e983b58-63f8-4c98-2d41-8a2e2ba28778\" /><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=712f467b-b966-1e69-aea1-a7cdb28365d3\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=712f467b-b966-1e69-aea1-a7cdb28365d3\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=712f467b-b966-1e69-aea1-a7cdb28365d3\" /><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=31ac6b12-258c-e2f9-758c-0b73a31ebd66\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=31ac6b12-258c-e2f9-758c-0b73a31ebd66\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=31ac6b12-258c-e2f9-758c-0b73a31ebd66\" /><frame url=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=bce99c28-0721-db32-5f1f-3c891946457e\" rawUrl=\"/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=bce99c28-0721-db32-5f1f-3c891946457e\" directUrl=\"https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&amp;snapshotId=bce99c28-0721-db32-5f1f-3c891946457e\" /></frames>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=3b763f09-5d91-5f18-9792-ec2051ff50f3",
+    "status": 200,
+    "sample": "<no body>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=2f742667-813f-c136-d28c-9f9e556de09d",
+    "status": 200,
+    "sample": "<no body>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=712f467b-b966-1e69-aea1-a7cdb28365d3",
+    "status": 200,
+    "sample": "<no body>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=bce99c28-0721-db32-5f1f-3c891946457e",
+    "status": 200,
+    "sample": "<no body>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=0e983b58-63f8-4c98-2d41-8a2e2ba28778",
+    "status": 200,
+    "sample": "<no body>"
+  },
+  {
+    "phase": "response",
+    "url": "https://3dv2.renault.com/Image?databaseId=5948710b-ff8c-4466-a7a5-984b52264330&snapshotId=31ac6b12-258c-e2f9-758c-0b73a31ebd66",
+    "status": 200,
+    "sample": "<no body>"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/api/v1/features/list",
+    "sample": "{\"featureStatusList\":[{\"feature\":{\"defaultEnabled\":false,\"description\":\"Enables Ave2Cloud on Design & Equipment site, which shows 3D rendering videos.\",\"name\":\"Ave2cloud\",\"property\":\"cc.feature.ave2cloud.enabled\"},\"enabled\":true},{\"feature\":{\"defaultEnabled\":false,\"description\":\"Allow to select an option which was forbidden by an other\",\"name\":\"CCAllowForbiddenOptions\",\"property\":\"cc.feature.allowForbiddenOptions.enabled\"},\"enabled\":true},{\"feature\":{\"defaultEnabled\":false,\"description\":\"Enables the background at the modelgroup page\",\"name\":\"CCBackgroundModelgroup\",\"property\":\"cc.feature.modelgroup-background.enabled\"},\"enabled\":false},{\"feature\":{\"defaultEnabled\":false,\"description\":\"Enables creating a new ctm offer started from customer side\",\"name\":\"CCCreateCtmOffer\",\"property\":\"cc.feature.create-ctm-offer\"},\"enabled\":false},{\"feature\":{\"defaultEnabled\":false,\"description\":\"Enables the dynamic color Background Image\",\"name\":\"CCDynamicBackGround\",\"property\":\"cc.feature.dynamicBackgro"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/all-messages",
+    "sample": "{\"cc.accessibility.bullet\":\"Diapositivo {0} de {1}\",\"cc.accessibility.carousel\":\"Carrossel\",\"cc.accessibility.carousel.image\":\"Imagem {0} de {1}\",\"cc.accessories.headline\":\"Escolha os seus acessórios.\",\"cc.accessories.pictureDisclaimer\":\"As ilustrações podem mostrar outros acessórios que possam ser necessários ou materiais decorativos utilizados apenas para fins fotográficos.\",\"cc.accessories.pictureDisclaimer.AUDI\":\"As ilustrações podem mostrar outros acessórios que possam ser necessários ou materiais decorativos utilizados apenas para fins fotográficos.\",\"cc.accessories.pictureDisclaimer.LNF\":\"As ilustrações podem mostrar outros acessórios que possam ser necessários ou materiais decorativos utilizados apenas para fins fotográficos.\",\"cc.accessories.pictureDisclaimer.SEAT\":\"As ilustrações podem mostrar outros acessórios que possam ser necessários ou materiais decorativos utilizados apenas para fins fotográficos.\",\"cc.accessories.pictureDisclaimer.SKODA\":\"As ilustrações podem mostrar o"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/config/A",
+    "sample": "{\"accessoriesAllCategoryEnabled\":false,\"accessoriesAvailable\":true,\"accessoriesDisclaimerTop\":true,\"accessoriesIncludedInTotal\":false,\"accessoriesMoonCategoryCode\":\"382\",\"activateCompareLine\":true,\"adminZoneDisclaimerList\":[{\"content\":\"<p>a) VFV - Veículos e veículos em fim de vida (D.L. N.º 152-D/2017, de 11 de Dezembro)<br>\\nb) SIGBVU - Disposto sobre baterias ou acumuladores para veículos automóveis no artigo relativo a pilhas e acumuladores e resíduos de pilhas e acumuladores (D.L. N.º 152-D/2017, de 11 de Dezembro)<br>\\nc) SIGOU - Sistema Integrado de Gestão de Óleos Usados (D.L. N.º 152-D/2017, de 11 de Dezembro). Variando em função da motorização. Montante médio indicativo de 1,60 Euros<br>\\nd) SGPU - Sistema Integrado de Gestão de Pneus Usados (D.L. N.º 152-D/2017, de 11 de Dezembro)<br>\\ne) ISV - O valor do Imposto Sobre Veículos indicado não considera os opcionais selecionados e pode variar em função dos níveis de emissões de CO2 e de partículas (quando aplicável, viaturas de"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/api/v2/modelgroup?brand=A",
+    "sample": "{\"categories\":[\"Coupé\",\"SUV\",\"SUV Sportback\"],\"modelClasses\":[{\"backgroundGradient\":\"linear-gradient(0deg, #f0f425 0%, #fbfd96 100%)\",\"backgroundImageUrl\":null,\"imageUrl\":\"https://poinwiccprodstorage.blob.core.windows.net/cc-admin-images/pt/A/library/A3_31_03_01.png\",\"modelGroupCodes\":[\"B30\",\"B31\",\"B32\"],\"name\":\"A3 \",\"selectedImageUrl\":\"https://poinwiccprodstorage.blob.core.windows.net/cc-admin-images/pt/A/library/A3_31_03_01.png\",\"sortOrder\":0},{\"backgroundGradient\":\"linear-gradient(0deg, #383838 0%, #d6d6d7 100%)\",\"backgroundImageUrl\":null,\"imageUrl\":\"https://poinwiccprodstorage.blob.core.windows.net/cc-admin-images/pt/A/library/A5 B10.png\",\"modelGroupCodes\":[\"B50\",\"B51\"],\"name\":\"A5\",\"selectedImageUrl\":\"https://poinwiccprodstorage.blob.core.windows.net/cc-admin-images/pt/A/library/A5 B10.png\",\"sortOrder\":1},{\"backgroundGradient\":\"linear-gradient(0deg, #d3caca 0%, #b82e2e 100%)\",\"backgroundImageUrl\":null,\"imageUrl\":\"https://poinwiccprodstorage.blob.core.windows.net/cc-admin-images/pt/"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/wcproducts/A",
+    "sample": "{\"backendServerUrl\":null,\"debugInfoRequest\":null,\"debugInfoResponse\":null,\"defaultcode\":\"PROD_2132\",\"products\":[{\"defaultText\":null,\"defaultValue\":\"No\",\"description\":\"Auto Crédito - WebCalc 2026\",\"id\":\"PROD_2131\",\"imageUrl\":null,\"label\":\"Auto Crédito Online\",\"summaryHeaderText\":null,\"type\":\"Credit\",\"vat\":\"Gros\"},{\"defaultText\":null,\"defaultValue\":\"Yes\",\"description\":\"Renting - WebCalc 2026\",\"id\":\"PROD_2132\",\"imageUrl\":null,\"label\":\"Renting Online\",\"summaryHeaderText\":null,\"type\":\"Lease\",\"vat\":\"Gros\"}]}"
+  },
+  {
+    "type": "json",
+    "url": "https://configurador.audi.pt/cc-pt/be/pt_PT_AUDI23/wcping/A",
+    "sample": "true"
+  }
+]

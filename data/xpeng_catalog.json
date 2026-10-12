@@ -1,0 +1,625 @@
+{
+  "models": [
+    {
+      "modelName": "XPENG G6",
+      "modelCode": "FFBB123",
+      "versions": [
+        {
+          "idvc": 20969,
+          "versionName": "RWD STANDARD RANGE 68.5kWh",
+          "price": 46723.8747,
+          "colors": [
+            {
+              "code": 2475,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2475_2026-07-10-11-44-18.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2475_2026-09-01-14-37-24.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2475_2026-09-01-14-37-32.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2475_2026-09-01-14-37-39.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2475_2026-09-01-14-37-48.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_2475.png"
+            },
+            {
+              "code": 2480,
+              "name": "Silver Frost",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2480_2026-07-17-14-45-50.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2480_2026-09-01-14-54-53.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2480_2026-09-01-14-55-02.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2480_2026-09-01-14-55-09.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2480_2026-09-01-14-55-16.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2480.png"
+            },
+            {
+              "code": 2980,
+              "name": "Stellar Purple",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2980_2026-07-10-11-53-14.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2980_2026-09-01-15-00-20.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2980_2026-09-01-15-00-28.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2980_2026-09-01-15-00-35.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2980_2026-09-01-15-00-42.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2980.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2479_2026-07-10-11-54-46.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2479_2026-09-01-14-48-37.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2479_2026-09-01-14-48-46.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2479_2026-09-01-14-48-54.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2479_2026-09-01-14-49-03.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            },
+            {
+              "code": 2478,
+              "name": "Graphite Gray",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2478_2026-07-10-11-57-37.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2478_2026-09-01-14-43-27.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2478_2026-09-01-14-43-35.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2478_2026-09-01-14-43-43.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idColorExt_2478_2026-09-01-14-43-53.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2478.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "20848",
+              "name": "Light Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idInternColor_20848_2025-11-11-10-30-11.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20969_color_20848_0.webp",
+              "images": [],
+              "parents": [
+                "2480",
+                "2475",
+                "2980",
+                "2479",
+                "2478"
+              ]
+            },
+            {
+              "code": "20847",
+              "name": "Dark Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20969_idInternColor_20847_2025-11-11-10-18-29.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20969_color_20847_0.webp",
+              "images": [],
+              "parents": [
+                "2475",
+                "2980",
+                "2479",
+                "2478",
+                "2480"
+              ]
+            }
+          ]
+        },
+        {
+          "idvc": 20971,
+          "versionName": "RWD LONG RANGE 80.8kWh",
+          "price": 50575.693499999994,
+          "colors": [
+            {
+              "code": 2475,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2475_2026-08-06-11-30-49.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2475_2026-09-01-14-40-27.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2475_2026-09-01-14-40-35.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2475_2026-09-01-14-40-42.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2475_2026-09-01-14-40-50.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_2475.png"
+            },
+            {
+              "code": 2480,
+              "name": "Silver Frost",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idvc_20971_idColorExt_2480_2025-11-19-20-09-04.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2480_2026-09-01-14-56-30.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2480_2026-09-01-14-56-38.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2480_2026-09-01-14-56-45.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2480_2026-09-01-14-56-53.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2480.png"
+            },
+            {
+              "code": 2980,
+              "name": "Stellar Purple",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idvc_20971_idColorExt_2980_2025-11-19-20-09-25.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2980_2026-09-01-15-01-48.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2980_2026-09-01-15-01-56.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2980_2026-09-01-15-02-10.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2980_2026-09-01-15-02-18.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2980.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2479_2025-11-27-09-33-15.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2479_2026-09-01-14-50-14.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2479_2026-09-01-14-50-22.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2479_2026-09-01-14-50-29.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2479_2026-09-01-14-50-38.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            },
+            {
+              "code": 2478,
+              "name": "Graphite Gray",
+              "price": 900.0033000000001,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idvc_20971_idColorExt_2478_2025-11-19-20-08-20.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2478_2026-09-01-14-45-05.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2478_2026-09-01-14-45-13.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2478_2026-09-01-14-45-21.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idColorExt_2478_2026-09-01-14-45-30.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2478.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "20848",
+              "name": "Light Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idInternColor_20848_2025-11-11-10-31-34.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20971_color_20848_0.webp",
+              "images": [],
+              "parents": [
+                "2480",
+                "2475",
+                "2980",
+                "2479",
+                "2478"
+              ]
+            },
+            {
+              "code": "20847",
+              "name": "Dark Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20971_idInternColor_20847_2025-11-11-10-31-23.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20971_color_20847_0.webp",
+              "images": [],
+              "parents": [
+                "2475",
+                "2980",
+                "2479",
+                "2478",
+                "2480"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "XPENG G9",
+      "modelCode": "EECY020",
+      "versions": [
+        {
+          "idvc": 20479,
+          "versionName": "RWD STANDARD RANGE 79kWh Jante 20''",
+          "price": 61532.2875,
+          "colors": [
+            {
+              "code": 2475,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2475_2026-08-05-14-41-20.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2475_2026-09-01-15-28-48.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2475_2026-09-01-15-28-57.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2475_2026-09-01-15-29-04.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2475_2026-09-01-15-29-12.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_2475.png"
+            },
+            {
+              "code": 2478,
+              "name": "Graphite Gray",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2478_2026-08-05-14-41-42.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2478_2026-09-01-15-37-44.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2478_2026-09-01-15-37-51.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2478_2026-09-01-15-38-03.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2478_2026-09-01-15-38-11.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2478.png"
+            },
+            {
+              "code": 2480,
+              "name": "Silver Frost",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2480_2026-08-05-14-42-34.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2480_2026-09-01-15-40-26.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2480_2026-09-01-15-40-34.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2480_2026-09-01-15-40-42.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2480_2026-09-01-15-40-50.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2480.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2479_2026-08-05-14-42-04.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2479_2026-09-01-15-38-47.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2479_2026-09-01-15-38-55.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2479_2026-09-01-15-39-03.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idColorExt_2479_2026-09-01-15-39-12.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "20824",
+              "name": "Coffee",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idInternColor_20824_2025-11-13-09-59-36.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20479_color_20824_0.webp",
+              "images": [],
+              "parents": [
+                "2478",
+                "2479"
+              ]
+            },
+            {
+              "code": "20644",
+              "name": "Black",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idInternColor_20644_2025-11-13-09-59-19.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20479_color_20644_0.webp",
+              "images": [],
+              "parents": [
+                "2480",
+                "2479",
+                "2478",
+                "2475"
+              ]
+            },
+            {
+              "code": "20823",
+              "name": "Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idInternColor_20823_2025-11-13-09-59-49.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20479_color_20823_0.webp",
+              "images": [],
+              "parents": [
+                "2475",
+                "2479",
+                "2478",
+                "2480"
+              ]
+            },
+            {
+              "code": "20645",
+              "name": "Saddle",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20479_idInternColor_20645_2025-11-13-10-00-06.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20479_color_20645_0.webp",
+              "images": [],
+              "parents": [
+                "2479",
+                "2478",
+                "2480",
+                "2475"
+              ]
+            }
+          ]
+        },
+        {
+          "idvc": 20480,
+          "versionName": "RWD LONG RANGE 93.1kWh Jante 20''",
+          "price": 64486.29239999999,
+          "colors": [
+            {
+              "code": 2475,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2475_2026-08-05-16-08-41.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2475_2026-09-01-15-32-25.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2475_2026-09-01-15-32-50.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2475_2026-09-01-15-32-56.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2475_2026-09-01-15-33-04.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_2475.png"
+            },
+            {
+              "code": 2478,
+              "name": "Graphite Gray",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2478_2025-10-28-12-45-36.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2478_2026-09-01-15-37-00.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2478_2026-09-01-15-37-09.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2478_2026-09-01-15-37-16.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2478_2026-09-01-15-37-24.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2478.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2479_2025-10-28-12-45-44.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2479_2026-09-01-15-44-00.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2479_2026-09-01-15-44-12.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2479_2026-09-01-15-44-20.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2479_2026-09-01-15-44-28.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            },
+            {
+              "code": 2480,
+              "name": "Silver Frost",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2480_2025-10-28-12-45-56.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2480_2026-09-01-15-44-47.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2480_2026-09-01-15-44-55.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2480_2026-09-01-15-45-03.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idColorExt_2480_2026-09-01-15-45-11.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2480.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "20824",
+              "name": "Coffee",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idInternColor_20824_2025-11-13-10-03-36.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20480_color_20824_0.webp",
+              "images": [],
+              "parents": [
+                "2478",
+                "2475",
+                "2479"
+              ]
+            },
+            {
+              "code": "20645",
+              "name": "Saddle",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idInternColor_20645_2025-11-13-10-04-44.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20480_color_20645_0.webp",
+              "images": [],
+              "parents": [
+                "2479",
+                "2478",
+                "2475",
+                "2480"
+              ]
+            },
+            {
+              "code": "20823",
+              "name": "Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idInternColor_20823_2025-11-13-10-03-50.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20480_color_20823_0.webp",
+              "images": [],
+              "parents": [
+                "2475",
+                "2479",
+                "2478",
+                "2480"
+              ]
+            },
+            {
+              "code": "20644",
+              "name": "Black",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_20480_idInternColor_20644_2025-11-13-10-03-23.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_20480_color_20644_0.webp",
+              "images": [],
+              "parents": [
+                "2475",
+                "2479",
+                "2478",
+                "2480"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelName": "XPENG P7+",
+      "modelCode": "FJBB000",
+      "versions": [
+        {
+          "idvc": 23021,
+          "versionName": "RWD STANDARD RANGE 61.7kWh",
+          "price": 46160.5716,
+          "colors": [
+            {
+              "code": 3280,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3280_2026-08-05-15-18-48.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3280_2026-09-01-16-27-18.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3280_2026-09-01-16-27-28.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3280_2026-09-01-16-27-35.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3280_2026-09-01-16-27-43.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_3280.png"
+            },
+            {
+              "code": 3283,
+              "name": "Graphite Gray",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3283_2026-08-05-17-35-31.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3283_2026-09-01-16-28-00.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3283_2026-09-01-16-28-17.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3283_2026-09-01-16-29-42.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3283_2026-09-01-16-29-51.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_3283.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_2479_2026-08-05-15-29-55.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_2479_2026-09-01-16-30-08.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_2479_2026-09-01-16-30-17.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_2479_2026-09-01-16-30-25.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_2479_2026-09-01-16-30-35.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            },
+            {
+              "code": 3282,
+              "name": "Silver Frost",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3282_2026-08-05-15-29-34.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3282_2026-09-01-16-30-54.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3282_2026-09-01-16-31-03.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3282_2026-09-01-16-31-11.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idColorExt_3282_2026-09-01-16-31-19.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_3282.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "21032",
+              "name": "Dark Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23021_idInternColor_21032_2026-07-01-12-18-50.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_23021_color_21032_0.webp",
+              "images": [],
+              "parents": [
+                "3280",
+                "3283",
+                "2479",
+                "3282"
+              ]
+            }
+          ]
+        },
+        {
+          "idvc": 23022,
+          "versionName": "RWD LONG RANGE 74.9kWh",
+          "price": 50160.5685,
+          "colors": [
+            {
+              "code": 3280,
+              "name": "Arctic White",
+              "price": 0,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3280_2026-08-05-16-02-10.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3280_2026-09-01-16-34-35.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3280_2026-09-01-16-34-57.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3280_2026-09-01-16-35-06.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3280_2026-09-01-16-35-14.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_1_idColorExt_3280.png"
+            },
+            {
+              "code": 3283,
+              "name": "Graphite Gray",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3283_2026-08-06-09-54-25.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3283_2026-09-01-16-35-31.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3283_2026-09-01-16-35-46.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3283_2026-09-01-16-35-53.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3283_2026-09-01-16-36-03.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_3283.png"
+            },
+            {
+              "code": 2479,
+              "name": "Midnight Black",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_2479_2026-08-06-09-45-24.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_2479_2026-09-01-16-36-38.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_2479_2026-09-01-16-36-48.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_2479_2026-09-01-16-36-56.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_2479_2026-09-01-16-37-06.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_2479.png"
+            },
+            {
+              "code": 3282,
+              "name": "Silver Frost",
+              "price": 1100.0013,
+              "images": [
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3282_2026-08-06-10-23-33.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3282_2026-09-01-16-37-22.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3282_2026-09-01-16-37-30.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3282_2026-09-01-16-37-38.webp",
+                "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idColorExt_3282_2026-09-01-16-37-47.webp"
+              ],
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idPaintingType_2_idColorExt_3282.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "21032",
+              "name": "Dark Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idInternColor_21032_2026-07-01-11-48-51.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_23022_color_21032_0.webp",
+              "images": [],
+              "parents": [
+                "3280",
+                "3283",
+                "2479",
+                "3282"
+              ]
+            },
+            {
+              "code": "20848",
+              "name": "Light Gray",
+              "price": 0.0,
+              "swatchUrl": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/Version/idVersionCommercial_23022_idInternColor_20848_2026-07-01-11-48-12.webp",
+              "panorama": "https://cardb.xpeng-auto.pt/files/bdproduto_xpeng_pt/internal360/idvc_23022_color_20848_0.webp",
+              "images": [],
+              "parents": [
+                "3283",
+                "2479",
+                "3282",
+                "3280"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

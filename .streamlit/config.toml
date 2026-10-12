@@ -1,0 +1,14 @@
+[server]
+headless = true
+address = "0.0.0.0"
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#0c304d"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f3f5f8"
+textColor = "#1c2733"
+font = "Montserrat:https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap"

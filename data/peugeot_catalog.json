@@ -1,0 +1,1796 @@
+{
+  "models": [
+    {
+      "modelId": "208-5-portas",
+      "modelName": "208",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP2A5HJLKB02PJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP2A5HJLKB05YJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP2A5PJLKB0A0J0",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAQ0RFX",
+              "name": "Tecido CASUAL LOMSA com pespontos Quartz",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAQ0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP2A5TJLKB0A0J0",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAT0RFX",
+              "name": "Bancos dianteiros dinâmicos com estofos em tecido e couro sintético, pespontos verdes Adamite",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAT0RFX.png"
+            },
+            {
+              "code": "0PWN0RFX",
+              "name": "Alcantara Executive",
+              "price": 1200,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PWN0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "208-5-portas-ev",
+      "modelName": "e-208",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP2A5JESFB02PJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP2A5JESFB05YJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP2A5QESFB0A0J0",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAQ0RFX",
+              "name": "Tecido CASUAL LOMSA com pespontos Quartz",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAQ0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP2A5UZIFB0A0J0",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAT0RFX",
+              "name": "Bancos dianteiros dinâmicos com estofos em tecido e couro sintético, pespontos verdes Adamite",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAT0RFX.png"
+            },
+            {
+              "code": "0PWN0RFX",
+              "name": "Alcantara Executive",
+              "price": 1200,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PWN0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTI00000",
+          "variantName": "GTi",
+          "lcdv16": "1PP2A5WZRFB0A0J0",
+          "trimCode": "0PKA0RFJ",
+          "colors": [
+            {
+              "id": "0MM00NEQ",
+              "name": "Amarelo Águeda",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NEQ.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PKA0RFJ",
+              "name": "Interior Executive em Alcantara®",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PKA0RFJ.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "2008-suv",
+      "modelName": "2008",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP1SYHJLKB02PJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "EDITION0",
+          "variantName": "Edition",
+          "lcdv16": "1PP1SYHJLKB05YJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP1SYPJLKB0A0J0",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAQ0RFX",
+              "name": "Estofos tecido CASUAL LOMSA com pespontos Quartz",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAQ0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP1SYTJHWB0A0J0",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAT0RFX",
+              "name": "Estofos tecido BELOMKA com pespontos em verde Adamite",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAT0RFX.png"
+            },
+            {
+              "code": "0PWN0RFX",
+              "name": "Estofo em tecido Alcantara®  Mistral ICONIUM, pespontos em verde  Adamite e Tramontane",
+              "price": 1200,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PWN0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "2008-suv-ev",
+      "modelName": "e-2008",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP1SYJZIFB02PJ0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos tecido RENZO com pespontos em cor de laranja SUNRISE",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP1SYQZIFB0A0J0",
+          "trimCode": "0PAQ0RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAQ0RFX",
+              "name": "Estofos tecido CASUAL LOMSA com pespontos Quartz",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAQ0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP1SYUZIFB0A0J0",
+          "trimCode": "0PAT0RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PAT0RFX",
+              "name": "Estofos tecido BELOMKA com pespontos em verde Adamite",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PAT0RFX.png"
+            },
+            {
+              "code": "0PWN0RFX",
+              "name": "Estofo em tecido Alcantara®  Mistral ICONIUM, pespontos em verde  Adamite e Tramontane",
+              "price": 1200,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PWN0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-5-portas",
+      "modelName": "Novo 308 5 Portas",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5A5LJHWB02PH0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos em tecido Renzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP5A5PJHWB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "Estofos em TEP e tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP5A5TJHWB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "Estofos em TEP e tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "Bancos dinâmicos em Alcantara",
+              "price": 1300,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-5-portas-ev",
+      "modelName": "e-308",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5A5METFB02PH0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos em tecido Renzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP5A5QETFB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "Estofos em TEP e tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP5A5UETFB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NKH",
+              "name": "Azul Lagoa",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NKH.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "Estofos em TEP e tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "Bancos dinâmicos em Alcantara",
+              "price": 1300,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-sw",
+      "modelName": "Novo 308 SW",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5C5LJHWB02PH0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos em tecido Renzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP5C5PJHWB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "Estofos em TEP e tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP5C5TJHWB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NLD",
+              "name": "Cinzento Selenium",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NLD.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "Estofos em TEP e tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "Bancos dinâmicos em Alcantara",
+              "price": 1400,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-308-sw-ev",
+      "modelName": "e-308 SW",
+      "variants": [
+        {
+          "variantId": "STYLE___",
+          "variantName": "Style",
+          "lcdv16": "1PP5C5METFB02PH0",
+          "trimCode": "0PG90RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PG90RFX",
+              "name": "Estofos em tecido Renzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PG90RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP5C5QETFB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "Estofos em TEP e tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP5C5UETFB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "Estofos em TEP e tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "Bancos dinâmicos em Alcantara",
+              "price": 1400,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-408-5-portas",
+      "modelName": "Novo 408",
+      "variants": [
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PP6CBTJHWB05NH0",
+          "trimCode": "0PDB0RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PDB0RFX",
+              "name": "TEP / Alcantara / Tecido Fraxx Knit",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            },
+            {
+              "code": "0P4H0RFX",
+              "name": "Bancos dinâmicos em TEP",
+              "price": 1000,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0P4H0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP6CBPJHWB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "TEP & Tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP6CBTJHWB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "TEP & Tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "TEP / Alcantara / Tecido Fraxx Knit",
+              "price": 1000,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "novo-408-5-portas-ev",
+      "modelName": "e-408",
+      "variants": [
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PP6CBUZJFB05NH0",
+          "trimCode": "0PDB0RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PDB0RFX",
+              "name": "TEP / Alcantara / Tecido Fraxx Knit",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            },
+            {
+              "code": "0P4H0RFX",
+              "name": "Bancos dinâmicos em TEP",
+              "price": 1000,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0P4H0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PP6CBQZJFB0A0H0",
+          "trimCode": "0PZ70RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ70RFX",
+              "name": "TEP & Tecido Tremezzo",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ70RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PP6CBUZJFB0A0H0",
+          "trimCode": "0PZ10RFX",
+          "colors": [
+            {
+              "id": "0MM00NF9",
+              "name": "Verde Flare",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF9.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PZ10RFX",
+              "name": "TEP & Tecido Uzila",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PZ10RFX.png"
+            },
+            {
+              "code": "0PDB0RFX",
+              "name": "TEP / Alcantara / Tecido Fraxx Knit",
+              "price": 1000,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PDB0RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "3008-suv",
+      "modelName": "3008",
+      "variants": [
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PPDSYRJH7L0A0E0",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "Cinzento Titane",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PW60RFX",
+              "name": "TEP & Tecido Crispy",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PW60RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PPDSYTJH7L0A0E0",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "Cinzento Titane",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PT50RFX",
+              "name": "TEP & Tecido New Uziris",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PT50RFX.png"
+            },
+            {
+              "code": "0PX00RFX",
+              "name": "TEP e Alcantara",
+              "price": 1600,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "3008-suv-ev",
+      "modelName": "e-3008",
+      "variants": [
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PPDSYTFTFL05NE0",
+          "trimCode": "0PX00RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PX00RFX",
+              "name": "TEP e Alcantara",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            },
+            {
+              "code": "0P4H0RFX",
+              "name": "CUIR NAPPA L036 NOIR",
+              "price": 1960.01,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0P4H0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PPDSYTFTFL0A0E0",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PT50RFX",
+              "name": "TEP & Tecido New Uziris",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PT50RFX.png"
+            },
+            {
+              "code": "0PX00RFX",
+              "name": "TEP e Alcantara",
+              "price": 1600,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "5008-suv-ev",
+      "modelName": "e-5008",
+      "variants": [
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PPFSZTFTFL05NE0",
+          "trimCode": "0PX00RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PX00RFX",
+              "name": "TEP & Alcantara",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            },
+            {
+              "code": "0P4H0RFX",
+              "name": "Couro Nappa",
+              "price": 2083.2,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0P4H0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PPFSZRZDFL0A0E0",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PW60RFX",
+              "name": "TEP & Tecido Crispy",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PW60RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PPFSZTFTFL0A0E0",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PT50RFX",
+              "name": "TEP & Tecido New Uziris",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PT50RFX.png"
+            },
+            {
+              "code": "0PX00RFX",
+              "name": "TEP & Alcantara",
+              "price": 1600,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "modelId": "5008-suv",
+      "modelName": "5008",
+      "variants": [
+        {
+          "variantId": "GT_EXCLU",
+          "variantName": "GT Exclusive",
+          "lcdv16": "1PPFSZTJH7L05NE0",
+          "trimCode": "0PX00RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PX00RFX",
+              "name": "TEP & Alcantara",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            },
+            {
+              "code": "0P4H0RFX",
+              "name": "Couro Nappa",
+              "price": 2083.2,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0P4H0RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "ALLPLUS1",
+          "variantName": "Allure Plus",
+          "lcdv16": "1PPFSZRJH7L0A0E0",
+          "trimCode": "0PW60RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PW60RFX",
+              "name": "TEP & Tecido Crispy",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PW60RFX.png"
+            }
+          ]
+        },
+        {
+          "variantId": "GTPLUS01",
+          "variantName": "GT Plus",
+          "lcdv16": "1PPFSZTJH7L0A0E0",
+          "trimCode": "0PT50RFX",
+          "colors": [
+            {
+              "id": "0MM00NDP",
+              "name": "Azul Obsession",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NDP.png"
+            },
+            {
+              "id": "0MM00NF4",
+              "name": "Cinzento Artense",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NF4.png"
+            },
+            {
+              "id": "0MM00NSU",
+              "name": "Branco Okénite",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00NSU.png"
+            },
+            {
+              "id": "0MM00N7K",
+              "name": "Azul Ingaro",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N7K.png"
+            },
+            {
+              "id": "0MM00N9V",
+              "name": "Preto Perla Nera",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N9V.png"
+            },
+            {
+              "id": "0MM00N1J",
+              "name": "0MM00N1J",
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Colors/NDP/th_0MM00N1J.png"
+            }
+          ],
+          "interiors": [
+            {
+              "code": "0PT50RFX",
+              "name": "TEP & Tecido New Uziris",
+              "price": 0,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PT50RFX.png"
+            },
+            {
+              "code": "0PX00RFX",
+              "name": "TEP & Alcantara",
+              "price": 1600,
+              "swatchUrl": "https://visuel3d-secure.peugeot.com/v3dcentral/Trims/ndp/th_0PX00RFX.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

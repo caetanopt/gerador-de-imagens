@@ -1,0 +1,64 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.env.bak
+.venv/
+
+# Autenticação — dados reais de utilizadores e tokens de sessão em vivo,
+# nunca devem ir para o repositório (cada ambiente tem os seus próprios).
+data/authorized_users.json
+data/login_tokens.json
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Imagens geradas (efémeras por sessão)
+output/
+
+# Screenshots e dados de debug
+data/*.png
+data/*.html
+data/samples/
+data/peugeot_samples/
+data/*_api*.json
+data/*_api.json
+data/all_messages*.json
+data/golf_config*.png
+data/golf_exterior_page.html
+data/golf_life_summary.json
+data/vw_models_raw.json
+data/exterior_*.png
+data/exterior_page.html
+data/js_*.png
+data/js_*.html
+data/ff_*.png
+data/ms_*.png
+data/nav_*.png
+data/p_*.png
+data/pintura_*.html
+data/after_cookies.png
+data/app_screenshot.png
+data/peugeot_01_*.png
+data/peugeot_02_*.png
+data/peugeot_next_data.json
+data/peugeot_img_calls.json
+data/peugeot_p2_*.png
+data/_*.json
+
+# Scripts de exploração/investigação (não são produção)
+scraper/explore_*.py
+scraper/debug_*.py
+scraper/inspect_*.py
+scraper/probe_*.py
+scraper/capture_*.py
+scraper/extract_*.py
+scraper/load_*.py
+scraper/query_*.py
+scraper/try_*.py
+scraper/accumulate_*.py
+scraper/build_*.py
+scraper/parse_*.py
+scraper/get_stage_images.py
+scraper/_*.py
