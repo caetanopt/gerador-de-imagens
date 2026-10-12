@@ -98,19 +98,31 @@ _CUTOUT_MODEL = "isnet-general-use"
 _BBOX_MODEL = "u2net"
 _rembg_sessions: dict = {}
 _rembg_lock = threading.Lock()
+# Memória (Streamlit Cloud): com a reserva de memória do ONNX ligada e 4
+# imagens em paralelo, uma geração BMW chegava a ~4,6 GB e a app morria.
+# Sem a reserva e com uma inferência de cada vez fica <1 GB, quase à mesma
+# velocidade (o ONNX já usa todos os núcleos numa só inferência).
+_rembg_infer_lock = threading.Lock()
 
 
 def _get_rembg_session(model: str = _CUTOUT_MODEL):
     with _rembg_lock:
         if model not in _rembg_sessions:
-            from rembg import new_session
-            _rembg_sessions[model] = new_session(model)
+            import onnxruntime as ort
+            from rembg.sessions import sessions_class
+            opts = ort.SessionOptions()
+            opts.enable_cpu_mem_arena = False
+            opts.enable_mem_pattern = False
+            cls = next(c for c in sessions_class if c.name() == model)
+            _rembg_sessions[model] = cls(model, opts)
     return _rembg_sessions[model]
 
 
 def _remove_bg_rembg(img_bytes: bytes, model: str = _CUTOUT_MODEL) -> Image.Image:
     from rembg import remove
-    result = remove(img_bytes, session=_get_rembg_session(model))
+    session = _get_rembg_session(model)
+    with _rembg_infer_lock:
+        result = remove(img_bytes, session=session)
     return Image.open(io.BytesIO(result)).convert("RGBA")
 
 
